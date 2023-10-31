@@ -1,0 +1,19 @@
+version: "3.9"
+   
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NEXUS_USER=${NEXUS_USER}
+        - NEXUS_PASSWORD=${NEXUS_PASSWORD}
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/
+    env_file: 
+      - .env.basic
+      - .env
+
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"

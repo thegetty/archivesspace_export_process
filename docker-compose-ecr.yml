@@ -1,0 +1,15 @@
+version: "3.9"
+   
+services:
+  jupyter:
+    build:
+      image: 936189880821.dkr.ecr.us-west-2.amazonaws.com/getty-jupyter-notebooks:1.0
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/
+    env_file: 
+      - .env.basic
+      - .env
+
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
