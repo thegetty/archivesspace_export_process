@@ -22,7 +22,7 @@ rad-search-library==1.7.4 \
 SPARQLWrapper==1.8.* \
 atlassian-python-api==3.22.* \
 lodgatewayclient==3.2.0 \
-idmanagerclient==2.1.2 \
+idmanagerclient==2.1.3 \
 aspace_api_transform==2.6.2 \
 otmmapiclient==1.2.32 \
 tmsclient==1.0.3 \

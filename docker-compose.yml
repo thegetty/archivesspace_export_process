@@ -13,7 +13,7 @@ services:
     volumes:
       - ./notebooks:/home/jovyan/
     env_file: 
-      - .env.basic
+      - .env.base
       - .env
 
     command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
