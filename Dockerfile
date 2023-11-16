@@ -54,5 +54,7 @@ RUN wget https://github.com/hudmol/archivesspace_export_service/releases/downloa
     unzip archivesspace_export_service-v1.5.zip 
     
 
+COPY config/* archivesspace_export_service/exporter_app/config/
+
 #unzip exporter service (volume could be causing issue)
 #change user permissions
