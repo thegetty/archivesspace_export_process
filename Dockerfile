@@ -48,5 +48,11 @@ archesapiclient==1.1.9 && \
     fix-permissions "${CONDA_DIR}" && \
     fix-permissions "/home/${NB_USER}"
 
+WORKDIR /home/jovyan
+
+RUN wget https://github.com/hudmol/archivesspace_export_service/releases/download/1.5/archivesspace_export_service-v1.5.zip && \
+    unzip archivesspace_export_service-v1.5.zip 
+    
+
 #unzip exporter service (volume could be causing issue)
 #change user permissions
