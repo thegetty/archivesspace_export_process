@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA10016</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Getty Conservation Institute, Field Projects Division, RecorDIM project records</titleproper>
+            <titleproper>Finding Aid for the RecorDIM Project Records of the Getty Conservation Institute Field Projects Division, 1994-2009, undated <num>IA10016</num>
+            </titleproper>
+            <author>Nancy Enneking</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2007 </date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-06-21 14:56:41 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>RecorDIM project records</unittitle>
+         <origination label="Creator">
+            <corpname role="cre" rules="rda">Getty Conservation Institute. Field Projects Division</corpname>
+         </origination>
+         <origination label="Creator">
+            <corpname authfilenumber="n85059259" role="ctb" source="naf">J. Paul Getty Trust</corpname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="nr2002045348"
+                      role="ctb"
+                      rules="aacr"
+                      source="naf">LeBlanc, François, 1946-</persname>
+         </origination>
+         <origination label="Creator">
+            <persname role="ctb" source="local">Gray, Christopher</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n2007056380"
+                      role="ctb"
+                      rules="aacr"
+                      source="naf">Letellier, Robin</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n2008044398"
+                      role="ctb"
+                      rules="aacr"
+                      source="naf">Eppich, Rand</persname>
+         </origination>
+         <unitid>IA10016</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">5.58 Linear Feet</extent>
+            <extent altrender="carrier">(10 boxes, including 7 audiocassettes)</extent>
+         </physdesc>
+         <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">18.91 GB</extent>
+            <extent altrender="carrier">(21,558 files)</extent>
+         </physdesc>
+         <unitdate datechar="creation" normal="1994/2009" type="inclusive">1994-2009, </unitdate>
+         <unitdate certainty="inferred"
+                   datechar="creation"
+                   normal="1994/2009"
+                   type="inclusive">undated</unitdate>
+         <physloc id="aspace_80e8a98a028b0aca353d9643d476910f">To access physical materials at the Getty, go to the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/cat787915"
+                    xlink:show="new">library catalog record</extref> for this collection and click "Request an Item." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, some of the records may be stored off site; advanced notice is required for access to these materials.</physloc>
+         <abstract id="aspace_b66d73236c64c051f6e8a8b5cf092211">Records comprise reports, meeting materials and handouts, correspondence and memoranda, budgets, contracts, publication development and design material, images, audiocassettes, and ARIS workshop materials, dating 1994-2009 and undated, created and maintained by the Field Projects Division of the Getty Conservation Institute. The materials concern the development, operation, and results of Field Projects' Recording, Documentation, and Information Management (RecorDIM) Initiative. Some of the planning, publication, and ARIS workshop materials are in digital form, consisting of text, database, PowerPoint, image, website, and CAD files. The majority of the records were authored by project director and Field Projects Head, François LeBlanc, and by consultant Robin Letellier. Some of the files were also maintained by Christopher Gray, a senior project specialist in Field Projects, and Rand Eppich, project specialist and manager of the Institute's Digital Lab.</abstract>
+         <langmaterial>
+            <language langcode="eng">English</language>
+.    </langmaterial>
+      </did>
+      <relatedmaterial id="aspace_8c49a76957abbffc015a510ddc8805ca">
+         <head>Related Materials Note</head>
+         <p>
+            <emph render="italic">The following materials are offered as possible sources of further information on the people, programs, and subjects covered by the records. The listing is not exhaustive. </emph>
+         </p>
+         <p>
+            <emph render="bold">Publications</emph>
+         </p>
+         <p>
+            <bibref>Eppich, Rand, and Amel Chabbi, eds. 2007. <title>
+                  <emph render="italic">Recording, Documentation and Information Management for the Conservation of Heritage Places: Illustrated Examples.</emph>
+               </title> Los Angeles, CA: Getty Conservation Institute. http://hdl.handle.net/10020/gci_pubs/recordim_vol2 </bibref>
+         </p>
+         <p>
+            <bibref>Letellier, Robin, Werner Schmid, and François LeBlanc. 2007. &gt;<title>
+                  <emph render="italic">Recording, Documentation, and Information Management for the Conservation of Heritage Places: Guiding Principles. </emph>
+               </title> Los Angeles, CA: Getty Conservation Institute. http://hdl.handle.net/10020/gci_pubs/recordim </bibref>
+         </p>
+         <p>
+            <bibref>Letellier, Robin and Christopher Gray. 2002. <title>
+                  <emph render="italic">Bridging the gap between information users and information providers [electronic resource] : Recording, Documentation and Information Management (RecorDIM) Initiative : report of Roundtable 1, Los Angeles, California, March 4-5, 2002 </emph>
+               </title>. Los Angeles, CA : Getty Conservation Institute. [Getty Internet Access, NA2728 .B75]</bibref>
+         </p>
+         <p>Additional RecorDIM project publications can be accessed at http://www.getty.edu/conservation/our_projects/field_projects/recordim/recordim_publications.html.</p>  
+      </relatedmaterial>
+      <appraisal id="aspace_f61510343d1fc8f50144b24c0467ba7c">
+         <head>Appraisal</head>
+         <p>Projects of the Conservation Institute's Field Projects Division are considered archival, documenting work and research done on international cultural heritage sites and issues. In accordance with internal Field Projects procedures, the project manager of each field project will select and prepare for transfer to the Institutional Archives the project documentation required to ensure that future researchers and conservators will understand past work done on each site and to provide a foundation for future work.</p>  
+      </appraisal>
+      <altformavail id="aspace_fadefdfa10d9450ed036b8a0361bbdf3">
+         <head>Alternate Form Available</head>
+         <p>Electronic versions of some of these documents may still be stored in the originating department.</p>  
+      </altformavail>
+      <processinfo id="aspace_7197896f661a904ab76d83200e7f0d20">
+         <head>Processing History</head>
+         <p>The records were refoldered, rehoused, and described in this finding aid by Nancy Enneking in <date calendar="gregorian" era="ce">October 2007.</date>
+         </p>
+         <p>Lorain Wang integrated materials from accession 2018.IA.27 and 2019.IA.20, processed the optical discs in the collection, and revised the finding aid in 2018 and 2019. As part of processing the CDs, files were copied off most of the discs and unique identifiers were assigned to each set of digital files. With the exception of those with custom labeling and inserts, the CDs were removed from the collection.</p>  
+      </processinfo>
+      <acqinfo id="aspace_6ee9c6b898761cefa48675ca5b49580b">
+         <head>Acquisition Information</head>
+         <p>Accessions 2007.IA.38, 2018.IA.27, and 2019.IA.20 were transferred by Field Projects, Getty Conservation Institute.</p>  
+      </acqinfo>
+      <prefercite id="aspace_cef12e9ae38dac49684150354e503bc5">
+         <head>Preferred Citation</head>
+         <p>[Cite the item and series (as appropriate)], RecorDIM project records 1994-2009, undated, Getty Conservation Institute. Institutional Records and Archives, Getty Research Institute, Los Angeles, IA10016.</p>
+         <p>http://hdl.handle.net/10020/cifaia10016</p>  
+      </prefercite>
+      <phystech id="aspace_e538caae97379a389bf6d242884afb7a">
+         <head>Technical Requirements</head>
+         <p>Access to digital content in 2007.IA.38, 2018.IA.27, and 2019.IA.20 is only available on-site. </p>
+         <p>Please note that we may not be able to provide access to all file formats due to lack of required software and/or system specifications. For more information, contact <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/askref"
+                    xlink:show="new">Library Reference</extref> at the Getty Research Institute.</p>  
+      </phystech>
+      <userestrict id="aspace_0732d86ea97103cc01088df4c7c952d9">
+         <head>Restrictions on Use</head>
+         <p>Contact <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/rights_repro"
+                    xlink:show="new">  Rights and Reproductions </extref> at the Getty Research Institute for copyright information and permission to publish.</p>
+         <p>Access copies of audiocassettes must be created prior to use. To request access, fill out the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/askref"
+                    xlink:show="new">reference form</extref> with the audiocassettes and finding aid number IA10016. Please note reformatting may take up to eight weeks. </p>  
+      </userestrict>
+      <accessrestrict id="aspace_64a5c59ed558f8051518e7e22bf45933">
+         <head>Access Restrictions</head>
+         <p>With the exception of materials that have been marked restricted or confidential, the records described in accession 2007.IA.38, 2018.IA.27, and 2019.IA.20 are available for use by qualified researchers.  <emph render="bold">Please note: selected restricted materials must be removed from boxes prior to access by researchers. </emph> 
+         </p>
+         <p>The following records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>
+         <p>Access to digital content in the collection is only available on Getty networked computers and in the Special Collections Reading Room.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_23f47cc7f299e8104f9393283a8793e7">
+         <head>Scope and Content of Collection</head>
+         <p>Records comprise reports, meeting materials and handouts, correspondence and memoranda, budgets, contracts, publication development and design material, images, audiocassettes, and ARIS workshop materials, dating 1994-2009 and undated, created and maintained by the Field Projects Division of the Getty Conservation Institute. The materials concern the development, operation, and results of Field Projects' Recording, Documentation, and Information Management (RecorDIM) Initiative. Some of the planning, publication, and ARIS workshop materials are in digital form, consisting of text, database, PowerPoint, image, website, and CAD files. The majority of the records were authored by project director and Field Projects Head, François LeBlanc, and by consultant Robin Letellier. Some of the files were also maintained by Christopher Gray, a senior project specialist in Field Projects, and Rand Eppich, project specialist and manager of the Institute's Digital Lab.</p>  
+      </scopecontent>
+      <arrangement id="aspace_62efc7a2e8fa175ec1c0248aef834347">
+         <head>Arrangement</head>
+         <p>These records are arranged into components in accordance with the GCI Field Projects project management system. Records are arranged in the following categories: Administration, Bibliographies, Component 1 - International Coordination, Component 2 - Publication - Guiding Principles, Component 3 - Publication - Illustrated Examples, Component 4 - Website, Component 5 - Training, Component 6 - Publication - Metric Survey, Component 7 - Monitoring and Evaluation, Manuals and Standards, Reports, and Visuals.</p>  
+      </arrangement>
+      <bioghist id="aspace_3522851a7b90e5a1ff73f55028baaafc">
+         <head>Administrative History</head>
+         <p>The Getty Conservation Institute (GCI), a part of the J. Paul Getty Trust, was initially planned in 1982 and began full operation in 1985. Since its inception, the GCI has engaged in a program of scientific research, educational activities, documentation, and the dissemination of information through publications, conferences, workshops, and public programs that include research opportunities for professionals and public lectures. In addition, the Institute has conducted international field projects in Asia, Africa, North and South America, and Europe. The GCI's endeavors are designed to serve the needs of the conservation profession by undertaking work that tackles broad practical or theoretical questions of significance to the conservation field. The Institute develops and refines tools for conservation and shares its expertise with institutions and organizations worldwide so that its efforts have the greatest possible benefit to the practice of conservation.</p>
+         <p>As a part of its mission, the GCI undertakes conservation projects in partnership in various parts of the world. For the purpose of bringing together information users and providers in the field of heritage conservation, one of these projects was with the International Center for the Study of the Preservation and the Restoration of Cultural Property (ICCROM) and the International Scientific Committee for Documentation of Cultural Heritage (CIPA), a committee of the International Council of Monuments and Sites (ICOMOS) and the International Society for Photogrammetry and Remote Sensing (ISPRS). The project, known as the Recording, Documentation and Information Management (RecorDIM) Initiative, was intended to explore ways for the GCI to contribute in partnership to raise the level of conservation practice through more effective and improved use of recording, documentation, and information management as a strategic component for the conservation of monuments and sites. The Initiative had its genesis in 1995 when, under the guidance of Robin Letellier, CIPA assembled outreach workshops after its general meetings. The workshop groups found that gaps existed between the users and providers of information for built cultural heritage projects. To identify the gaps and to find strategic ways to fill them, the concept of "Bridging the Gap" was introduced by the GCI in 2000. By 2002 this had become the RecorDIM Initiative, which started with a roundtable held at the Getty Center identifying twenty-five gaps between the information users and providers. </p>
+         <p>The GCI intended, with the help of partners, to focus on the following: the publication of a manual on Principles and Guidelines for the recording, documentation, and information management of built cultural heritage; the publication of a handbook on the same subject; and the creation and support of a web presence. The program was later expanded to include training initiatives, which were carried out through Architectural Records, Inventories, and Information Systems for Conservation (ARIS) courses, initially organized by ICCROM and later co-sponsored by the GCI.  </p>
+         <p>The group of core collaborators included CIPA, English Heritage, Public Works and Government Services Canada, World Monument Fund, ICOMOS, and the GCI. To accomplish the work 20 international task groups were formed to focus on specific needs and five roundtable meetings were held at various international venues. As part of the training component, four ARIS courses were held in Rome from 2005 to 2009 on documentation methodologies and tools, providing training to 59 mid-career professionals from over 46 countries.</p>
+         <p>The Initiative lasted from 2002 through 2007 and the project was managed by, first, Field Project staff member Christopher Gray and then by department head François LeBlanc. Robin Letellier was hired as a consultant to coordinate the Initiative at the international level. Rand Eppich, project specialist and manager of the GCI's Digital Lab, was also a member of the project team and led the ARIS courses.</p>  
+      </bioghist>
+      <controlaccess>
+         <subject source="lcsh">Historic sites -- Conservation and restoration -- Data processing</subject>
+         <subject source="lcsh">Information technology -- Management</subject>
+         <genreform source="aat">Drafts (documents)</genreform>
+         <subject source="lcsh">Information storage and retrieval systems -- Architecture</subject>
+         <subject source="lcsh">Photogrammetry in architecture</subject>
+         <genreform source="aat">Correspondence</genreform>
+         <genreform source="aat">Reports</genreform>
+         <subject source="lcsh">Knowledge management</subject>
+         <genreform authfilenumber="300215302" source="aat">Digital images</genreform>
+         <genreform source="aat">Budgets</genreform>
+         <subject source="lcsh">Monuments -- Recording</subject>
+         <genreform authfilenumber="300266679" source="aat">Electronic documents</genreform>
+         <corpname authfilenumber="n87832204" rules="aacr" source="naf">International Committee of Architectural Photogrammetry</corpname>
+         <corpname authfilenumber="n80115554" source="naf">International Council of Monuments and Sites</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref30_67c" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Administration</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref31_83f" level="file">
+               <did>
+                  <unittitle>Agreements</unittitle>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_b5985b8e12c2874f3b79033ee3a9b151"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 6</container>
+               </did>
+               <accessrestrict id="aspace_1c7bf2b5fc44b6aab797891da6488f6b">
+                  <head>Access Restrictions</head>
+                  <p>
+                     <emph render="bold">Access to agreements is limited to GCI and Trust Administration staff.</emph>
+                  </p>
+               </accessrestrict>
+               <c03 id="aspace_ref34_jzn" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2001/2002" type="inclusive">FY 2002</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_ce7870b942b19f5a70950021b6bd53a1"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_5wk" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2002/2003" type="inclusive">FY 2003</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_6ea3ef0ae9a11d50a2b5643e66f99016"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_pc5" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2003/2004" type="inclusive">FY 2004</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_25b7e4ad3e979a25fc060672d1c553f0"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_46o" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2004/2005" type="inclusive">FY 2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_dde124334257692650a2c4eb31c064e5"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_w7o" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2005/2008" type="inclusive">FY 2006-FY 2007</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_5acb2bda31ccfc1903cab6149df8c58a"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref39_0ng" level="file">
+               <did>
+                  <unittitle>Budgets</unittitle>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_948b69f6ab406d743e09f9a4e5314159"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 6</container>
+               </did>
+               <accessrestrict id="aspace_01fd59c76fea88874eb535da3eeadae8">
+                  <head>Access Restrictions</head>
+                  <p>
+                     <emph render="bold">Access to budgets is limited to GCI and Trust Administration staff.</emph>
+                  </p>
+               </accessrestrict>
+               <c03 id="aspace_ref42_ho8" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2001/2002" type="inclusive">FY 2002</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_682fb7094688a41c4a46fc748e16568d"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_5fn" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2002/2003" type="inclusive">FY 2003</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_30371944a5af75f9e49f79c483c7238a"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_37c" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2003/2004" type="inclusive">FY 2004</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_7be2d3d49ed923232249b9ad694e471e"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_18u" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2004/2005" type="inclusive">FY 2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_92bfb836914dfae59bde3a4d1cbd345a"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_q3h" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">FY 2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_434b5dee975bf018715aed33697f9d54"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_kx0" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2006/2007" type="inclusive">FY 2007</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_c51c4f5f2c0b9d5dc7968f3b0049a3ef"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_ncp" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="2007/2008" type="inclusive">FY 2008</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_b81dc1ae9d6982a87b48818dfcdd847e"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 6</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref49_i1n" level="file">
+               <did>
+                  <unittitle>Contacts,</unittitle>
+                  <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f3abcfbc78b2284335cb323a69b0d636"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_va8" level="file">
+               <did>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998, </unitdate>
+                  <unitdate datechar="creation" normal="2002/2005" type="inclusive">2002-2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e7022fa89038ecb397b3fd63c42949f2"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_ap1" level="file">
+               <did>
+                  <unittitle>Getty Conservation Institute filing procedures,</unittitle>
+                  <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_02c9424e4da16fed1c70733166808f71"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+               <scopecontent id="aspace_9cc47da42db2e717ac42994f705cdc91">
+                  <head>Scope and Contents</head>
+                  <p>Drafts and notes for Christopher Gray's documentation protocol document.</p>
+               </scopecontent>
+               <processinfo id="aspace_20881ba863b5cc5c4e1ec0fc020d5000">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_b01i01. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_aa6a818477aece987f5f9663015885d3">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref52_fii" level="file">
+               <did>
+                  <unittitle>Permissions [includes copyright permissions for the Guiding Principles publication],</unittitle>
+                  <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_331808eafd00753f61ffd613914e2640"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_xd2" level="file">
+               <did>
+                  <unittitle>Planning documents,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9beeec88c932a156b9fcad8ed03bb1aa"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref54_1t1" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Bibliographies</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref55_rhp" level="file">
+               <did>
+                  <unittitle>Bibliographies [includes remote monitoring of World Heritage Sites bibliography and Guiding Principles publication bibliography],</unittitle>
+                  <unitdate datechar="creation" normal="1994/1994">1994, </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1994/2009"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_521eae51bb0a6c86655d84827a3accf6"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref56_r5d" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Component 1 – International Coordination</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref57_1vd" level="file">
+               <did>
+                  <unittitle>Partners meeting, Ottawa, Canada,</unittitle>
+                  <unitdate datechar="creation" normal="2007-06-11/2007-06-13" type="inclusive">June 11-13, 2007</unitdate>
+                  <physdesc id="aspace_1b0d5a55f1810b46343a64eabe791ec0" label="Container Summary">[2 folders]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4760332b22493c1c3af161ba5514402e"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_906" level="file">
+               <did>
+                  <unittitle>Partners meeting, Rome, Italy,</unittitle>
+                  <unitdate datechar="creation" normal="2006-05-14/2006-05-16" type="inclusive">May 14-16, 2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9597b5e9da2196ae7b9afccb6744c200"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_vl9" level="file">
+               <did>
+                  <unittitle>Partners meeting, Xi'an, China,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_565ae525ed15805481ee72cb361b5e0f"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_t3w" level="file">
+               <did>
+                  <unittitle>Partners meeting, Paris, France,</unittitle>
+                  <unitdate datechar="creation" normal="2005-05-08/2005-05-10" type="inclusive">May 8-10, 2005</unitdate>
+                  <physdesc id="aspace_a9f7c81f0fc107d2791f6b9ad3601962" label="Container Summary">[3 folders]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_bd6fc0cdc16654c88e756b89cef7b2b9"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_33x" level="file">
+               <did>
+                  <unittitle>Roundtable meeting, Torino, Italy,</unittitle>
+                  <unitdate datechar="creation" normal="2005-09-27/2005-10-01" type="inclusive">September 27-October 1, 2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_937743546bb8377719e9cb1d76beb01e"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_f7s" level="file">
+               <did>
+                  <unittitle>Meeting with Werner Schmid, Los Angeles, California,</unittitle>
+                  <unitdate datechar="creation" normal="2004-04-02/2004-04-08" type="inclusive">April 2-8, 2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_eda690cd6891a22df5e5c6156e1f2549"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_qom" level="file">
+               <did>
+                  <unittitle>Partners meeting, Leuven, Belgium,</unittitle>
+                  <unitdate datechar="creation" normal="2004-04-23/2004-04-25" type="inclusive">April 23-25, 2004</unitdate>
+                  <physdesc id="aspace_14cfbba5c12d85176219e48f88f4831e" label="Container Summary">[5 folders]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_ea361fb3b800e617974e272e3851478f"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_4mo" level="file">
+               <did>
+                  <unittitle>Roundtable meeting, Istanbul, Turkey,</unittitle>
+                  <unitdate datechar="creation" normal="2004-07-18/2004-07-18">July 18, 2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_556305152d03fe980c53847862e8e59a"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_dmk" level="file">
+               <did>
+                  <unittitle>Roundtable meeting, Antalya, Turkey,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_80140144aa5f04c78cba8f4a65d2ff1c"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_7hl" level="file">
+               <did>
+                  <unittitle>Partners meeting, Vienna, Austria,</unittitle>
+                  <unitdate datechar="creation" normal="2003-03/2003-03">March 2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_ffc52ac3109eb3ffff694bab9f40559e"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref67_l73" level="file">
+               <did>
+                  <unittitle>Roundtable meeting, Sevilla, Spain,</unittitle>
+                  <unitdate datechar="creation" normal="2002-11/2002-11">November 2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_c5347641e1038d2cfa5ca45ac72bc899"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref68_ply" level="file">
+               <did>
+                  <unittitle>Partners meeting, London, England,</unittitle>
+                  <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_978ad50fde746ec479040ec2ac788510"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_3br" level="file">
+               <did>
+                  <unittitle>Roundtable meeting, Madrid, Spain,</unittitle>
+                  <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_011deb806b76c2cb88ee04253db4820d"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref70_x3r" level="file">
+               <did>
+                  <unittitle>Roundtable meeting, Los Angeles, California,</unittitle>
+                  <unitdate datechar="creation" normal="2002-03/2002-03">March 2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9443a60c01c08e5f243e6b8bcde32f34"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref71_ci3" level="file">
+               <did>
+                  <unittitle>Documentation strategy development documents,</unittitle>
+                  <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_fc326fa91f44dd744700c28367590c4c"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref72_7vp" level="file">
+               <did>
+                  <unittitle>Documentation strategy correspondence,</unittitle>
+                  <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997-1999</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0345f6ea8ab981a79c4ebbf6bab07d12"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref73_akc" level="file">
+               <did>
+                  <unittitle>Task Groups</unittitle>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_893bbeabc897a19fdb3d831ad5576c8a"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+               <c03 id="aspace_ref74_v3u" level="file">
+                  <did>
+                     <unittitle>Decision making tool,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_11e5f3e4c2bc509ba20c2e0b821d4007"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref75_j1f" level="file">
+                  <did>
+                     <unittitle>Getty Conservation Institute,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_836f5bdd2cf070d265d778cdc4fb3715"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref76_y0d" level="file">
+                  <did>
+                     <unittitle>General,</unittitle>
+                     <unitdate datechar="creation" normal="2002/2004" type="inclusive">2002-2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_a61e45c9d275c2b282ebfd1a4fc69034"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref77_pbu" level="file">
+                  <did>
+                     <unittitle>Glossary of submerged heritage,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_09ba936691d58a42c0be003c1c27e4af"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref78_3oj" level="file">
+                  <did>
+                     <unittitle>International Committee on the Underwater Cultural Heritage,</unittitle>
+                     <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_809c728d877637b377090d53bdb9f7b8"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_dhz" level="file">
+                  <did>
+                     <unittitle>Information warehouse,</unittitle>
+                     <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_86ccbfd38b6ee17096de26a04c3a8883"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_zxt" level="file">
+                  <did>
+                     <unittitle>Integrating heritage recording into property management,</unittitle>
+                     <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_6c293ede44b8e701ee621f74e72e80ac"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_660" level="file">
+                  <did>
+                     <unittitle>Low cost digital recording,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9c4633da856af454b36efc8175ac7c0c"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_8mw" level="file">
+                  <did>
+                     <unittitle>Metric survey skills,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_58bff5a9ce3c448b52e267babc901fb9"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_4w6" level="file">
+                  <did>
+                     <unittitle>Monitoring world heritage,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_bbbdaba0ec0570d746b46861f415bb12"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_63k" level="file">
+                  <did>
+                     <unittitle>Persian Heritage Archives,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5de39cd8b0e39745e727f36d565a91a6"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_7zv" level="file">
+                  <did>
+                     <unittitle>Rock art science,</unittitle>
+                     <unitdate datechar="creation" normal="2007/2007">2007, </unitdate>
+                     <unitdate certainty="inferred"
+                               datechar="creation"
+                               normal="1994/2009"
+                               type="inclusive">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_2cc590e166ab2c5e166ea1160e092212"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_c4g" level="file">
+                  <did>
+                     <unittitle>Stereo views,</unittitle>
+                     <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_877ebe06b851ece2cc066cf94b250ce8"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_egr" level="file">
+                  <did>
+                     <unittitle>Tabulation of technologies,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9dc4e1dd8c46f86c78977ff9835fafca"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_8231112e888214375a057a7c1828c2bf" level="file">
+                  <did>
+                     <unittitle>[Task groups mid-term status summaries for Torino and Xi'an],</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - Tall Legal "
+                                id="aspace_3fb398e12182b657ecb8c11ecf057df3"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-01</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_34a4bba27ca126d7f399779e784ef462" level="file">
+               <did>
+                  <unittitle>[Christopher Gray's electronic documentation strategy files],</unittitle>
+                  <unitdate datechar="creation" normal="1997/2002" type="inclusive">1997-2002</unitdate>
+               </did>
+               <processinfo id="aspace_3a77c1422ef9ee40d219756017ed1099">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD, which was assigned accession 2019.IA.20. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_3d53872895dd519e7b7524b316e368bb">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2019.IA.20 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  <p>Access to letters of agreement in the set of files is limited to GCI and Trust Administration staff.</p>
+               </accessrestrict>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref88_df6" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Component 2 – Publication – Guiding Principles</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref89_k1g" level="file">
+               <did>
+                  <unittitle>Letellier manuscript for ICCROM [International Center for the Study of the Preservation and the Restoration of Cultural Property] – "Recording, Documentation, and Information Management for World Cultural Heritage Sites,"</unittitle>
+                  <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_44c8b60499886f8b4e432617875e1128"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref90_gss" level="file">
+               <did>
+                  <unittitle>Letellier manuscript for ICCROM – first revision,</unittitle>
+                  <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_cdb81f8cb56c69fb81e1f0a5614394ed"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref91_x4t" level="file">
+               <did>
+                  <unittitle>Principles and Guidelines workshop, Los Angeles, California,</unittitle>
+                  <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_2db2bee6ddf1e4a5fec2394bf008767a"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref92_axm" level="file">
+               <did>
+                  <unittitle>Publication proposal,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9abb2f93df321d611d6a892bfa35546a"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref93_7z7" level="file">
+               <did>
+                  <unittitle>Principles and Guidelines,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_8c347d8fcccca2ba13d50ab6aff83b10"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref94_obl" level="file">
+               <did>
+                  <unittitle>Guiding Principles first draft design,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_df0a2ffe74a5674c06aaa3e9799a340f"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref95_fdj" level="file">
+               <did>
+                  <unittitle>Comments on draft,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_916608fbb4e74969d5de61ec755232c2"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref96_pgx" level="file">
+               <did>
+                  <unittitle>Principles and Guidelines, editorial review board notes,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_889a5d5d4baccb5a79d11709bd06d750"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref97_q23" level="file">
+               <did>
+                  <unittitle>Guiding Principles Final Design by Joe Molloy,</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a37fb52deaa11b3faebe9d5c7f7c26f6"
+                             label="Computer Disks"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+               <scopecontent id="aspace_4aa9eb83886861ac924f5bc545bc8220">
+                  <head>Scope and Contents</head>
+                  <p>PDF on CD of publication (not final version).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref98_qxm" level="file">
+               <did>
+                  <unittitle>Printing,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005, </unitdate>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e23a2c6c10b0ff0ed5ea61cc9baeb2a3"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref99_qw7" level="file">
+               <did>
+                  <unittitle>Guiding Principles publication comments,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_191fef5c5e2fbf9c6c6639ed91380bed"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref100_7iu" level="file">
+               <did>
+                  <unittitle>Guiding Principles publication, draft feedback,</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_389dc105b571ca2dab3576a5ec6f2e6f"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref101_cai" level="file">
+               <did>
+                  <unittitle>Abstracts by François LeBlanc,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1994/2009"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e61c7400e51845edd540f490cbdde632"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_27909b636353828f74bdc32518fd94d5" level="file">
+               <did>
+                  <unittitle>Guidelines and Handbook workshop, Los Angeles,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <physdesc id="aspace_f0cb48203cd5796ac2370490f6bd9c95">(2 folders)</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_2f448fd41db91281f9177efd925ae546"
+                             label="Mixed Materials"
+                             type="box">2018.IA.27-02</container>
+               </did>
+            </c02>
+            <c02 id="aspace_71b57268b6c32149b94e5fd9344fa864" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Recording, Documentation, and Information Management for the Conservation of Heritage Places: Guiding Principles</emph>,</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <physdesc id="aspace_525334178d3c74faa755ef71675ec8ee">(2 copies)</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_3f17e8b16e386281605f158f718fb65c"
+                             label="Mixed Materials"
+                             type="box">2018.IA.27-02</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref102_f4e" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Component 3 – Publication – Illustrated Examples</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ff8101dc38f29df8bd21117fb41bf8aa" level="file">
+               <did>
+                  <unittitle>Contributors:</unittitle>
+               </did>
+               <scopecontent id="aspace_320264e9fae4334bcad48361b8d4ba95">
+                  <head>Scope and Contents</head>
+                  <p>Files contain copies of agreements, some of which are signed; correspondence; cassette recordings of phone interviews with contributors regarding their documentation process; and notes on the interviews.</p>
+               </scopecontent>
+               <accessrestrict id="aspace_809927fd1597b27b35c7d07a56055a8f">
+                  <head>Access Restrictions</head>
+                  <p>Access to agreements is limited to GCI and Trust Administration staff.</p>
+               </accessrestrict>
+               <userestrict id="aspace_5b773586cb42f38653c322c368f0408a">
+                  <head>Conditions Governing Use</head>
+                  <p>Access copies of audiocassettes must be created prior to use. To request access, fill out the <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">reference form</extref> with the audiocassette description and finding aid number IA10016. Please note reformatting may take up to eight weeks. </p>
+                  <p>Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/rights_repro"
+                             xlink:show="new">Library Rights and Reproductions</extref> at the Getty Research Institute for copyright information and permission to publish.</p>
+               </userestrict>
+               <c03 id="aspace_3b2c9e6b12b6748a5fcbc3d31387f45e" level="file">
+                  <did>
+                     <unittitle>Addison, Alonzo,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_653550655ded8d7fb946f6374dc8f04c"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_5844f3180164f94f4a3a1def04980ce7" level="file">
+                  <did>
+                     <unittitle>Arun, Gorun,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_9034618824d43778f2ecdbd31b0510fd"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_2db7c39c66da4fe3302b019c6c26b8ca" level="file">
+                  <did>
+                     <unittitle>Borelli, Caterina,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_3b4e7f502f1c6583bfe79d979461307f"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_afa909b067df5a3ce29b495e08f32bc6" level="file">
+                  <did>
+                     <unittitle>Chabbi, Amel,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_7c64caf9864979a7848adf5ffa714f90"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ffb5ea47fe9f5661687498a1ad2d58a0" level="file">
+                  <did>
+                     <unittitle>Chikwanda, Geofree,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_ddecdcd9a734fb8420eac0e9dbef69e6"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_1614f1e8fc49e44c14d3213bd99b1005" level="file">
+                  <did>
+                     <unittitle>Clark, Kate,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_9cd8529b455f7a9eae273849b81197a0"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_55b8cab1d85370cdcfd978ccd5d7a527" level="file">
+                  <did>
+                     <unittitle>Croci, Giorgio,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_d1b6e9652b0bd4f7ac2229ff4c7f8917"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_c1bc2f1877e37d7f78c507445018df47" level="file">
+                  <did>
+                     <unittitle>Crosby, Tony (handbook only),</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_ee49268748bbf867c4380b28a44753a2"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_b327a462db3fb27207380d8d535484f3" level="file">
+                  <did>
+                     <unittitle>Dallas, Rose,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_4fd11cc64e4406530a940e0adb5260d5"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ceb9ce107168f6bc2320782f39f80a0d" level="file">
+                  <did>
+                     <unittitle>Elwazani, Salim,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_950c7b44c8b4572b8f11096ae939cf5c"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_e92005b178c2067689753c885b6072e5">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Salim Elwazani.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_bf3ac4fb0766341a062c8b8691ac5504" level="file">
+                  <did>
+                     <unittitle>Jones, Kevin L.,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_4ec49c504f29630f0954252c7b922a95"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_d2737411fe7236130b4b6fa20e662ded">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Kevin L. Jones.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_683d19b060ce52776ca2d17db34daa6d" level="file">
+                  <did>
+                     <unittitle>Kim, Soon-Kwan,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_2052242a237e21ddaea5a45a58e12642"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_2006b71341bfecac380b90c97e110c38" level="file">
+                  <did>
+                     <unittitle>Lerma Garcia, Jose Luis,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_e55e3c2f01a97924fae1102356ab288b"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_5043032b4f2f9227e17336ceacd27ba9">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Lerma Garcia.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_d17554cad35aff3b3f24d6b33e79e44c" level="file">
+                  <did>
+                     <unittitle>Lunnon, Sarah,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_2f9378fda1cd777684cea45a3f395b16"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_38c4fe00834613027340eae0ed32d530" level="file">
+                  <did>
+                     <unittitle>Matero, Frank (handbook only),</unittitle>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_d279e7a9115d5eb08565a997740f40e9"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_489ee5f944d5fa3e42791d7653c7a36a">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Judy Peters.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_411baec5d94d70c547ba60358dca7402" level="file">
+                  <did>
+                     <unittitle>Ogleby, Cliff,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_6c8087bcf014b8cc1f8afa6bf73711bc"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_8b61b88735c4d626611abd68fb0f1842">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Ogleby.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_ecd8a527dd4db35cec4d1a24b2b7befe" level="file">
+                  <did>
+                     <unittitle>Oshima, Yumi ("Cow in the Sky") [design work],</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_7daee7e20364d4b8f758a4c503843fa7"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_965305a28535ea401f4ab9b38ef52a53">
+                     <head>Scope and Contents</head>
+                     <p>Includes two CDs containing images (not all used in publication) and mockups (not final) for Planning Interventions chapter.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_4a45649a050f95998d802eb304e41320" level="file">
+                  <did>
+                     <unittitle>Ouimet, Christian,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_426e12c7ee0694fa24623c6611a613d9"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_d05cfadcce1aa515b42ed46373218c7a">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Ouimet.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_038c7ad07708495c101369e6ec5fb6fc" level="file">
+                  <did>
+                     <unittitle>Sikka, Sandeep,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_75e44ad67ca9e27a032d316724210350"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_58c0e28c8e893d8361a9230f81967a2f" level="file">
+                  <did>
+                     <unittitle>Siravo, Francesco,</unittitle>
+                     <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_75616b9e8486daf6ea6ca77fb44b1767"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+                  <scopecontent id="aspace_932c8674717e99deb93a0584c0d163bb">
+                     <head>Scope and Contents</head>
+                     <p>Includes a cassette tape of phone interview with Siravo.</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="aspace_835c1688fc5b58017768824173125d55" level="file">
+                  <did>
+                     <unittitle>Tallini, Marco,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_b607b8cf907b6798cb968d6b5770823c"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_4e9cb078003fe3ddd86e96a86db8a03d" level="file">
+                  <did>
+                     <unittitle>Van Tilburg, Jo Anne,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_2aee08503eab3c97c3964a6391f326da"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-03</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref103_vkv" level="file">
+               <did>
+                  <unittitle>Handbook background material,</unittitle>
+                  <unitdate certainty="approximate" datechar="creation" normal="2006/2006">circa 2006</unitdate>
+                  <physdesc id="aspace_c303c1cbae48f61e1d0be28f93fde4bb" label="Container Summary">[4 folders]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_833060391fcc56a310a86e780e374115"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_k19" level="file">
+               <did>
+                  <unittitle>Meeting with John Burns,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4ddb6f56b656fc5bf6a43cd5b75fbc9d"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref105_lrh" level="file">
+               <did>
+                  <unittitle>Handbook mock-up,</unittitle>
+                  <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_3609a12e9e12601b8253864f49958771"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_fb702d2ab95a812b8bf5e2e0447e7a63" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Recording, Documentation, and Information Management for the Conservation of Heritage Places: Illustrated Examples</emph>,</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <physdesc id="aspace_aa8ffdb836b5325b4fde626a742374db">(2 copies)</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b1601337776b3f8e2d231f80329cda4a"
+                             label="Mixed Materials"
+                             type="box">2018.IA.27-02</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref106_1nj" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Component 4 – Web Site</emph>
+               </unittitle>
+            </did>
+            <relatedmaterial id="aspace_93ebd5149c0bc6e4b0db5e95c840439e">
+               <head>Related Materials</head>
+               <p>As of April 2019, the RecorDIM website is accessible at http://extranet.getty.edu/gci/recordim/index.html. </p>
+               <p>The website is also available through the Internet Archive's Wayback Machine: https://web.archive.org/web/20130717002141/http://extranet.getty.edu/gci/recordim/index.html.</p>
+            </relatedmaterial>
+            <c02 id="aspace_ref107_ogn" level="file">
+               <did>
+                  <unittitle>Web site pages,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2007" type="inclusive">2004-2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_c286202700332a606e7d49c3e450b7c0"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+               <scopecontent id="aspace_c3e0fb7c59a2494a2cc762f9f0289386">
+                  <head>Scope and Contents</head>
+                  <p>Printouts of website.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref108_fi6" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Component 5 – Training</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_047201f552eb3a042decf581a4399cdd" level="file">
+               <did>
+                  <unittitle>ARIS03:</unittitle>
+               </did>
+               <c03 id="aspace_5812160797451a09f68ebdb64c0e8dc3" level="file">
+                  <did>
+                     <unittitle>ARIS03 [course binder],</unittitle>
+                     <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                     <container altrender="Hollinger - Tall Legal "
+                                id="aspace_7e06f98b2469ed7a1e2306a23d185036"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_7733ba0069fbc2a3dcc50e6f21c2a7d6" level="file">
+                  <did>
+                     <unittitle>Participants Presentations,</unittitle>
+                     <unitdate datechar="creation" normal="2001/2003" type="inclusive">2001-2003</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5859c6c5d448b1df6589a9556166602f"
+                                label="Computer Disks"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+                  <processinfo id="aspace_82a6fab01f1d702a7362380bb068be7c">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i01. The disc has been retained in the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_9204f6336cc83d3e7782988f4f18b575">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+            <c02 id="aspace_9a3653577512ea502476a030b2a4d22a" level="file">
+               <did>
+                  <unittitle>ARIS05:</unittitle>
+               </did>
+               <c03 id="aspace_ref109_j7h" level="file">
+                  <did>
+                     <unittitle>ARIS05 course materials,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <physdesc id="aspace_31346e1773e7a5a97f26d0e72fe12b2a" label="Container Summary">[3 folders]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_d884f35ee23237daf7bb23c8d27d78f8"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_b1cdae4b74febf0d71dd170da81bc2b2" level="file">
+                  <did>
+                     <unittitle>ARIS05 [course binder],</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                     <physdesc id="aspace_1b6f24f7d609fda560c29db0107c5a16">(2 folders)</physdesc>
+                     <container altrender="Hollinger - Tall Legal "
+                                id="aspace_a8dcc2ba9f941871d0d5e6f593df3bc7"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_2593ac0edbaf985a684b604da8cc0ecc" level="file">
+                  <did>
+                     <unittitle>[ARIS05 planning],</unittitle>
+                     <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_4cde9f9c9629ccd868da48aa374db29f"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_b17a5fdc9c6740cbe914d1e434677eda" level="file">
+                  <did>
+                     <unittitle>ARIS05,</unittitle>
+                     <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_3b480bb7f582ef0e815ee74f734f11f4"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_6559b9c4b35e7521a7473951d93d4a84" level="file">
+                  <did>
+                     <unittitle>ARIS05,</unittitle>
+                     <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_898623b8a021516454331017e8c28bb4"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_0d5cbc10d006510ce12ae328a773cda1" level="file">
+                  <did>
+                     <unittitle>Case Study: The surroundings of Santa Cecilia in Trastevere (Rome),</unittitle>
+                     <unitdate datechar="creation" normal="2002/2005" type="inclusive">2002-2005</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_1406f4ee149fe6159a0efea19d085dbe"
+                                label="Computer Disks"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+                  <processinfo id="aspace_d9f045a7c2b67d231591e6343125d8f4">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i02. The disc has been retained in the collection.</p>
+                  </processinfo>
+                  <phystech id="aspace_2208bb10abaa9355b77599458fc7a56c">
+                     <head>Physical Characteristics and Technical Requirements</head>
+                     <p>Because the original CD contained an interactive program, 2018ia27_i02 is available as an ISO (for accessing the interactive features) and as individual files.</p>
+                  </phystech>
+                  <accessrestrict id="aspace_b1e016b258c06ef9e4700497ea2c1af3">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_9dad9edd57f6ad2f083b52cb769339ba" level="file">
+                  <did>
+                     <unittitle>Participants contribution,</unittitle>
+                     <unitdate datechar="creation" normal="2000/2005" type="inclusive">2000-2005</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5d5fd8960340b7ef51828d530c3eaa41"
+                                label="Computer Disks"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+                  <processinfo id="aspace_2ec693e4877c46b87928014f3802a3eb">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i03. The disc has been retained in the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_ae40745844cd4bccd0dd3ce071ffb9df">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_d01533df58d73c51fd21d10602fffcd6" level="file">
+                  <did>
+                     <unittitle>Archive 1,</unittitle>
+                     <unitdate datechar="creation" normal="1999/2005" type="inclusive">1999-2005</unitdate>
+                  </did>
+                  <processinfo id="aspace_617a2b5de972202dff2340e5b1bbcc3e">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i04. The disc was removed from the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_68d9d15898c3330f7ff918ee57f192c0">
+                     <head>Restricted Access</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_e4e904037089640b2de7a5bc7d889136" level="file">
+                  <did>
+                     <unittitle>Archive 2</unittitle>
+                     <unitdate datechar="creation" normal="1998/2005" type="inclusive">1998-2005</unitdate>
+                  </did>
+                  <processinfo id="aspace_161d033ea7edf589efd1fb76c5cc4065">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i05. The disc was removed from the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_8d132a6b25f6653bff891c77d03cfc1d">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_b72066efb133f89854eabec8699b3ee4" level="file">
+                  <did>
+                     <unittitle>Additional,</unittitle>
+                     <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  </did>
+                  <processinfo id="aspace_7a48acf35a939df4939a3d0acd9d6e3a">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i06. The disc was removed from the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_58ca7ce37fa28c629c1acdfd887d2fe5">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+            <c02 id="aspace_55ccd1c2bd90362a24b99050ed1ec9ba" level="file">
+               <did>
+                  <unittitle>ARIS07:</unittitle>
+               </did>
+               <c03 id="aspace_ref110_oad" level="file">
+                  <did>
+                     <unittitle>ARIS07 course preparation material,</unittitle>
+                     <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_95738532ab8f89d32842b7b4ac2a3915"
+                                label="Mixed Materials"
+                                type="box">2007.IA.38 - 4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_58144e4b560e5917d07888c857898788" level="file">
+                  <did>
+                     <unittitle>ARIS07 [course binder],</unittitle>
+                     <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                     <physdesc id="aspace_6af7183b3dd7fe1aa7da862bf7b91a39">(2 folders)</physdesc>
+                     <container altrender="Hollinger - Tall Legal "
+                                id="aspace_e58cb9c3757183dd3dd64dda0d3938d7"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_dc7a6419ec412233650a5a6396ef46fd" level="file">
+                  <did>
+                     <unittitle>Multimedia,</unittitle>
+                     <unitdate datechar="creation" normal="2001/2007" type="inclusive">2001-2007</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_78e315bfdd570434a4968b4a95257430"
+                                label="Computer Disks"
+                                type="box">2018.IA.27-02</container>
+                  </did>
+                  <processinfo id="aspace_ce11b02b105169cc2c5ed48d3fe1db2c">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018.IA.27_i07. The disc has been retained in the collection.</p>
+                  </processinfo>
+                  <phystech id="aspace_39fc9eb372a4e87dd525a8a6738c8f56">
+                     <head>Physical Characteristics and Technical Requirements</head>
+                     <p>Because the original CD contained an interactive program, 2018ia27_i07 is available as an ISO (for accessing the interactive features) and as individual files.</p>
+                  </phystech>
+                  <accessrestrict id="aspace_de56b829ae332d4fdcc98e295de44823">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_30b00a9bcbc87e6f443e404d1de4e66c" level="file">
+                  <did>
+                     <unittitle>ARIS '07,</unittitle>
+                     <unitdate datechar="creation" normal="2001/2007" type="inclusive">2001-2007</unitdate>
+                  </did>
+                  <processinfo id="aspace_f239e5b345c6f6f2907b51ebaddec85e">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i08. The disc was removed from the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_03103ebc79362963fbb143531bd2faaa">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_64533009f0b7f01bb2d1f8493a59ec51" level="file">
+                  <did>
+                     <unittitle>ARIS '07,</unittitle>
+                     <unitdate datechar="creation" normal="1992/2007" type="inclusive">1992-2007</unitdate>
+                  </did>
+                  <processinfo id="aspace_97ad4f06f27fc8458dec8677343de4d5">
+                     <head>Processing Information</head>
+                     <p>Files copied from CD and assigned unique identifier 2018ia27_i09. The disc was removed from the collection.</p>
+                  </processinfo>
+                  <accessrestrict id="aspace_859e8f1fe13ea89e40a9d7b96661c551">
+                     <head>Access Restrictions</head>
+                     <p>Access to digital files in 2018.IA.27 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                                xlink:href="http://hdl.handle.net/10020/askref"
+                                xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+            <c02 id="aspace_7fb7651ac6645e58d37eac63f0e95d1c" level="file">
+               <did>
+                  <unittitle>ARIS09:</unittitle>
+               </did>
+               <c03 id="aspace_cefc2acfb4eff1ae7ae7904a6b03f4af" level="file">
+                  <did>
+                     <unittitle>ARIS09 [course binder],</unittitle>
+                     <unitdate datechar="creation" normal="2009/2009">2009</unitdate>
+                     <container altrender="Hollinger - Tall Legal "
+                                id="aspace_4fde20bde5b95f9bfd9179ae8de41e0b"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_3d08e79bcaef75452536d22efe5180e9" level="file">
+                  <did>
+                     <unittitle>ARIS09 Documentation of the frescos in the right aisle and Ponziani Chapel of Santa Cecilia,</unittitle>
+                     <unitdate datechar="creation" normal="2009/2009">2009</unitdate>
+                     <container altrender="2 inch flat box (15 x 19)"
+                                id="aspace_0f02b2ed0f5989ec62b646ffa4f3b00a"
+                                label="Mixed Materials"
+                                type="box">2018.IA.27-04</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref111_krk" level="file">
+               <did>
+                  <unittitle>Glossaries,</unittitle>
+                  <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_af5fa087650c4ab6bd38d482edc58108"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_siy" level="file">
+               <did>
+                  <unittitle>Glossary, key definitions,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1994/2009"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_d244bcdd4e2b4420fe8ac835a3399fa3"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref113_s01" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Component 6 – Publication – Metric Survey</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref114_z5y" level="file">
+               <did>
+                  <unittitle>Metric survey, proposal for publication from English Heritage,</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_54cdee798d83af1c443808f37d3a5d34"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref115_ny4" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold"> Component 7 – Monitoring and Evaluation</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref116_zkx" level="file">
+               <did>
+                  <unittitle>Monitoring and evaluation of RecorDIM Initiative,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a3c39c525c5bd48df4674a20a6f6c8ae"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref117_yzw" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Manuals and Standards</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref118_0m7" level="file">
+               <did>
+                  <unittitle>Manuals and standards for art submissions to Getty Publications,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004, </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1994/2009"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_89392daf7d6d95aa8e8ebd073ccbee9c"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref119_wg3" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Reports</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref120_71o" level="file">
+               <did>
+                  <unittitle>RecorDIM - Article by François LeBlanc and Christopher Gray,</unittitle>
+                  <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_ef7a531c4344779a8dd29477bd077088"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_30m" level="file">
+               <did>
+                  <unittitle>RecorDIM - Article by Robin Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_02a443ed35b9f3e9f1fe1c57930d0cf6"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_377" level="file">
+               <did>
+                  <unittitle>RecorDIM – Potsdam, Germany; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_d44b4c98926a34a7bed7ca5904828f5e"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_s1n" level="file">
+               <did>
+                  <unittitle>RecorDIM - Article by Peter Waldhaeusl,</unittitle>
+                  <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b2b3d0e11a02399337cf857d8c7fbcb4"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_vj2" level="file">
+               <did>
+                  <unittitle>RecorDIM - Madrid, Spain; field trip report by François LeBlanc</unittitle>
+                  <unitdate datechar="creation" normal="2002-11/2002-12" type="inclusive">November-December 2002</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_93dfa52bda9af254f76ed72a66d7d3b4"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref125_e9n" level="file">
+               <did>
+                  <unittitle>RecorDIM activities report by R. Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2003-01/2003-01">January 2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9c909051701945602a65019db790a2c3"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref126_9ph" level="file">
+               <did>
+                  <unittitle>RecorDIM – Vienna, Austria; meeting report by Robin Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2003-09-15/2003-09-15">September 15, 2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_773792f349a9359b38d713ee0384493d"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_611d437de6db9eb3904461b3875adbd3" level="file">
+               <did>
+                  <unittitle>RecorDIM – Vienna, Austria; meeting report by Robin Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2003-09-19/2003-09-19">September 19, 2003</unitdate>
+                  <container altrender="Hollinger - Tall Legal "
+                             id="aspace_1de98bb2d054e4b37d59e9d40f2a1868"
+                             label="Mixed Materials"
+                             type="box">2018.IA.27-01</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref127_071" level="file">
+               <did>
+                  <unittitle>RecorDIM – Vienna, Austria; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_84fd808044322e544147eefcada98c94"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref128_ese" level="file">
+               <did>
+                  <unittitle>RecorDIM activities report by Robin Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4d4636d9ea4d0f905bf09b997561e6bf"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref129_3aw" level="file">
+               <did>
+                  <unittitle>RecorDIM – Antalya, Turkey; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a6b94f54e0608c4202a605dbdeb97c97"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref130_5zf" level="file">
+               <did>
+                  <unittitle>RecorDIM – Article by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9c0c3175f2bf12f1e95081a0708c2742"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_amg" level="file">
+               <did>
+                  <unittitle>RecorDIM – Leuven, Belgium; meeting report by Robin Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_656d4942a3136e0b37734c70fb05c23b"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_m67" level="file">
+               <did>
+                  <unittitle>RecorDIM – Leuven, Belgium; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_86c6438d31f4c2cdf4444839ebd9e21a"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_3f3" level="file">
+               <did>
+                  <unittitle>RecorDIM – Istanbul, Turkey; Roundtable 4, meeting report by R. Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_8a071868760dfb6f6baa6d52b0bcd657"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_rrb" level="file">
+               <did>
+                  <unittitle>ARIS, Rome, Italy - trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_8c925a9d3d5900e7910eb88479040be1"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_616" level="file">
+               <did>
+                  <unittitle>Guiding Principles Editorial Board – London, UK; field trip report by F. LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_d4d03bc8ce2f04a4cf693d3d497bb893"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref136_ua4" level="file">
+               <did>
+                  <unittitle>RecorDIM – Paris, France; report by Robin Letellier,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f7718d158bbcb85d893d43c2ca25b135"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref137_rcm" level="file">
+               <did>
+                  <unittitle>RecorDIM – Torino, Italy; field trip report by F. LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_853a66e7e73fd7a9ab59b1751e7c3e68"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref138_58j" level="file">
+               <did>
+                  <unittitle>ARIS-05 – Rome, Italy; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_db1d72f26d2f91400329647364a818fb"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref139_4qq" level="file">
+               <did>
+                  <unittitle>GCI Newsletter on recording and documentation,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_693d6330e3b38e766ccfc032c1c7194f"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref140_4ao" level="file">
+               <did>
+                  <unittitle>RecorDIM – Xi'an, China; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_bedc8790ba601d08041fb56513d234ef"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref141_jv9" level="file">
+               <did>
+                  <unittitle>ARIS-07 – Rome, Italy; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_5b38ae6e98b966c329b2411d2d3cb834"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref142_b8k" level="file">
+               <did>
+                  <unittitle>RecorDIM – Rome, Italy; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_8cc2ad6d555815256f149f3c7937c9c4"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref143_mm9" level="file">
+               <did>
+                  <unittitle>RecorDIM – Ottawa, Canada; field trip report by François LeBlanc,</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e518bd6ec2139bcff6a2d356d18a96f1"
+                             label="Mixed Materials"
+                             type="box">2007.IA.38 - 5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref144_m5q" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Visuals</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_dcd7ebfd79cc69f0cb2a028c6e62136f" level="file">
+               <did>
+                  <unittitle>Guiding Principles Images, all images copyright J. Paul Getty Trust</unittitle>
+                  <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+               </did>
+               <processinfo id="aspace_9ff40511ec95467e9fe26deb3fcd05c2">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i01. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_829d11d44dc60d94e97e9c1da04e965f">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_6c1fddbc6be06375ffc7416845087e7b" level="file">
+               <did>
+                  <unittitle>RecorDIM_01 Guiding Principles Illustrations part 1 .jpg, .tif, .ai,</unittitle>
+                  <unitdate datechar="creation" normal="2003/2007" type="inclusive">2003-2007</unitdate>
+               </did>
+               <processinfo id="aspace_6b9c3bb76318d54b5421c7af5657cd85">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i02. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_a46b36c3ff733c512e89ca40f600a9d7">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_7d4e0a0386f985639a9e9be3fb3b9b4b" level="file">
+               <did>
+                  <unittitle>RecorDIM_02 Guiding Principles Illustrations part 2 .eps, .jpg, .pdf, .tif,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+               </did>
+               <processinfo id="aspace_14f919428ef4398e49552b7df3a46dbe">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i03. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_c1e2d194e623aca314a98f2f23fc046a">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_892e02542f29b92650c4c31020ddf401" level="file">
+               <did>
+                  <unittitle>RecorDIM_03 Meetings images .jpg,</unittitle>
+                  <unitdate datechar="creation" normal="2001/2004" type="inclusive">2001-2004</unitdate>
+               </did>
+               <processinfo id="aspace_796f50a79c35a86185dd9ccba86d94e4">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i04. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_dfdfb1dfa86412d25656b58277374565">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ce6a7ab10a0875b6fb61dbeb42bc2ee1" level="file">
+               <did>
+                  <unittitle>RecorDIM_04 Meetings images Paris .jpg,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+               </did>
+               <processinfo id="aspace_eb55f93eafd9ef52db8d797b667866a8">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i05. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_f89ca373e5de20d302d438d916bb187f">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_46c82371edc4d6ab21739fa5b904d521" level="file">
+               <did>
+                  <unittitle>RecorDIM_05 Meetings images .jpg,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+               </did>
+               <processinfo id="aspace_ff27a75f817f925e54f249e379c19676">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i06. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_e4ab3783f122c8be31f425f542d5cdc9">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_deb35a4efaee87fc17093b82d69b0a1c" level="file">
+               <did>
+                  <unittitle>RecorDIM_06 Meetings images .jpg images, website images,</unittitle>
+                  <unitdate datechar="creation" normal="2005/2007" type="inclusive">2005-2007</unitdate>
+               </did>
+               <processinfo id="aspace_ff5372ffbedf89ddb5f7ee766e4fde1f">
+                  <head>Processing Information</head>
+                  <p>Files copied from CD and assigned unique identifier 2007ia38_i07. The disc was removed from the collection.</p>
+               </processinfo>
+               <accessrestrict id="aspace_6ef07809ac507f2d3218c1137b94a028">
+                  <head>Access Restrictions</head>
+                  <p>Access to digital files in 2007.IA.38 is available to on-site researchers and Getty staff. Contact <extref xlink:actuate="onRequest"
+                             xlink:href="http://hdl.handle.net/10020/askref"
+                             xlink:show="new">Library Reference</extref> at the Getty Research Institute for information about these files or to request access.</p>
+               </accessrestrict>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

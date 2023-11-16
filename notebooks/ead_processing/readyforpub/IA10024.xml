@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA10024</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">J. Paul Getty Trust Oral History Transcripts, 1999-2010</titleproper>
+            <titleproper>Finding aid for the J.Paul Getty Trust Oral History Transcripts, 1999-2010 <num>IA10024</num>
+            </titleproper>
+            <author>Nancy Enneking</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2016</date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-08-22 17:05:59 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>Getty oral history transcripts</unittitle>
+         <origination label="Creator">
+            <corpname authfilenumber="n85059259" role="cre" source="naf">J. Paul Getty Trust</corpname>
+         </origination>
+         <unitid>IA10024</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.35 Linear Feet</extent>
+         </physdesc>
+         <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
+         <physloc id="aspace_82ed985b3c4aedc8176e91dcf17d381e">Request access to the physical material described in this inventory through its corresponding <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/ALMA71168849550001551"
+                    xlink:show="new">library catalog record</extref> and click "Request." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, the records are stored off site; advanced notice is required for access to these materials.</physloc>
+         <abstract id="aspace_2652699b0ab1e5fe02f4bff3d628e058" label="Abstract">Records comprise the final transcripts and three videos of oral histories conducted with Getty staff, trustees, and associates by Oral Historian Eric Abrahamson between 1999 and 2010.</abstract>
+         <langmaterial>
+            <language langcode="eng">English</language>
+.    </langmaterial>
+      </did>
+      <processinfo id="aspace_355e71efd577c7ad56000bc38e336ac8">
+         <head>Processing History Note</head>
+         <p>The inventory was initially created by Nancy Enneking in 2008 and updated on a regular basis thereafter.  The inventory was made available to the public in 2016.</p>  
+      </processinfo>
+      <acqinfo id="aspace_679e5f5c1c95f500a97fdf171d96af6f">
+         <head>Acquisition Note</head>
+         <p>The collections contains material from the following accessions: 2000.IA.02; 2001.IA.09; 2002.IA.07; 2002.IA.10; 2008.IA.28; 2009.IA.24; 2010.IA.25; 2011.IA.11; 2014.IA.24; and 2015.IA.18.</p>  
+      </acqinfo>
+      <prefercite id="aspace_df48b8e1e45d2f18deb4ab76aee1f549">
+         <head>Preferred Citation</head>
+         <p>[Cite the item and series (as appropriate)], J. Paul Getty Trust Oral History Transcripts, 1999-2010. Institutinal Archives, Getty Research Institute, IA10024.</p>
+         <p>http://hdl.handle.net/10020/cifaia10024</p>  
+      </prefercite>
+      <scopecontent id="aspace_908ba4c92876ee897f60f0597e0ac49e">
+         <head>Scope and Contents Note</head>
+         <p>Records comprise the final transcripts and three videos of oral histories conducted with Getty staff, trustees, and associates by Oral Historian Eric Abrahamson between 1999 and 2010.  Though the interviews were conducted for specific projects, the same individuals were interviewed for several projects and the results, in many cases, have been combined into a single transcript for an individual. For this reason, the resulting transcripts have been listed by individual and not project.  All interviews that have been finalized are listed below with the date on which it will open for research.  Several interviews are still in the process of being finalized.</p>
+         <p>The interviews focus on the development of the Trust's strategy and structure and the organizational culture that affected the realization of the Trust's broadest goals. Although discussion touches on specific activities of the programs, it has done so in an effort to explore the dynamics of the Trust as a whole.  Therefore, the interviews emphasize institutional organization and dynamics rather than the Getty's specific activities, accomplishments, and influence. </p>  
+      </scopecontent>
+      <accessrestrict id="aspace_127b5cc00cbb8ae47163a69c8d882366">
+         <head>Access Restrictions</head>
+         <p>Restrictions are noted at the individual/transcript level and were designated by the participants.  When known, the date on which an interview will open for research has been noted.</p>
+         <p>Access to the hard copy transcript is available in the Reading Room of the Getty Research Institute. </p>
+         <p>The following types of records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>  
+      </accessrestrict>
+      <arrangement id="aspace_a925dd8cd16fecf6db9514a968d916f2">
+         <head>Arrangement</head>
+         <p>Transcripts are listed in alphabetical order by the name of the participant.</p>  
+      </arrangement>
+      <bioghist id="aspace_45816463a67fdffc2cd704a889b9bd11">
+         <head>Administrative History</head>
+         <p>The J. Paul Getty Trust Oral History Project was launched in the fall of 1999 to capture the insights and perspectives of individuals who made critical contributions to the development of the Trust and its programs. These interviews have been conducted to provide a rich resource of perspectives on the history of the Getty as an institution; they are intended to help future generations of Getty leaders understand the organizational dynamics that shaped and will continue to shape the J. Paul Getty Trust. For historians and managers, they also provide the rich detail and color that makes the stories of the past inspire a new generation to carry on the work of the moment.</p>
+         <p>No oral history project will be an exhaustive or comprehensive resource for the history of the Trust. The project focused on the development of the Trust's strategy and structure and the organizational culture that affected the realization of the Trust's broadest goals. Although it has touched on specific activities of the programs, it has done so in an effort to explore the dynamics of the Trust as a whole.  Documentation of the specific Trust Programs, or of projects undertaken by various Trust entities, is not included.  Therefore, the project to date has focused on institutional organization and dynamics rather than on the Getty's specific activities, accomplishments, and influence. </p>
+         <p>Work on the project has been continuous since the late 1990s, with a few periods of heightened activity. Altogether, 60 former trustees, current and former staff members, and outside advisors have been interviewed for the project, comprising 65 interviews.  The project had four phases:</p>
+         <p>Formative Years, 1976-1997 (Interviews in 1999-2001):  This first phase focused on Trustees and Trust executives who were involved in shaping the Trust's strategy and structure following the death of J. Paul Getty in 1976. Conceived by the project's sponsor Stephen Rountree (Vice President and Chief Operations Officer), this phase was intended to document the President Harold Williams' years. The interview list was developed in close cooperation with the President's Office and included nearly all of the members of the Board of Trustees whose service concluded in these years along with the top management of the Trust, including chief executive officers, program directors, and some senior staff. Of all the individuals contacted, only one former trustee declined to participate. This phase was completed by 2001 and comprised 25 interviews.</p>
+         <p>Formative Years Staff Interviews, 1954-1997 (Interviews in 2001-present):  As budget and schedules permitted, interviews were conducted with former and current staff members whose tenure with the Getty began prior to 1984. Priority was generally given to the longest serving employees to capture the history of the earliest days of the institution.  These interviews have been occasional and were intended to supplement the record established with the first phase.  The selection was somewhat opportunistic, because it was decided not to interview people until after they had left the Getty's employment. This phase comprised 16 interviews.</p>
+         <p>Getty Villa Program Planning, 1984-1997 (Interviews in 2007-2009):  Stimulated by the re-opening of the Getty Villa, this phase was designed as a case study in the Getty's management history; it intended to explore the institution-wide process undertaken to define a new program for the renovated Villa.  Interviewees were chosen from a research survey of documents related to Villa program planning during the formative years in the mid-1990s. Seven interviews were conducted and a draft narrative created. Work to finalize these interviews was put on hold until the oral history program was re-evaluated.</p>
+         <p>Transition Years of the Trust, 1998-2006 (Interviews in 2008-2010):  Interviews focused on the restructuring of the Trust's programs in the years following the opening of the Getty Center and under a new president and CEO. Under the project's sponsor, President James Wood, this effort sought to document the President Barry Munitz years using a methodology analogous to the initial oral history project focused on the Williams years.  This phase encompassed interviews with 17 different individuals.  </p>  
+      </bioghist>
+      <bioghist id="aspace_65d25e6b6d2e3a3f9c65fc4835aa9bd6">
+         <head>Biographical Note</head>
+         <p>All interviews for the oral history project have been conducted by Dr. Eric John Abrahamson, president and principal historian with Vantage Point Historical Services, Inc..  Abrahamson received his doctorate in history from Johns Hopkins University. In addition to the Getty Trust, Abrahamson has conducted oral histories for the Canadian Center for Architecture, the Samuel and Saidye Bronfman Family Foundation, the Connecticut Audubon Society, the Los Angeles County Museum of Art, and Pacific Telesis Group. In addition, he is the author or co-author of a number of organizational histories including <emph render="italic">Anytime, Anywhere: Entrepreneurship and the Creation of a Wireless World</emph> with Dr. Louis Galambos (Cambridge University Press, 2002) and <emph render="italic">Spirited Commitment: The Samuel and Saidye Bronfman Family Foundation</emph> with Dr. Roderick MacLeod (McGill-Queens University Press, 2010). Abrahamson's book <emph render="italic">Building Home: Howard F. Ahmanson and the Politics of the American Dream</emph> was published by the University of California Press in January 2013. He is currently writing and editing a series of books to be published in conjunction with the Rockefeller Foundation's centennial.</p>  
+      </bioghist>
+      <bioghist id="aspace_07f48e381dad23fe2a0d0fc718df7134">
+         <head>Historical Note</head>
+         <p>The J. Paul Getty Trust is a not-for-profit institution, educational in purpose and character, that focuses on the visual arts in all of their dimensions. </p>
+         <p>The origins of the J. Paul Getty Trust date to 1953, when J. Paul Getty established the J. Paul Getty Museum as a California charitable trust to house his growing art collections. Originally a small, private institution located in Mr. Getty's ranch house near Malibu, the museum moved to the newly constructed Getty Villa in grounds adjacent to the ranch house in 1974. When most of Mr. Getty's personal estate passed to the trust in 1982, the trustees decided that, given the size of the endowment, it should make a contribution to the visual arts and humanities that would reach even beyond the museum. Out of this resolve grew an expanded commitment to the arts in the general areas of scholarship, conservation, and education. Harold M. Williams was the first president and CEO of the trust, serving from 1981 through 1998.  Williams supervised the Trust's development of new programs, with the advice and recommendations of advisors such as Lani Duke and Nancy Englander.  The programs included the Center for the History of Arts and Humanities, Art History Information Institute, Conservation Institute, and Center for Education in the Arts, as well as smaller programs, such as the Museum Management Institute and the Program for Art on Film.  In 1983 the Trust's name was changed from the J. Paul Getty Museum to the J. Paul Getty Trust to reflect its broader scope, with the museum becoming an operating program of the Trust. As of 2010 the Trust supports and oversees four programs: the J. Paul Getty Museum, the Getty Foundation, the Getty Conservation Institute, and the Getty Research Institute. </p>
+         <p>Due to expanded operations and limited space at the original J. Paul Getty Museum in Pacific Palisades (near Malibu), the various programs of the J. Paul Getty Trust were located at different sites throughout the Los Angeles basin during the 1980s and mid 1990s.  The Trust's vision was to bring together most of their programs at a single site.  A roughly 750-acre property in Brentwood (west Los Angeles) was purchased by the Trust in 1983 and the following year the architectural firm Richard Meier &amp; Partners was chosen to design the Getty Center, to house the Trust, its newly created programs, and an additional space for the Museum.  Currently, the J. Paul Getty Trust and Getty programs serve a varied audience from both locations: the Getty Center in Los Angeles and the Getty Villa near Malibu, California.  </p>  
+      </bioghist>
+      <controlaccess>
+         <subject source="lcsh">Art museums -- Administration</subject>
+         <subject source="lcsh">Museums -- Management</subject>
+         <genreform source="aat">Oral histories (document genres)</genreform>
+         <genreform source="aat">Transcripts</genreform>
+         <subject source="lcsh">Conservation and cultural heritage</subject>
+         <subject source="lcsh">Research institutes</subject>
+         <subject source="lcsh">Art museums -- Design and construction</subject>
+         <genreform source="aat">Interviews -- United States -- 20th century</genreform>
+         <subject source="lcsh">Art museum curators -- Interviews</subject>
+         <corpname authfilenumber="n85199077" source="naf">Getty Conservation Institute</corpname>
+         <corpname authfilenumber="nr96031768" rules="aacr" source="naf">Getty Education Institute for the Arts</corpname>
+         <corpname authfilenumber="n85059259" source="naf">J. Paul Getty Trust</corpname>
+         <corpname authfilenumber="nr96031770" rules="aacr" source="naf">Getty Information Institute</corpname>
+         <corpname authfilenumber="n00000345" source="naf">Getty Research Institute</corpname>
+         <corpname authfilenumber="nr2006020600" source="naf">Getty Foundation</corpname>
+         <corpname authfilenumber="n79046211" source="naf">J. Paul Getty Museum</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref2_6k4" level="series">
+            <did>
+               <unittitle>Getty Oral History Interviews conducted by Eric Abrahamson</unittitle>
+               <dao xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/ia10024"
+                    xlink:show="new"
+                    xlink:title="(IA10024) J. Paul Getty Trust Oral History Transcripts"
+                    xlink:type="simple">
+                  <daodesc>
+                     <p>(IA10024) J. Paul Getty Trust Oral History Transcripts</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="aspace_ref189_qm8" level="file">
+               <did>
+                  <unittitle>John Biggs, </unittitle>
+                  <unitdate datechar="creation" normal="2010-06-08/2010-06-09" type="inclusive">June 8-9, 2010</unitdate>
+               </did>
+               <accessrestrict id="aspace_d0f5d768e62d454d726aa6b3ec9acf6f">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death but subject to a minimum of 15 years (until January 1, 2027).</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref3_dh9" level="file">
+               <did>
+                  <unittitle>Miguel Angel Corzo, GCI Director, </unittitle>
+                  <unitdate datechar="creation" normal="2008-12-17/2008-12-17">December 17, 2008</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e18d4153757e1c30c709161603773fa4"
+                             label="Mixed Materials"
+                             type="box">2009.IA.24-2</container>
+               </did>
+               <accessrestrict id="aspace_126f9cd2178e94828e6c9203145c5451">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref5_6nf" level="file">
+               <did>
+                  <unittitle>Kenneth Dayton, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2001-09-25/2001-09-25">September 25, 2001</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_027a997df7d5943c3e7cc8a12c99037b"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-1</container>
+               </did>
+               <accessrestrict id="aspace_a89eb8aa65a237d08239f1e03925c698">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref8_f9q" level="file">
+               <did>
+                  <unittitle>Lani Duke, Advisor to Harold Williams and GEI Director, </unittitle>
+                  <unitdate datechar="creation" normal="2000-03-08/2000-03-08">March 8, 2000</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_fa55a762eb24eebbbf710f149f732c21"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-4</container>
+               </did>
+               <accessrestrict id="aspace_82e40375a7d7d9b40568d8a7bdc35f40">
+                  <head>Access Restrictions</head>
+                  <p>Reviewed by General COunsel and opened 8/8/23.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref11_lq5" level="file">
+               <did>
+                  <unittitle>Nancy Englander, Trust Senior Executive, </unittitle>
+                  <unitdate datechar="creation" normal="2000-03-21/2000-03-21">March 21, 2000</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_5e6b8bc2e060fdd7cb5eaaa6301c50ad"
+                             label="Mixed Materials"
+                             type="box">2010.IA.25-4</container>
+               </did>
+               <accessrestrict id="aspace_79092393db2485977c3864d251f3d643">
+                  <head>Access Restrictions</head>
+                  <p>Reviewed by General Counsel and opened 8/8/23</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref13_mlq" level="file">
+               <did>
+                  <unittitle>Robert Erburu, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2000-11-11/2000-11-11">November 11, 2000</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_a67526d30a5866e5fb90dbd5aae2ad1b"
+                             label="Mixed Materials"
+                             type="box">2010.IA.25-4</container>
+               </did>
+               <accessrestrict id="aspace_1ffea90add32ef6ee09507572566710e">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref15_w54" level="file">
+               <did>
+                  <unittitle>Michael Ester, AHIP (GII) Director, </unittitle>
+                  <unitdate datechar="creation" normal="1999-12-08/1999-12-08">December 8, 1999</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_134c68e3949bd0100c484239b9a3d946"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-4</container>
+               </did>
+               <accessrestrict id="aspace_2cf4891089eef6b5d2e76d5b5c13ae73">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref17_9yl" level="file">
+               <did>
+                  <unittitle>John Fey, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="1999-10-26/1999-10-26">October 26, 1999</unitdate>
+               </did>
+               <accessrestrict id="aspace_6fc0b1115bbd0f3769a264806809438a">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2017.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref19_h9s" level="file">
+               <did>
+                  <unittitle>Eleanor Fink, GII Director, </unittitle>
+                  <unitdate datechar="creation" normal="2007-07-02/2007-07-02">July 2, 2007</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_8a5bdadc431e29ac135ad7c99f6d1f08"
+                             label="Mixed Materials"
+                             type="box">2010.IA.25-3</container>
+               </did>
+               <accessrestrict id="aspace_93346f2a2c5be7b452cee0c2c87639e8">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref22_c03" level="file">
+               <did>
+                  <unittitle>Barbara Fleischman, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2009-08-12/2009-08-12">August 12, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_74a9d30443765ca9d9841ab0633be0a5">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2026.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref24_1gp" level="file">
+               <did>
+                  <unittitle>Kurt Forster, GRI Director, </unittitle>
+                  <unitdate datechar="creation" normal="2000-10-19/2000-10-19">October 19, 2000</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0a5cb8736584378cea7d16c6f0976f5a"
+                             label="Mixed Materials"
+                             type="box">2001.IA.09-1</container>
+               </did>
+               <accessrestrict id="aspace_9dc2b65e5152d8875718afa0abf5c0fd">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death. (Only have verbatim transcript.)</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref191_rbo" level="file">
+               <did>
+                  <unittitle>Burton Fredericksen, Paintings Curator, Founder of Provenance Index, </unittitle>
+                  <unitdate datechar="creation" normal="2009-06-23/2009-06-24" type="inclusive">June 23-24, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_4effc32e77fc3b5b235a4f9e8538a397">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref193_kez" level="file">
+               <did>
+                  <unittitle>David Gardner, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2005-09-12/2005-09-12">September 12, 2005</unitdate>
+               </did>
+               <accessrestrict id="aspace_3170271c7d2ebc061f5556075d3fe658">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2021, except pages 43-54 are sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref26_g23" level="file">
+               <did>
+                  <unittitle>Stephen Garrett, Museum Director, </unittitle>
+                  <unitdate datechar="creation" normal="1999-11-03/1999-11-03">November 3, 1999</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a16cb012a70c7726444c4c187d42c757"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-1</container>
+               </did>
+               <accessrestrict id="aspace_17e2c2e531f12930fdfacad51c278f28">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref29_jxo" level="file">
+               <did>
+                  <unittitle>Gordon Getty, son of J. Paul Getty, Trustee,</unittitle>
+                  <unitdate datechar="creation" normal="2000-04-27/2000-04-27">April 27, 2000</unitdate>
+               </did>
+               <accessrestrict id="aspace_80efb1640a21e3e2cb625aefbd33f11b">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref195_b3e" level="file">
+               <did>
+                  <unittitle>Kathryn Girard, Head of Administraton, GII and GRI, </unittitle>
+                  <unitdate datechar="creation" normal="2009-06-29/2009-06-29">June 29, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_57ddc653ed19897d25334e10d44eeb4c">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2025.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref31_chc" level="file">
+               <did>
+                  <unittitle>George Goldner, Senior Staff, </unittitle>
+                  <unitdate datechar="creation" normal="2008-11-17/2008-11-17">November 17, 2008</unitdate>
+               </did>
+               <accessrestrict id="aspace_cd4b457887bd47353e00eddfc8306330">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref33_uu6" level="file">
+               <did>
+                  <unittitle>Vartan Gregorian, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2000-05-03/2000-05-03">May 3, 2000</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_67ff43b053e9731f8cece9965e81a32a"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-5</container>
+               </did>
+               <accessrestrict id="aspace_e93fdbfdf3fcd9dda084bf60a775fd3b">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref35_p4o" level="file">
+               <did>
+                  <unittitle>Agnes Gund, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2008-04-22/2008-04-22">April 22, 2008</unitdate>
+               </did>
+               <accessrestrict id="aspace_ee3fc110c02763216ed9952642185716">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref187_qwo" level="file">
+               <did>
+                  <unittitle>Anne-Mieke Halbrook, GRI Senior Staff, </unittitle>
+                  <unitdate datechar="creation" normal="2009-01-26/2009-01-26">January 26, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_2621aa59b3b96e97980bbd8f0d53c862">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref172_ezg" level="file">
+               <did>
+                  <unittitle>Lee Hendrix, Museum Drawings Curator, </unittitle>
+                  <unitdate datechar="creation" normal="2009-05-04/2009-05-04">May 4 and </unitdate>
+                  <unitdate datechar="creation" normal="2009-06-23/2009-06-23">June 23, 2009</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_cbb3dc4a8ae7ccd314be9113a9a28381"
+                             label="Mixed Materials"
+                             type="box">2011.IA.11-1</container>
+               </did>
+               <accessrestrict id="aspace_c4bfea976820f1fcaf547ed0523fe74e">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref37_tl5" level="file">
+               <did>
+                  <unittitle>Karl Katz, Executive Director, Program for Art on Film, </unittitle>
+                  <unitdate calendar="gregorian"
+                            datechar="creation"
+                            era="ce"
+                            normal="2004-10-22/2004-10-22">October 22, 2004</unitdate>
+               </did>
+               <accessrestrict id="aspace_ad3e778095788ca73dca0c8f3b92aec7">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref39_c0y" level="file">
+               <did>
+                  <unittitle>Joe Kearns, Trust Senior Executive, </unittitle>
+                  <unitdate datechar="creation" normal="1999-07-23/1999-07-23">September 23, 1999</unitdate>
+               </did>
+               <accessrestrict id="aspace_f69905dc3fba5a5bab052807b07124b8">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2017.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref41_8pj" level="file">
+               <did>
+                  <unittitle>Jon Lovelace, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="1999-11-02/1999-11-02">November 2, 1999</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_587b0a2d96cfc5f56bf69fcf7f2e7e1e"
+                             label="Mixed Materials"
+                             type="box">2008.IA.28-1</container>
+               </did>
+               <accessrestrict id="aspace_fa071bbecf182debd8748a9443652866">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref43_kz2" level="file">
+               <did>
+                  <unittitle>Herbert Lucas, Trustee</unittitle>
+               </did>
+               <accessrestrict id="aspace_17ae7b8f21b6e91a70460fa5d38fbaa4">
+                  <head>Access Restrictions</head>
+                  <p>Both transcripts are open.</p>
+               </accessrestrict>
+               <c03 id="aspace_ref44_k6v" level="file">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate datechar="creation" normal="2000-01-19/2000-01-19">January 19, 2000</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_ba664dbf3fb1dc568267f1ccb94bb18f"
+                                label="Mixed Materials"
+                                type="box">2008.IA.28-2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref163_s84" level="item">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate datechar="creation" normal="2009-09-24/2009-09-24">September 24, 2009</unitdate>
+                     <container altrender="Hollinger - 2.5-inch legal "
+                                id="aspace_df68ee72e93b12eb939b1a9a9c2bc9d0"
+                                label="Mixed Materials"
+                                type="box">2011.IA.11-1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref201_g1o" level="file">
+               <did>
+                  <unittitle>Deborah Marrow, Foundation Director, Interim GRI Driector, Interim Trust President</unittitle>
+               </did>
+               <accessrestrict id="aspace_8973a2c1fde1a20f8ae878b0d848b9bc">
+                  <head>Access Restrictions</head>
+                  <p>Both transcripts are sealed until January 1, 2031.</p>
+               </accessrestrict>
+               <c03 id="aspace_ref202_16y" level="file">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate datechar="creation" normal="1999-12-06/1999-12-06">December 6, 1999</unitdate>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref203_fdw" level="file">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate datechar="creation" normal="2009-03-12/2009-03-12">March 12, 2009</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref206_5q5" level="file">
+               <did>
+                  <unittitle>Charles J. (Jack) Meyers, </unittitle>
+                  <unitdate datechar="creation" normal="2009-06-19/2009-06-19">June 19, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_eac4ae6ca413e2ab0f2df97db79d9aae">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2028.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref164_29h" level="file">
+               <did>
+                  <unittitle>Jack Miles, </unittitle>
+                  <unitdate datechar="creation" normal="2009-07-31/2009-07-31">July 31, 2009</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_6caaeb685dfbfa98518872ff18cf822d"
+                             label="Mixed Materials"
+                             type="box">2011.IA.11-2</container>
+               </did>
+               <accessrestrict id="aspace_5655a823760afe451b15f85be626dd17">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref46_cyl" level="file">
+               <did>
+                  <unittitle>Luis Monreal, GCI Director, </unittitle>
+                  <unitdate datechar="creation" normal="2000-06-28/2000-06-28">June 28, 2000</unitdate>
+               </did>
+               <accessrestrict id="aspace_1d14ba2e9eba1267e77756012969b5f8">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2017.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref49_s23" level="file">
+               <did>
+                  <unittitle>Barry Munitz, Trust President, </unittitle>
+                  <unitdate calendar="gregorian"
+                            datechar="creation"
+                            era="ce"
+                            normal="2000-09-27/2000-09-27">September 27, 2000</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e6c336232fef89a525c4133ea10f4598"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-5</container>
+               </did>
+               <accessrestrict id="aspace_ac3267b1063e2e277e3e77978c4d5038">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref210_9yl" level="file">
+               <did>
+                  <unittitle>Richard Naranjo, Facilities, Head of Landscaping, </unittitle>
+                  <unitdate datechar="creation" normal="2006-05/2006-05">May 2006</unitdate>
+               </did>
+               <accessrestrict id="aspace_a0f8bd5257f1c8409b2a229a0a9f9449">
+                  <head>Access Restrictions</head>
+                  <p>The video interview is open; an interview transcript dated May 15, 2006 is sealed until death.</p>
+               </accessrestrict>
+               <c03 id="aspace_ref233_14x" level="file">
+                  <did>
+                     <unittitle>Video interview, </unittitle>
+                     <unitdate datechar="creation" normal="2006-05-09/2006-05-09">May 9 and </unitdate>
+                     <unitdate datechar="creation" normal="2006-05-26/2006-05-26">22, 2006</unitdate>
+                     <container altrender="3 inch flat box (09 x 11)"
+                                id="aspace_7cfa42837d4749db098309e291e38e05"
+                                label="Mixed Materials"
+                                type="box">2010.IA.25-1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref51_3oz" level="file">
+               <did>
+                  <unittitle>Nicholas Olsberg, Consultant and GRI Senior Staff, </unittitle>
+                  <unitdate datechar="creation" normal="2005-04-28/2005-04-28">April 28, 2005</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_34babf7ae376e32bbf4462cd9a178a6f"
+                             label="Mixed Materials"
+                             type="box">2008.IA.28-1</container>
+               </did>
+               <accessrestrict id="aspace_0789ede9bbd6b9ee4b48f4f78cf4678a">
+                  <head>Access Restrictions</head>
+                  <p>Open, with the exception of undesignated portions sealed until January 1, 2021.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref53_7b3" level="file">
+               <did>
+                  <unittitle>Stuart Peeler, Trustee</unittitle>
+               </did>
+               <c03 id="aspace_ref212_3yn" level="file">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate calendar="gregorian"
+                               datechar="creation"
+                               era="ce"
+                               normal="1999-10-25/1999-10-25">October 25, 1999</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_57d6e7ec09fc890ed263c141741d2fac"
+                                label="Mixed Materials"
+                                type="box">2002.IA.07-1</container>
+                  </did>
+                  <accessrestrict id="aspace_1594d4f57c11c2bb81fb43480714ba41">
+                     <head>Access Restrictions</head>
+                     <p>Sealed for the lifetime of Gordon Getty.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_ref214_4gs" level="file">
+                  <did>
+                     <unittitle>Video interview, </unittitle>
+                     <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_6226362bdd5fa17f187bb7bd041624c4"
+                                label="Mixed Materials"
+                                type="box">2002.IA.10-1</container>
+                  </did>
+                  <accessrestrict id="aspace_7a5163fbc05f12948767bd2abbf7fbb1">
+                     <head>Access Restrictions</head>
+                     <p>Open.</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref218_78l" level="file">
+               <did>
+                  <unittitle>Elmar Seibel, </unittitle>
+                  <unitdate datechar="creation" normal="2009-05-21/2009-05-21">May 21 and </unitdate>
+                  <unitdate datechar="creation" normal="2009-06-15/2009-06-15">June 15, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_267c98ce0e149b7f9c08cc17c537016b">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref179_phi" level="file">
+               <did>
+                  <unittitle>Salvatore Settis, Research Institute Director, </unittitle>
+                  <unitdate datechar="creation" normal="2009-01-21/2009-01-22" type="inclusive">January 21-22, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_93a097f784dcf8a614839d6ecce90dee">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until January 1, 2025.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref58_pls" level="file">
+               <did>
+                  <unittitle>Rocco Siciliano, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="1999-11-03/1999-11-03">November 3, 1999</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_df79b58c9111ce76d0aa7da271b520e7"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-6</container>
+               </did>
+               <accessrestrict id="aspace_b79cab1b8e1749031b7abf3f2d3007de">
+                  <head>Access Restrictions</head>
+                  <p>Reviewed by General Counsel and opened 8/8/23.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref183_5x1" level="file">
+               <did>
+                  <unittitle>Jorge Silvetti, Villa Architect, </unittitle>
+                  <unitdate datechar="creation" normal="2009-06-15/2009-06-15">June 15, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_d983a3c5f1b933318a4d178fb52f07e8">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref170_1y2" level="file">
+               <did>
+                  <unittitle>Marion True, Museum Antiquities Curator, </unittitle>
+                  <unitdate datechar="creation" normal="2009-09-17/2009-09-18" type="inclusive">September 17-18, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_6a7a8dc7fbc68061a9b336079014754d">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until 2027.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref175_20n" level="file">
+               <did>
+                  <unittitle>Gwen Walden, </unittitle>
+                  <unitdate datechar="creation" normal="2009-09-23/2009-09-23">September 23, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_304c9b18891d4f409227449bbc97ec52">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref60_6z8" level="file">
+               <did>
+                  <unittitle>John Walsh, Museum Director</unittitle>
+               </did>
+               <c03 id="aspace_ref220_y9h" level="file">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate datechar="creation" normal="2000-03-08/2000-03-08">March 8, 2000</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_71ac769010dd56bd4bc7686f385606d7"
+                                label="Mixed Materials"
+                                type="box">2002.IA.07-7</container>
+                  </did>
+                  <accessrestrict id="aspace_a0b3b22cfb2814d30fa18402f54c345b">
+                     <head>Access Restrictions</head>
+                     <p>Sealed until death.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_ref222_dn1" level="file">
+                  <did>
+                     <unittitle>Video interview, </unittitle>
+                     <unitdate datechar="creation" normal="2002-11-18/2002-11-18">November 18, 2002</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_18ee26bff3d4b4381737b800979e119d"
+                                label="Mixed Materials"
+                                type="box">2002.IA.10-1</container>
+                  </did>
+                  <accessrestrict id="aspace_1d37505ec70a80d8003ac05f0f07c849">
+                     <head>Access Restrictions</head>
+                     <p>Open once his permission has been obtained.</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref62_06m" level="file">
+               <did>
+                  <unittitle>Timothy Whalen, Building Program, GRI Director, </unittitle>
+                  <unitdate datechar="creation" normal="2000-02-22/2000-02-22">February 22, 2000</unitdate>
+               </did>
+               <accessrestrict id="aspace_9a0dd3d2609d4ab8387c2e15de15237d">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref177_v4l" level="file">
+               <did>
+                  <unittitle>Timothy Whalen, Conservation Institute Director, </unittitle>
+                  <unitdate datechar="creation" normal="2009-05-05/2009-05-05">May 5 and </unitdate>
+                  <unitdate datechar="creation" normal="2009-06-22/2009-06-22">June 22, 2009</unitdate>
+               </did>
+               <accessrestrict id="aspace_36221fed8f398dc2d3db0c064d7abf62">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref64_4fx" level="file">
+               <did>
+                  <unittitle>Patrick Whaley, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="1999-12-01/1999-12-01">December 1, 1999</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_09937e070b1be7a1c9daad4681641368"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-2</container>
+               </did>
+               <accessrestrict id="aspace_9903706da54653e88ef78a63134df81d">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref67_jg8" level="file">
+               <did>
+                  <unittitle>John Whitehead, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2000-05-04/2000-05-04">May 4, 2000</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_a1e4f767c19cfb1519e25b68e9ee0bfd"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-3</container>
+               </did>
+               <accessrestrict id="aspace_77e6a214e1207fbca5a04c263d4377c4">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref224_dm6" level="file">
+               <did>
+                  <unittitle>Barbara Whitney, Building Program and Museum Senior Staff, </unittitle>
+               </did>
+               <accessrestrict id="aspace_7c5f57592bb2798d82195f553ea998a8">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref70_41h" level="file">
+               <did>
+                  <unittitle>Curtis Williams, Head of Facilities, </unittitle>
+                  <unitdate datechar="creation" normal="2005-01-13/2005-01-13">January 13, 2005</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_69a1373b7e9ad42bcbd7e806c0724f97"
+                             label="Mixed Materials"
+                             type="box">2008.IA.28-2</container>
+               </did>
+               <accessrestrict id="aspace_1da24bd529e2ae27b3c220476c5c763a">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref73_mpg" level="file">
+               <did>
+                  <unittitle>Harold Williams, Trust President</unittitle>
+               </did>
+               <c03 id="aspace_ref226_m7o" level="file">
+                  <did>
+                     <unittitle>Transcript, </unittitle>
+                     <unitdate calendar="gregorian"
+                               datechar="creation"
+                               era="ce"
+                               normal="1999/2000"
+                               type="inclusive">1999-2000</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_28e61eea305fe6f0f8d5a89fcaeb068a"
+                                label="Mixed Materials"
+                                type="box">2008.IA.28-1</container>
+                  </did>
+                  <accessrestrict id="aspace_17eeb3c6583fcb9cc1436a01d495b8be">
+                     <head>Access Restrictions</head>
+                     <p>Open.</p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_ref228_7fb" level="file">
+                  <did>
+                     <unittitle>Video interview, </unittitle>
+                     <unitdate datechar="creation" normal="2002-07-25/2002-07-25">July 25, 2002</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_7903203d1c8c625f83fb076ddf1d1b87"
+                                label="Mixed Materials"
+                                type="box">2002.IA.10-1</container>
+                  </did>
+                  <accessrestrict id="aspace_d31bf4e2e17d25db1389893195ffacf4">
+                     <head>Access Restrictions</head>
+                     <p>Open for viewing only. Further use requires an agreement.</p>
+                  </accessrestrict>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref185_11c" level="file">
+               <did>
+                  <unittitle>Blenda J. Wilson, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="2010-05-28/2010-05-28">May 28, 2010</unitdate>
+               </did>
+               <accessrestrict id="aspace_750aac7ede49c1b21f8ae4956dd25c9e">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until 2030.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref75_693" level="file">
+               <did>
+                  <unittitle>Gillian Wilson, Museum Decorative Arts Curator, </unittitle>
+                  <unitdate datechar="creation" normal="2006-08-07/2006-08-07">August 7, 2006</unitdate>
+               </did>
+               <accessrestrict id="aspace_ea12caf03df6f0184dde2e5da7b092b9">
+                  <head>Access Restrictions</head>
+                  <p>Sealed until death.</p>
+               </accessrestrict>
+            </c02>
+            <c02 id="aspace_ref77_apo" level="file">
+               <did>
+                  <unittitle>Otto Wittmann, Consultant, Trustee, </unittitle>
+                  <unitdate datechar="creation" normal="1999-09-24/1999-09-24">September 24, 1999</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_0c5f9e16320a874c997f86219e917bb9"
+                             label="Mixed Materials"
+                             type="box">2002.IA.07-3</container>
+               </did>
+               <accessrestrict id="aspace_aa698ded2712f74c62d9234c363c61fd">
+                  <head>Access Restrictions</head>
+                  <p>Open.</p>
+               </accessrestrict>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

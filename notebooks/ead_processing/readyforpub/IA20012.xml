@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA20012</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Hewins (Ralph) collected papers for biography of Getty (J. Paul)</titleproper>
+            <titleproper>Finding Aid for the Ralph Hewins Collected Papers for Biography of J. Paul Getty, circa 1890s-1973, 1984 and undated <num>IA20012</num>
+            </titleproper>
+            <author>Sue Luftschein and Cyndi Shein</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2011</date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-06-21 14:57:24 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>Collected papers for biography of J. Paul Getty</unittitle>
+         <origination label="Creator">
+            <persname authfilenumber="no2011093364"
+                      role="col"
+                      rules="aacr"
+                      source="naf">Hewins, Ralph</persname>
+         </origination>
+         <unitid>IA20012</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.6 Linear Feet</extent>
+            <extent altrender="carrier">(5 boxes, 1 flat file)</extent>
+         </physdesc>
+         <unitdate certainty="approximate"
+                   datechar="creation"
+                   normal="1890/1973"
+                   type="inclusive">Circa 1890s-1973,  </unitdate>
+         <unitdate datechar="creation" normal="1984/1984">1984, </unitdate>
+         <unitdate certainty="inferred"
+                   datechar="creation"
+                   normal="1890/1984"
+                   type="inclusive">undated</unitdate>
+         <unitdate datechar="creation" normal="1957/1973" type="bulk">(bulk 1957-1973)</unitdate>
+         <physloc id="aspace_0fd253296b31fb46112dc1319a07dbda">To access physical materials at the Getty, go to the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/cat698929"
+                    xlink:show="new">library catalog record</extref> for this collection and click "Request an Item." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, some of the records may be stored off site; advanced notice is required for access to these materials.</physloc>
+         <abstract id="aspace_bf97d6aaa832b77b0416dc9153b5d72a">The collection comprises material created or collected by Ralph Hewins in the course of researching and writing the biography <emph render="italic">The Richest American: J. Paul Getty</emph> (1960).  The material dates from around the 1890s to 1973 and includes correspondence that discusses Hewins' writings about Getty, a number of unpublished manuscripts, personal photographs given to Hewins by Mr. Getty, and other related photographs, clippings, and ephemera belonging to Hewins.</abstract>
+         <langmaterial>
+            <language langcode="eng">English</language>
+.    </langmaterial>
+      </did>
+      <relatedmaterial id="aspace_29e08b7caa7ac5ca030ee96eb65a2e9c">
+         <head>Related Materials Note</head>
+         <p>
+            <emph render="italic">The following materials are offered as possible sources of further information on the people, programs, and subjects covered by the records. The listing is not exhaustive. </emph> 
+         </p>
+         <p>
+            <emph render="bold">Publications</emph> 
+         </p>
+         <p>
+            <bibref>
+               <persname>Hewins, Ralph. </persname>
+               <title>
+                  <emph render="italic">The Richest American: J. Paul Getty.</emph>
+               </title> New York: Dutton, 1960. </bibref>
+         </p>
+         <p>
+            <emph render="bold">Archival Materials</emph> 
+         </p>
+         <p>
+            <repository>
+               <emph render="bold">Getty Institutional Archives</emph> 
+            </repository> 
+         </p>
+         <p>
+            <archref>Art and Real Estate Holding Companies Records, 1939-1982 and undated, J. Paul Getty. The Getty Research Institute (IA20011).</archref>
+         </p>
+         <p>
+            <archref>J. Paul Getty and the Ashby Sisters Papers, 1926-1992 and undated. The Getty Research Institute (IA20013).</archref>
+         </p>
+         <p>
+            <archref>J. Paul Getty Family Papers, circa 1880s-1989 and undated. The Getty Research Institute (IA20009).</archref>
+         </p>
+         <p>
+            <archref>J. Paul Getty Diaries, 1938-1946, 1948-1976. The Getty Research Institute (IA40009).</archref>
+         </p>  
+      </relatedmaterial>
+      <processinfo id="aspace_85448d417f88b8f208662d4d218ed425">
+         <head>Processing History</head>
+         <p>In 2005 Sue Luftschein rehoused the materials and created this finding aid based, in part, on the preliminary inventory. In 2010 Cyndi Shein arranged and described the photographs, and revised the finding aid.</p>  
+      </processinfo>
+      <acqinfo id="aspace_79cfefcbf107554938884843a83d70e2">
+         <head>Acquisition Information</head>
+         <p>The collection was donated to the Getty by Ralph Hewins in 1984 and subsequently assigned accession number 1986.IA.10.</p>  
+      </acqinfo>
+      <prefercite id="aspace_4d7c1b12904df47a7097a9be605353eb">
+         <head>Preferred Citation</head>
+         <p>[Cite the item and series (as appropriate)], Collected Papers for Biography of J. Paul Getty, circa 1890s-1973, 1984 and undated, Ralph Hewins. The Getty Research Institute (IA20012).</p>
+         <p>
+http://hdl.handle.net/10020/cifaia20012</p>  
+      </prefercite>
+      <userestrict id="aspace_9c5dc1a3dd3bcf37574839e8679fcded">
+         <head>Restrictions on Use</head>
+         <p>Contact <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/rights_repro"
+                    xlink:show="new">  Rights and Reproductions </extref> at the Getty Research Institute for copyright information and permission to publish.</p>  
+      </userestrict>
+      <accessrestrict id="aspace_36856a3ef0b3866dcd72e60e1b84b72b">
+         <head>Restrictions on Access</head>
+         <p>The records described in accession 1986.IA.10 are available for use by qualified researchers.  </p>
+         <p>The following types of records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_508c319f619201d55450d651833dbb8e">
+         <head>Scope and Content of Collection</head>
+         <p>The collection comprises material created or collected by Ralph Hewins in the course of researching and writing the biography <emph render="italic">The Richest American: J. Paul Getty</emph> (1960).  The material dates from around the 1890s to 1973 and 1984 and includes correspondence that discusses Hewins' writings about Getty, a number of unpublished manuscripts, personal photographs given to Hewins by Mr. Getty, and other related photographs, clippings, and ephemera belonging to Hewins.  The collection has two main strengths: the unpublished material and the photographs.</p>
+         <p>The papers include a substantial body of correspondence between Hewins and Getty, as well as scattered letters received from Allene Ashby, Penelope Kitson and other Getty family members and associates. The manuscripts comprise Hewins' published and unpublished material about Getty, probably assembled as a potential update to the 1960 biography. These writings are mainly anecdotal in nature; some relate to Getty's friendships and others to his business or recreational activities. A large file of photocopied international clippings chronicle Getty's press coverage through the fifties, sixties and seventies, many of these concerning the kidnapping of Getty's grandson.</p>
+         <p>The photographic prints and negatives contain over 200 unique images, ranging from approximately the 1890s to the late 1960s, collected by Ralph Hewins.  The images include an array of professional photographs and informal snapshots of Getty, his wives, children, friends, associates, businesses, properties, projects, and residences.  Some of the images were published in Hewins' book.</p>  
+      </scopecontent>
+      <arrangement id="aspace_8f1a8869bcb6480e8b9a8a0d207cc785">
+         <head>Arrangement</head>
+         <p>These records are organized in three series: 
+Series I. Correspondence, 1957-1971, undated;
+Series II. Manuscripts and background information, 1960-1973, 1984, undated;
+Series III. Photographs, circa 1890s-1960s.</p>  
+      </arrangement>
+      <bioghist id="aspace_3c4ef7e955cde8915605d4e5f1e6bb56">
+         <head>Biography</head>
+         <p>Ralph Hewins (d. 1984) was a professional journalist largely concerned with the very wealthy. He was the author of <emph render="italic">The Richest American: J. Paul Getty</emph> (1960). Hewins became a personal friend of Mr. Getty during the years he spent researching and writing Getty's biography.</p>  
+      </bioghist>
+      <controlaccess>
+         <subject source="lcsh">Billionaires -- United States -- 20th century</subject>
+         <genreform source="aat">Clippings (information artifacts)</genreform>
+         <subject source="lcsh">Art objects -- Collectors and collecting</subject>
+         <genreform source="aat">Manuscripts</genreform>
+         <genreform source="aat">Correspondence</genreform>
+         <genreform source="aat">Photographic prints</genreform>
+         <genreform source="aat">Ephemera</genreform>
+         <persname authfilenumber="no2011093364" rules="aacr" source="naf">Hewins, Ralph</persname>
+         <persname rules="aacr">Kitson, Penelope</persname>
+         <persname authfilenumber="n50016532" source="naf">Getty, J. Paul (Jean Paul), 1892-1976</persname>
+         <persname rules="aacr" source="local">Ashby, Allene</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref25_k4t" level="series">
+            <did>
+               <unittitle>Correspondence,</unittitle>
+               <unitid>Series I.</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+                  <extent altrender="carrier">(1 box)</extent>
+               </physdesc>
+               <unitdate datechar="creation" normal="1890/1984" type="inclusive">1957-1971, </unitdate>
+               <unitdate certainty="inferred" datechar="creation" type="inclusive">undated</unitdate>
+            </did>
+            <arrangement id="aspace_377e7c7e6339b5265d9c5d75e10b3c74">
+               <head>Arrangement</head>
+               <p>These records are arranged in general chronological order.</p>
+            </arrangement>
+            <scopecontent id="aspace_4c6f44468534d55f17cbc77bab385818">
+               <head>Scope and Contents note</head>
+               <p>Records consist of correspondence, primarily to and from Ralph Hewins, a biographer and acquaintance of J. Paul Getty, 1957-1971 and undated. This correspondence largely relates to Hewins' writings on Getty, and includes correspondence with Getty and other individuals, including Maxwell Balfour, president of Getty's Spartan Aircraft Company. The letters discuss the publication of Hewins' 1960 biography of Getty, <emph render="italic">The Richest American</emph>, as well as personal events in Hewins' life related to his work on the biography.</p>
+               <p>See also Series III. Photographs, for related photographs.</p>
+            </scopecontent>
+            <c02 id="aspace_ref26_jxa" level="file">
+               <did>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate datechar="creation" normal="1957/1966" type="inclusive">1957-1966, </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1890/1984"
+                            type="inclusive">undated</unitdate>
+                  <physdesc id="aspace_15ebd3684992dcd5e0060ba4fa97539d" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_387c3479790b89ef5d9322ab8963341f"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_5ef0c6a6ccedc9af2406cae0f8f79680"
+                             parent="aspace_387c3479790b89ef5d9322ab8963341f"
+                             type="folder">1-2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_2x7" level="file">
+               <did>
+                  <unittitle>Correspondence,</unittitle>
+                  <unitdate datechar="creation" normal="1967/1971" type="inclusive">1967-1971</unitdate>
+                  <physdesc id="aspace_b2e918768e44a711373df29e333fdc4a" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0110f6329599b719d8cd6ece8ef2649a"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_6812ae29d9bd55c131d2d8179de3b03a"
+                             parent="aspace_0110f6329599b719d8cd6ece8ef2649a"
+                             type="folder">3-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_cgq" level="file">
+               <did>
+                  <unittitle>J. Paul Getty cards to Hewins,</unittitle>
+                  <unitdate datechar="creation" normal="1961/1968" type="inclusive">1961-1968, </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1880/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4999a39deb27257651d6cd24fd5780f5"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_4f8b34ba4891d766f386b7d570116983"
+                             parent="aspace_4999a39deb27257651d6cd24fd5780f5"
+                             type="folder">5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref33_2kh" level="series">
+            <did>
+               <unittitle>Manuscripts and background information,</unittitle>
+               <unitid>Series II.</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+                  <extent altrender="carrier">(3 boxes, 1 flat file)</extent>
+               </physdesc>
+               <unitdate datechar="creation" normal="1959/1973" type="inclusive">1959-1973, </unitdate>
+               <unitdate datechar="creation" normal="1984/1984">1984, </unitdate>
+               <unitdate certainty="inferred"
+                         datechar="creation"
+                         normal="1959/1984"
+                         type="inclusive">undated</unitdate>
+            </did>
+            <arrangement id="aspace_0dfae7e17329ffc5364ff0ae31cf8458">
+               <head>Arrangement</head>
+               <p>These records are generally arranged in the order of accession. The larger manuscripts have been grouped together.</p>
+            </arrangement>
+            <scopecontent id="aspace_f46cdf17e229e2c09afd2c94d3f70fce">
+               <head>Scope and Contents note</head>
+               <p>Records consist of typescript manuscripts, clippings, ephemera, and photographs, 1960-1973, 1984, and undated, written and collected by Ralph Hewins about J. Paul Getty and comprising Hewins' published and unpublished material about Getty.  Some of the material seems to have been assembled as an update to his book, <emph render="italic">The Richest American: J. Paul Getty</emph> (New York: 1960). The manuscripts are a set of short articles and two versions of the manuscript for <emph render="italic">The Zillionaire: Getty at 80</emph> (unpublished); these contain Hewins' edits. The short works are anecdotal in nature; some relate to Getty's friendships and others to his business or recreational activities. The ephemera consists of cards, invitations and announcements relating to Getty and his companies.</p>
+            </scopecontent>
+            <c02 id="aspace_ref34_chh" level="file">
+               <did>
+                  <unittitle>"The Zillionaire: Getty at 80, Part I: The Man," edited manuscript,</unittitle>
+                  <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
+                  <physdesc id="aspace_2b38ee26afe8ae5805c25d20c7610737" label="Container Summary">[4 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_94767d0aac85715044df4b7ce23f9c65"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_a10612e0c3b51cec2758007858763184"
+                             parent="aspace_94767d0aac85715044df4b7ce23f9c65"
+                             type="folder">6-9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_1em" level="file">
+               <did>
+                  <unittitle>"Getty at 80, Part II: The Businessman," edited manuscript,</unittitle>
+                  <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
+                  <physdesc id="aspace_1323daa21358f0e9f0d0ead9e9c99068" label="Container Summary">[4 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_aca66b78e9928899284768579c3eb9de"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_b1eaffdbb21a32ffdb2c58d0093f5c9f"
+                             parent="aspace_aca66b78e9928899284768579c3eb9de"
+                             type="folder">10-13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_fqi" level="file">
+               <did>
+                  <unittitle>"Getty at 80, Part III: The Whole Man," edited manuscript,</unittitle>
+                  <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b692f53098e807ac40173a72b0a8818c"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_fb7c13e8bc7b84378620a4a90a049113"
+                             parent="aspace_b692f53098e807ac40173a72b0a8818c"
+                             type="folder">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_d1k" level="file">
+               <did>
+                  <unittitle>"Getty at 80," Hewins' notes and edits,</unittitle>
+                  <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
+                  <physdesc id="aspace_a42a9e543241372fc670786a3b8d5bfe" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_64d773c1095bf076faf7433a1704d698"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_692c25f7176af069bbbc5a726359ab7c"
+                             parent="aspace_64d773c1095bf076faf7433a1704d698"
+                             type="folder">15-16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_ihh" level="file">
+               <did>
+                  <unittitle>The Zillionaire: early draft,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <physdesc id="aspace_aa7c0dbf4547a4777e3e5661af5649fb" label="Container Summary">[1-2 of 5 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e6dadf5a4778acbf37d21e3a8e7c5d7e"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-1</container>
+                  <container id="aspace_6c056a9a2d9ab79572abfb94031cad53"
+                             parent="aspace_e6dadf5a4778acbf37d21e3a8e7c5d7e"
+                             type="folder">17-18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_i28" level="file">
+               <did>
+                  <unittitle>The Zillionaire: early draft,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <physdesc id="aspace_56b5f8a14559cd1188d1fec5522d1dcc" label="Container Summary">[3-5 of 5 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_fc0dd43407e6930c3b8554c05f049513"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_9093463f43262a7890cf14d0088dc110"
+                             parent="aspace_fc0dd43407e6930c3b8554c05f049513"
+                             type="folder">1-3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_gjo" level="file">
+               <did>
+                  <unittitle>Miscellaneous notes, manuscript pages,</unittitle>
+                  <unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960, </unitdate>
+                  <unitdate datechar="creation" normal="1963/1963">1963, </unitdate>
+                  <unitdate datechar="creation">1966, </unitdate>
+                  <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a2fedce2461138887db997e3d3850fcc"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_076d3d15d1d7a5cce088b37a611b4377"
+                             parent="aspace_a2fedce2461138887db997e3d3850fcc"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_1ve" level="file">
+               <did>
+                  <unittitle>"The Mystery Wife of J. Paul Getty,"</unittitle>
+                  <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f5406d2523a614e036a4f2463ec1fbc8"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_5db0d6ea70a1b99032958e1831077992"
+                             parent="aspace_f5406d2523a614e036a4f2463ec1fbc8"
+                             type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_cvi" level="file">
+               <did>
+                  <unittitle>"Getty's 'Mystery House,'"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_c14ffc5f0b63a11479b02da83563d81d"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_079bae90864967d480cb94da6c39c5ba"
+                             parent="aspace_c14ffc5f0b63a11479b02da83563d81d"
+                             type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_bjc" level="file">
+               <did>
+                  <unittitle>"The World's Richest Sportsman: J. Paul Getty,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_3da5b7ae8cb1d036788e1c7d060dd6e4"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_939a08f723864bbd8a2be87b22476354"
+                             parent="aspace_3da5b7ae8cb1d036788e1c7d060dd6e4"
+                             type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_8us" level="file">
+               <did>
+                  <unittitle>"Mr. Getty to fly again,"</unittitle>
+                  <unitdate datechar="creation" normal="1959/1984" type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e0c01371e931ea996b9bb1b8ed38dfd0"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_65d0034384bfd48a816e3c1d72104391"
+                             parent="aspace_e0c01371e931ea996b9bb1b8ed38dfd0"
+                             type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_p8i" level="file">
+               <did>
+                  <unittitle>"Mr. Getty economises,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_1b75ffb89475002d053839a4a4f2c0d4"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_de520b24cc898ae93a0f8a68973374bd"
+                             parent="aspace_1b75ffb89475002d053839a4a4f2c0d4"
+                             type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_etv" level="file">
+               <did>
+                  <unittitle>"Mr. Getty's iron bars,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9cc49d989c6f930b101a62ae34983113"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_4a087a8eb047206296d691c66354d492"
+                             parent="aspace_9cc49d989c6f930b101a62ae34983113"
+                             type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_wea" level="file">
+               <did>
+                  <unittitle>"A Murder Shakes the Arabian Oilfields,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_d3a493d08a445fcb3adf830b77af0f4a"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_c051c1df40df93524aa580d7f31f5448"
+                             parent="aspace_d3a493d08a445fcb3adf830b77af0f4a"
+                             type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_23s" level="file">
+               <did>
+                  <unittitle>"Rival Books About Paul Getty,"</unittitle>
+                  <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_948eca94e6b71ac4761912520696206c"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_4d70f524d41d6001e19abb7a4df0a375"
+                             parent="aspace_948eca94e6b71ac4761912520696206c"
+                             type="folder">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_jfs" level="file">
+               <did>
+                  <unittitle>"Mrs. Kitson's treat,"</unittitle>
+                  <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_ca78cc4e65e1ce4b285249a1a4267977"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_1b43c8b26dc0e9d8719c51b9547ccfa5"
+                             parent="aspace_ca78cc4e65e1ce4b285249a1a4267977"
+                             type="folder">13</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_okb" level="file">
+               <did>
+                  <unittitle>"Mr. Getty's quick return,"</unittitle>
+                  <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_55382d91e34528951364a22191bdb281"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_a5205f3384222a7dc3a72196ac4ea78a"
+                             parent="aspace_55382d91e34528951364a22191bdb281"
+                             type="folder">14</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_r4o" level="file">
+               <did>
+                  <unittitle>"Tanker Sickness,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_23c81318f335c8c029c701ec78a8e174"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_6fd64de6f5be16e750499f8eb0ec714b"
+                             parent="aspace_23c81318f335c8c029c701ec78a8e174"
+                             type="folder">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_4dp" level="file">
+               <did>
+                  <unittitle>"Why I'm the Richest,"</unittitle>
+                  <unitdate datechar="creation" normal="1961/1961">1961</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_6d88189a45f3bbe6f5c767def44e266c"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_5de50a71cd26e94f04464eb1d9db078c"
+                             parent="aspace_6d88189a45f3bbe6f5c767def44e266c"
+                             type="folder">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_9qm" level="file">
+               <did>
+                  <unittitle>"The New Mr. Getty," and letter,</unittitle>
+                  <unitdate datechar="creation" normal="1961/1961">1961</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b3cf5934f52a665efe81b12933fcec07"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_02b519263161731b7c70b54b61b7bb63"
+                             parent="aspace_b3cf5934f52a665efe81b12933fcec07"
+                             type="folder">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_4fc" level="file">
+               <did>
+                  <unittitle>"What I Think of Howard Hughes,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b579f009bcf6ec1b30e22c6c9dbf1a1c"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_5092c41f40b1bdda1b5e1c4f9e382d15"
+                             parent="aspace_b579f009bcf6ec1b30e22c6c9dbf1a1c"
+                             type="folder">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_iqa" level="file">
+               <did>
+                  <unittitle>Hewins letter to editor, London Daily Telegraph, re: Howard Hughes,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_3377c880d766cf6ee7c3086a5c72c0b0"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_c6c0738a1322bc29a1439642e193ab5e"
+                             parent="aspace_3377c880d766cf6ee7c3086a5c72c0b0"
+                             type="folder">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref56_a4z" level="file">
+               <did>
+                  <unittitle>"The Unknown Giant,"</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_3f3735427469913ecdbec73c3fa555d7"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_f8dfadbbe6dd5cab8e469fdb3d619a58"
+                             parent="aspace_3f3735427469913ecdbec73c3fa555d7"
+                             type="folder">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref57_y9q" level="file">
+               <did>
+                  <unittitle>Hewins' notes and notebook,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_136425254c87bcea0199829a77b4fdb7"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_831f4727da524746a8065a7cf6d5aca1"
+                             parent="aspace_136425254c87bcea0199829a77b4fdb7"
+                             type="folder">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref58_s9u" level="file">
+               <did>
+                  <unittitle>Notes, clippings, card from George Getty,</unittitle>
+                  <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_8c7813057e85385fa805f29089d3743f"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_72a63d80ba0a153682af53e99c423cbd"
+                             parent="aspace_8c7813057e85385fa805f29089d3743f"
+                             type="folder">22</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref59_0go" level="file">
+               <did>
+                  <unittitle>Getty-related ephemera collected by Hewins,</unittitle>
+                  <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961, </unitdate>
+                  <unitdate datechar="creation" normal="1966/1966">1966, </unitdate>
+                  <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_7ebf143e39ffc601ee62d760d2317f53"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_779b16c3dbe208808da21cecbf3a07ed"
+                             parent="aspace_7ebf143e39ffc601ee62d760d2317f53"
+                             type="folder">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref60_b1f" level="file">
+               <did>
+                  <unittitle>Papers found in autographed copy of "How to be Rich" with dedication,</unittitle>
+                  <unitdate datechar="creation" normal="1962/1971" type="inclusive">1962-1971</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f58031c7ca38fc6727c33627103e9019"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_8e53e7d8d84f225e4046e6a738c4b2ec"
+                             parent="aspace_f58031c7ca38fc6727c33627103e9019"
+                             type="folder">24</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_wsj" level="file">
+               <did>
+                  <unittitle>Clippings,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_5005ae1d01b9b7d6dc09221d1f9349bb"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_65a15c6e8b9c7c9ec15b29dd2d39393a"
+                             parent="aspace_5005ae1d01b9b7d6dc09221d1f9349bb"
+                             type="folder">25</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_n3k" level="file">
+               <did>
+                  <unittitle>Hewins' clippings file,</unittitle>
+                  <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+                  <physdesc id="aspace_354f923092473bae1c3f87a786b0b34b" label="Container Summary">[5 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a9e62850a81e489b9cad49d377ffadfd"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_b93b65f4009c862f1320d1aaa5412005"
+                             parent="aspace_a9e62850a81e489b9cad49d377ffadfd"
+                             type="folder">26-30</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref63_4jb" level="file">
+               <did>
+                  <unittitle>Clippings (photocopies), ephemera,</unittitle>
+                  <unitdate datechar="creation" normal="1984/1984">1984, </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1984"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_88db036668afb227a73f2888706805ed"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-2</container>
+                  <container id="aspace_ff4c59fa17666da1df0f69bc64fa9824"
+                             parent="aspace_88db036668afb227a73f2888706805ed"
+                             type="folder">31</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref64_lpl" level="file">
+               <did>
+                  <unittitle>Program for ceremony conferring honorary law degree to J. Paul Getty from Ohio Northern University,</unittitle>
+                  <unitdate datechar="creation" normal="1966-08-21/1966-08-21">August 21, 1966</unitdate>
+                  <container altrender="3 inch flat box (12 x 15)"
+                             id="aspace_9bd9f83fa7e052e382654a9de8725403"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref65_jp3" level="file">
+               <did>
+                  <unittitle>"Herculaneum and the Villa of the Papyri," Instituto Geographico de Agostini,</unittitle>
+                  <unitdate datechar="creation" normal="1963/1963">1963</unitdate>
+                  <container altrender="3 inch flat box (12 x 15)"
+                             id="aspace_d54314d6679125b2f5b22c598c139e82"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref66_bdy" level="file">
+               <did>
+                  <unittitle>"J. Paul Getty's Worldwide Empire" map,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1959/1983"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Flatfile (48 x 36)"
+                             id="aspace_83c5234f75ee4f596734ec24ed3d7055"
+                             label="Mixed Materials"
+                             type="flatfile">1986.IA.10-6</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref71_yax" level="series">
+            <did>
+               <unittitle>Photographs,</unittitle>
+               <unitid>Series III.</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+                  <extent altrender="carrier">(2 boxes)</extent>
+               </physdesc>
+               <unitdate certainty="approximate"
+                         datechar="creation"
+                         normal="1890/1969"
+                         type="inclusive">circa 1890s-1960s </unitdate>
+               <unitdate certainty="inferred"
+                         datechar="creation"
+                         normal="1890/1960"
+                         type="inclusive">and undated</unitdate>
+            </did>
+            <arrangement id="aspace_cefe2742949300b6162b37243d468695">
+               <head>Arrangement</head>
+               <p>The photographs have been roughly arranged by subject. Within each subject the images are arranged numerically accoring to the creator's original numbering system (some prints have numbers written in pencil on the verso).  Some of the photographic prints are accompanied by negatives, which are housed in neighboring sleeves.</p>
+            </arrangement>
+            <scopecontent id="aspace_0662cafda32b27a69f63c194643e3d44">
+               <head>Scope and Contents note</head>
+               <p>Materials consist of over 200 photographic prints and negatives, ranging from around the 1890s to the late 1960s, collected by Ralph Hewins, depicting J. Paul Getty, family, friends, business associates, properties, and a reception for Hewins' book <emph render="italic">The Richest American: J. Paul Getty</emph> (1960). The records also include photocopies of all photographs. Some of the photographs were published in Hewins' book.  The vast majority of the photographs are black-and-white.</p>
+               <p>See also Series I. Correspondence, for related items.</p>
+            </scopecontent>
+            <c02 id="aspace_ref87_8q7" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">J. Paul Getty,</emph>
+                  </unittitle>
+                  <unitdate certainty="approximate"
+                            datechar="creation"
+                            normal="1890/1969"
+                            type="inclusive">1890s-1960s</unitdate>
+                  <physdesc id="aspace_b7f38b75f7b4b2d2f507e1e8ec9f5e6c" label="Container Summary">(approximately 42 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_fdb0f5e03185bdbf283b4ac131b3f393"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_86afb0cc199fabf5d04b7ff43463a87e">
+                  <head>Scope and Contents</head>
+                  <p>Material comprises formal portraits and casual snapshots featuring J. Paul Getty, including photographs of him as a child, with family, with a couple of his wives, with friends, with business associates, with his Spartan aircraft staff, with English Queen Elizabeth the Queen Mother, and with his lion cub.  Material also includes shots of Getty receiving the Legion of Honor, receiving an honorary academic degree, standing in oil fields, standing on deck the tanker "George F. Getty," and visiting archaeological sites.  All but one of the photos is in black-and-white.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref89_jr6" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Getty family and family history,</emph>
+                  </unittitle>
+                  <unitdate certainty="approximate"
+                            datechar="creation"
+                            normal="1890/1969"
+                            type="inclusive">circa 1890-1960s</unitdate>
+                  <physdesc id="aspace_31276c896125eadf9a33fcdce906c135" label="Container Summary">(approximately 23 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_3036e33631c63d336e9700f46a1e1ca3"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_4b3f173b811cffa8fe05f58c1b04803f">
+                  <head>Scope and Contents</head>
+                  <p>Material comprises images of J. Paul Getty's parents, George F. Getty I and Sarah C. Getty; sister, Gertrude Lois Getty; wives, Jeannette McDermot, Allene Ashby, Ann Rork, Fini Helmly; children, Eugene Paul Getty II, Gordon Getty, George F. Getty, and Timmy Getty; and young grandchildren, Anne, Caroline, Claire, and J. Paul Getty III. Photos of wife, Teddy are located with the photos of J. Paul Getty.  Photos of Ronald Getty are located with Ralph Hewins' book signing images.  Persons listed above may also appear in images of various events listed below. Images are black-and-white except for one hand-tinted photograph of Allene Ashby.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref91_rsm" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Getty residences,</emph>
+                  </unittitle>
+                  <unitdate datechar="creation" normal="1908/1908">1908 </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1880/1969"
+                            type="inclusive">and undated</unitdate>
+                  <physdesc id="aspace_cd7b378fd7cf4a19547ab3dcefd68a91" label="Container Summary">(12 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_4e3e84dab221d6777266dac12a6b4df6"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_83835abf23195e9a6d745e0b43f8fdf2">
+                  <head>Scope and Contents</head>
+                  <p>Material comprises images of Getty residences: South Kingsley Drive (Los Angeles); Sutton Place (England); exterior of the Getty Ranch House (near Malibu, California) and its zoo; and La Posta Vecchia (Gaeta, Italy).</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref95_7rj" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">People,</emph>
+                  </unittitle>
+                  <unitdate certainty="approximate"
+                            datechar="creation"
+                            normal="1950/1969"
+                            type="inclusive">circa 1950s and 1960s</unitdate>
+                  <physdesc id="aspace_479a7b70115b005ae4f9b11e0aae42ec" label="Container Summary">(approximately 12 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_73c9190a0d50137c8e5a5a9e6607186d"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_39238954fe9e35559dba14e09996825b">
+                  <head>Scope and Contents</head>
+                  <p>Material includes photographs of Ralph Hewins, Penelope Kitson, President Eisenhower, and others.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref97_ut5" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Museum gallery and art objects,</emph>
+                  </unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1890/1960"
+                            type="inclusive">undated</unitdate>
+                  <physdesc id="aspace_98bcaba0278aaaac8a821f58ab7ee371" label="Container Summary">(3 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_ff514de266d29e512fee6489c9fe1384"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_e23b47638b23646974946f3d1f14114b">
+                  <head>Scope and Contents</head>
+                  <p>Materials include images of a museum gallery within the Getty Ranch House, the "Ardibil Carpet," and the "Medalllion and Tree Carpet."</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref99_bj2" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Business: Japan,</emph>
+                  </unittitle>
+                  <unitdate datechar="creation" normal="1965/1965">1965 </unitdate>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1890/1960"
+                            type="inclusive">and undated</unitdate>
+                  <physdesc id="aspace_3424440485aad51ee53764e8ea7c5115" label="Container Summary">(approximately 20 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_011d1beede2551af99eee53971660ef8"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_d16b85e1ce3d5165a871f3cfe6833e01">
+                  <head>Scope and Contents</head>
+                  <p>Material includes images of Japanese business associates, an oil tanker, Ralph Hewins, and others.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref101_bp5" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Business: Spartan,</emph>
+                  </unittitle>
+                  <unitdate certainty="approximate"
+                            datechar="creation"
+                            normal="1940/1949"
+                            type="inclusive">circa 1940s</unitdate>
+                  <physdesc id="aspace_17668e7bd1e2281c0b680e39828b7e0b" label="Container Summary">(7 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_be6b62b83bbb295dcaef701b2109f438"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_2569ada70b6f4134e4f5a384ea32a370">
+                  <head>Scope and Contents</head>
+                  <p>Material includes an aerial view of the Spartan facility, and Spartan mobile home interiors,  William F. Humphry, Maxwell W. Balfour, and British Royal Air Force (RAF) student pilots at the Spartan School of Aeronautics.  See also images of J. Paul Getty for an additional photograph of Spartan employees.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref103_fuw" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Business: various,</emph>
+                  </unittitle>
+                  <unitdate certainty="approximate"
+                            datechar="creation"
+                            normal="1930/1969"
+                            type="inclusive">circa 1930s-1960s</unitdate>
+                  <physdesc id="aspace_41e4924e6b4a2bad8279e452bdf78019" label="Container Summary">(approximately 82 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_685d680d4f29dd840b45a814a6e9c74c"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_d9d5322c7a67ab9a645b22730440af42">
+                  <head>Scope and Contents</head>
+                  <p>Material comprises exterior shots of various Getty buildings and models of buildings; refineries; filling station; interior of the Cotillion Room (Hotel Pierre, NY); aerial view of Hotel Pierre Marques (Alcapulco); and oil tankers, derricks, drilling sites, pipelines, employees and other shots related to the petroleum business.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref105_vtu" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Hotel Pierre event,</emph>
+                  </unittitle>
+                  <unitdate datechar="creation" normal="1960-03/1960-03">March 1960</unitdate>
+                  <physdesc id="aspace_9bf4af7c0cfbd20a797601d9ffa07311" label="Container Summary">(26  8 x 10"; 27  3 x 5"; and 2  3 x 5" color)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_1b2733f04302c0576a2b1fc0e69bce53"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_01193bfd3e44bb7b55d6403f4d5dd4e9">
+                  <head>Scope and Contents</head>
+                  <p>Materials comprise professional photographs stamped "Hotel Pierre Public Relations, Fifth Ave. &amp; 61st Street, New York, N.Y." and "Please credit Irwin Dribben, New York" on verso.  Photographs feature Ralph Hewins, George F. Getty II, and Gloria Getty.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref107_5ml" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="bold">Hewins' book signing,</emph>
+                  </unittitle>
+                  <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+                  <physdesc id="aspace_23724847e6ea1e88394b242106e06a0b" label="Container Summary">(approximately 18 images)</physdesc>
+                  <container altrender="Binder 4.25 inches wide (13 x 14)"
+                             id="aspace_9d26999fdb49baf50a4103e81903379c"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-4</container>
+               </did>
+               <scopecontent id="aspace_9b318a1123dd0e8869e9073f937ce843">
+                  <head>Scope and Contents</head>
+                  <p>Material documents a reception held at the J. Paul Getty Museum (galleries and courtyard of the Ranch House) to commemorate the publication of Ralph Hewins' biography of J. Paul Getty.  Material includes images of Ralph Hewins; George F. Getty II and his wife, Gloria Getty; Ronald Getty, and his mother, Fini Helmle; and others.</p>
+               </scopecontent>
+            </c02>
+            <c02 id="aspace_ref82_96w" level="file">
+               <did>
+                  <unittitle>Annotated photocopies of prints in the collection,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1890/1960"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_666097cc4124ec89880c329c848496f7"
+                             label="Mixed Materials"
+                             type="box">1986.IA.10-3</container>
+                  <container id="aspace_02e5d0e4dde9de3d94a3a956b1dac03f"
+                             parent="aspace_666097cc4124ec89880c329c848496f7"
+                             type="folder">1-7</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

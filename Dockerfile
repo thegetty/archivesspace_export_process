@@ -5,6 +5,22 @@ ARG OWNER=jupyter
 ARG BASE_CONTAINER=$REGISTRY/$OWNER/scipy-notebook
 FROM $BASE_CONTAINER
 
+USER root
+ENV GRANT_SUDO yes
+
+RUN apt-get update && \
+    apt-get install -y ca-certificates && \
+    apt-get install -y openjdk-8-jdk && \
+    apt-get install -y ant && \
+    apt-get install -y ruby && \
+    gem install bundler && \
+    apt-get clean
+
+ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64/
+RUN export JAVA_HOME
+
+USER ${NB_UID}
+
 ARG NEXUS_USER
 ARG NEXUS_PASSWORD
 ARG PIP_INDEX_URL=https://${NEXUS_USER}:${NEXUS_PASSWORD}@artifacts.getty.edu/repository/jpgt-pypi-virtual/simple
@@ -31,3 +47,6 @@ linkedart-py==1.0.1 \
 archesapiclient==1.1.9 && \
     fix-permissions "${CONDA_DIR}" && \
     fix-permissions "/home/${NB_USER}"
+
+#unzip exporter service (volume could be causing issue)
+#change user permissions

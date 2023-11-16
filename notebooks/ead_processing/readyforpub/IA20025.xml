@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA20025</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Getty Art History Information Program, Interviews regarding the study of art history</titleproper>
+            <titleproper>Finding aid for the Getty Art History Information Program Interviews Regarding the Study of Art History, 1986, 1988, 1990  <num>IA20025</num>
+            </titleproper>
+            <author>Sue Luftschein and Cyndi Shein</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2009</date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-09-26 17:38:55 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>Interviews regarding the study of art history</unittitle>
+         <origination label="Creator">
+            <persname authfilenumber="n82001780" role="ctb" rules="aacr" source="naf">Forster, Kurt Walter</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n84020486" role="ctb" source="naf">Gaehtgens, Thomas W., 1940-</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n80046790" role="ctb" source="naf">Gombrich, E. H. (Ernst Hans), 1909-2001</persname>
+         </origination>
+         <origination label="Creator">
+            <persname role="ctb" rules="aacr" source="local">Holt, Rick K.</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="nr89012008" role="ctb" source="naf">Jouffre, Valérie Noëlle</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n50043435" role="ctb" source="naf">Klotz, Heinrich</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n84091215" role="ctb" source="naf">Koreny, Fritz</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n50044024" role="ctb" source="naf">Krauss, Rosalind E.</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n81086393" role="ctb" rules="aacr" source="naf">Krautheimer, Richard, 1897-1994</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n85265821" role="ctb" source="naf">Murray, Stephen, 1945-</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n82257078" role="ctb" rules="aacr" source="naf">Perrot, Françoise</persname>
+         </origination>
+         <origination label="Creator">
+            <corpname authfilenumber="n85271479" role="cre" rules="aacr" source="naf">Getty Art History Information Program</corpname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n79039304" role="ctb" source="naf">Wit, Wim de</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n79136573" role="ctb" source="naf">Troy, Nancy J.</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n80161937" role="ctb" rules="aacr" source="naf">Walsh, John, 1937-</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n97114414" role="ctb" rules="aacr" source="naf">Stieber, Nancy</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n85114022" role="ctb" source="naf">Toker, Franklin</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n91088388" role="ctb" source="naf">Schulz, Juergen, 1927-2014</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n85170993" role="ctb" source="naf">Schwartz, Gary, 1940-</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n78093087" role="ctb" source="naf">Preziosi, Donald, 1941-</persname>
+         </origination>
+         <origination label="Creator">
+            <persname role="ctb" source="naf">Rubin, William Stanley</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n80076719" role="ctb" source="naf">Connors, Joseph</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="nr90000472"
+                      role="ctb"
+                      rules="aacr"
+                      source="naf">Cousins, Judith</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n86136583" role="ctb" source="naf">Castelnuovo, Enrico, 1929-2014</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n83125209" role="ctb" source="naf">Clark, T. J. (Timothy J.)</persname>
+         </origination>
+         <origination label="Creator">
+            <persname role="ctb" rules="aacr" source="local">Schmitt, Marilyn</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n91015006" role="ctb" source="naf">Fletcher, Jennifer</persname>
+         </origination>
+         <origination label="Creator">
+            <persname role="ctb" rules="aacr">Wilde, Deborah N.</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n84172893" role="ctb" source="naf">Bergdoll, Barry</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n87917656" role="ctb" rules="aacr" source="naf">Bakewell, Elizabeth</persname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n85059257" role="ctb" source="naf">Beeman, William O.</persname>
+         </origination>
+         <origination label="Creator">
+            <corpname authfilenumber="nr88011961"
+                      role="ctb"
+                      rules="aacr"
+                      source="naf">Brown University. Institute for Research in Information and Scholarship</corpname>
+         </origination>
+         <origination label="Creator">
+            <persname authfilenumber="n87821554" role="ctb" rules="aacr" source="naf">Reese, Carol McMichael</persname>
+         </origination>
+         <unitid>IA20025</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.8 Linear Feet</extent>
+            <extent altrender="carrier">(4 boxes)</extent>
+         </physdesc>
+         <unitdate datechar="creation" normal="1986/1990" type="inclusive">1986, 1988, 1990</unitdate>
+         <abstract id="aspace_765967a220a2ecf442b09e0c5f543a0a" label="Abstract">The records comprise interviews that were conducted by the Getty Art History Information Program (AHIP) and Brown University's Institute for Research in Information and Scholarship (IRIS) in 1986 and 1988.  The interviews consist of discussions with experts and researchers in the history of art and architecture.   The interviews focus on research concerns and practices in an effort to determine what types of automated tools and networked resources would enhance scholarly work in the field of art history.  Materials include sound recordings and transcripts.</abstract>
+         <physloc id="aspace_bf4685a2124c4f24c360140f62ca28f3">To access physical and digital materials at the Getty, go to the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/ALMA21132744350001551"
+                    xlink:show="new">library catalog record</extref> for this collection and click "Request an Item" or "Connect to digital images." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, some of the records may be stored off site; advanced notice is required for access to these materials.</physloc>
+         <langmaterial>
+            <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+      </did>
+      <relatedmaterial id="aspace_01a88c145d96ee0e1d67ebda6e9741bb">
+         <head>Related Materials Note</head>
+         <p>
+            <emph render="italic">The following materials are offered as possible sources of further information on the people, programs, and subjects covered by the records. The listing is not exhaustive. </emph>
+         </p>
+         <p>
+            <emph render="bold">Publications</emph>
+         </p>
+         <p>
+            <bibref>
+               <persname>Bakewell, Elizabeth, </persname>
+               <persname>William O. Beeman, </persname>
+               <persname>Carol McMichael Reese. </persname>
+               <title>
+                  <emph render="italic">Object, image, inquiry: the art historian at work. </emph>
+               </title>Santa Monica, California: Getty Art History Information Program, 1988. </bibref>
+         </p>  
+      </relatedmaterial>
+      <processinfo id="aspace_4115a7d352f7c57b2199ae0c392c291e">
+         <head>Processing History</head>
+         <p>A preliminary inventory of the records was made by Institutional Archives part-time staff prior to 2005. The finding aid was begun by Sue Luftschein in 2006 and completed by Cyndi Shein in 2009. Transcripts were digitized in 2015 and are available online. Finding aid updated by Helen Kim in 2015.</p>  
+      </processinfo>
+      <acqinfo id="aspace_f27d73a0234d6ca55d21030446c49ded">
+         <head>Acquisition Information</head>
+         <p>The records described in this finding aid originated in accession numbers 1986.IA.43 and 1991.IA.01, transferred by the Getty Art History Information Program.</p>  
+      </acqinfo>
+      <prefercite id="aspace_5f6af2e4dc219a5399f2d925bf66bd6f">
+         <head>Preferred Citation</head>
+         <p>[Cite the item and series (as appropriate)], Interviews with Art Historians, 1986, 1988, 1990, Getty Art History Information Program. Getty Research Institute, IA20025.</p>
+         <p>http://hdl.handle.net/10020/cifaia20025</p>  
+      </prefercite>
+      <userestrict id="aspace_e225831efe68442137a8aaf57d3b8404">
+         <head>Restrictions on Use</head>
+         <p>Contact<extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/rights_repro"
+                    xlink:show="new"> Rights and Reproductions </extref> at the Getty Research Institute for copyright information and permission to publish.</p>  
+      </userestrict>
+      <accessrestrict id="aspace_9225ef1c49174709bd64d38546cf3ac2">
+         <head>Restrictions on Access</head>
+         <p>With the exception of materials that have been marked restricted or confidential, the records described in accession 1986.IA.43 are available for use by qualified researchers. The original audiocassettes are restricted. Transcripts are digitized and accessible online. Where transcripts are not available, the production of use copies is required before access can be granted. This may add a delay to research requests.</p>
+         <p>The transcripts described in accession 1991.IA.01 have been digitized and are available online for use by qualified researchers.</p>
+         <p>The following types of records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_35e0055780149ea4220f569d92978a9c">
+         <head>Scope and Content of Collection</head>
+         <p>The records comprise interviews that were conducted by the Getty Art History Information Program (AHIP) and Brown University's Institute for Research in Information and Scholarship (IRIS) in 1986 and 1988.  The interviews consist of discussions with experts and researchers in the history of art and architecture.  Materials include bound transcripts of the majority of the interviews as well as some of the original sound recordings. </p>
+         <p>In 1986 interviews were conducted with art historians as part of a nine-month study that examined research concerns and practices as a basis for discovering what kinds of automated tools and networked resources would enhance their scholarly work. The study resulted in the text <emph render="italic">Object, image, inquiry: the art historian at work</emph> by Elizabeth Bakewell, William O. Beeman, and Carol McMichael Reese (Getty Art History Information Program).  Bakewell (Social Science Research Analyst in the Office of Program Analysis at IRIS), Beeman (Director of the IRIS Office of Program Analysis), and Marilyn Schmitt (Program Manager in charge of scholarly coordination of art historical projects at AHIP), conducted these interviews. </p>
+         <p>The 1988 interviews were conducted with architectural historians as a postscript to the earlier interviews. In contrast to the more general investigation that characterized the 1986 interviews, the purpose of this second round of interviews was to examine research practice in a specialized area of art history. The 1988 interviews were conducted by Marilyn Schmitt, Carol McMichael Reese (Research Consultant, AHIP), and Deborah N. Wilde (Research Associate, AHIP). </p>  
+      </scopecontent>
+      <arrangement id="aspace_9c7c6e63c987df945e278983957ef4c6">
+         <head>Arrangement</head>
+         <p>These materials are intellectually arranged in two categories: art historians and architectural historians.  Within those categories the materials are arranged alphabetically by the historians' surnames.  The audiocassettes are housed separately for preservation purposes. Digitzed copies of the transcripts are available online.</p>  
+      </arrangement>
+      <bioghist id="aspace_e8fedd6ae6a59de73048c78a6f88038c">
+         <head>Administrative History</head>
+         <p>During the 1980s and 1990s the Art History Information Program (AHIP) pioneered research on the informational needs of art historians and was the driving force behind several collaborative projects concerning art-related texts and images that provided unprecedented automation of, digitization of, and access to these types of materials.  AHIP was a program developed and overseen by the J. Paul Getty Trust, a cultural and philanthropic organization serving both general audiences and specialized professionals. The Trust is a not-for-profit institution, educational in purpose and character, that focuses on the visual arts in all of their dimensions. As of 2009 the Trust supports and oversees four programs: the J. Paul Getty Museum; the Getty Foundation; the Getty Conservation Institute; and the Getty Research Institute, which, among other things, continues the work begun by AHIP.</p>
+         <p>AHIP was envisioned as early as 1981 with the following goal: to create "a set of linked data banks, some created by the Getty, the rest of diverse international origin, containing the varied types of information used by art historians –- bibliographical indexes, biographical indexes, catalogues of works, images of works, and a host of other related data and texts to facilitate the scholar's work, all accessible through simple, unified, and inexpensive means by individual scholars around the world working at personal computers without intermediaries" (AHIP memo, February 1986).  In 1984 Nancy Englander (then Director of Program Planning and Analysis) presented key elements of the emerging Art History Information Program to the Getty Board of Trustees, including a number of databases.  AHIP soon became a program under the J. Paul Getty Trust and a pioneer in databases for the arts and humanities.</p>
+         <p>Initial projects undertaken by AHIP included:
+<list type="marked">
+               <item>The Répertoire international de la littérature de l'art (RILA), a bibliographical system that indexed and abstracted art historical literature that was first based at the Clark Art Institute in Massachusetts and was acquired by the Getty in 1982
+</item>
+               <item>The Avery Index of Architectural Periodicals, a bibliographical system that indexed periodical literature in the history of architecture, was originally based at the Avery Library of Columbia University, and was acquired by AHIP in 1984 
+</item>
+               <item>The Museum Prototype, a consortium of eight American museums that began around 1984 and was charged with developing a standard format for cataloging objects (it was abandoned in December, 1986 due to "persistent structural and conceptual problems") 
+</item>
+               <item>The Architectural Drawings Advisory Group (ADAG), a consortium of some twelve worldwide repositories of architectural drawings that was based in Washington, D.C. at the Center for Advanced Study in the Visual Arts, National Gallery of Arts and was charged with developing a standard format for cataloging architectural drawings </item>
+               <item>The Provenance Index, a database that was designed to trace the custodial history of western European works of art  from the late 16th century to the early 20th century by indexing  transcriptions of material from auction catalogs and archival inventories (it  evolved into the Getty Provenance Index® databases)
+</item>
+               <item>The Witt Library Index, a collaborative venture with the Courtauld Institute (London) that endeavored to electronically link images from the Witt Library with the descriptive information related to each item 
+</item>
+               <item>The Census of Antique Art and Architecture Known to the Renaissance, which began in 1946 as a file of text and images in the Warburg Institute of London, was expanded by the Bibliotheca Hertziana (Rome) in 1982, and whose  automation was sponsored by the Getty in 1984 
+</item>
+               <item>The Art and Architecture Thesaurus® (AAT), a database of standardized vocabulary that was designed in the 1970s to merge redundant and contradictory subject headings from various controlled vocabularies related to objects and monuments and was acquired by the Getty in 1983 
+</item>
+               <item>The Scuola Normale / Getty (SN/G), a database of "automated projects in the history of art worldwide" that was a collaboration with the Scuola Normale Superiore in Pisa, Italy
+</item>
+               <item>The Institute for Research on Information and Scholarship (IRIS), a collaborative project between Brown University and the Getty that investigated the process of art-historical research to determine what aspects of research might be aided by automated tools and resources
+</item>
+            </list>
+In addition to developing electronic resources to serve the scholarly community around the world, AHIP's early work included projects in response to internal needs and requests by the Trust and its programs.  Following its inception AHIP began developing a collection management system to meet the needs of the museum registrar and curators.  AHIP also began research concerning the configuration of a "scholarly workstation" for researchers at the Getty.  The workstation was envisioned as "a single machine that performs many functions -- word processing, publication preparation, database access and manipulation, and image display, all for an affordable price."  This project was extremely innovative because some of these functions did not yet exist at the time of the research, and AHIP hoped to make the scholarly workstation a reality by using its various collaborative projects to inform the workstation's development.</p>
+         <p>Dr. Michael Ester served as the first director of AHIP. Under his direction AHIP contributed significantly to the standardization of information in the arts and humanities through some of the projects outlined above. Under Ester's guidance, the Getty conducted studies on the image quality needs of scholars and the use of electronic images and text in the academic environment. After serving AHIP for nearly a decade, Michael Ester left the Getty in September of 1993.</p>
+         <p>Under its second director, Eleanor Fink, AHIP became increasingly involved in national debates over technology and the "information superhighway."  Fink joined AHIP in 1987, was appointed acting director in 1993, and was named director in 1994.  AHIP's name was changed to the Getty Information Institute (GII) in 1996 as part of a new identity program instituted by the Trust just prior to occupancy of the new Getty Center. The GII was dissolved in 1999, and many of its functions were absorbed by the Getty Research Institute (GRI).</p>  
+      </bioghist>
+      <controlaccess>
+         <genreform source="aat">Transcripts</genreform>
+         <subject source="lcsh">Art -- Historiography</subject>
+         <subject source="lcsh">Art historians -- Interviews</subject>
+         <subject source="lcsh">Arts -- Study and teaching</subject>
+         <subject source="lcsh">Arts -- Information technology</subject>
+         <subject source="lcsh">Art -- Computer network resources</subject>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref101_liv" level="series">
+            <did>
+               <unittitle>Interviews regarding the study of art history</unittitle>
+               <dao xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/1991ia01 "
+                    xlink:role="text-ocr-unedited"
+                    xlink:show="new"
+                    xlink:title="Interviews regarding the study of art history"
+                    xlink:type="simple">
+                  <daodesc>
+                     <p>Interviews regarding the study of art history</p>
+                  </daodesc>
+               </dao>
+            </did>
+            <c02 id="aspace_ref25_e12" level="subseries">
+               <did>
+                  <unittitle>Interviews with art historians:</unittitle>
+                  <dao xlink:actuate="onRequest"
+                       xlink:href="http://hdl.handle.net/10020/1991ia01"
+                       xlink:role="text-ocr-unedited"
+                       xlink:show="new"
+                       xlink:title="Interviews with art historians:"
+                       xlink:type="simple">
+                     <daodesc>
+                        <p>Interviews with art historians:: 1991</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <c03 id="aspace_ref26_knt" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Castelnuovo, Enrico</emph> (Scuola Normale Superiore, Pisa),</unittitle>
+                     <unitdate datechar="creation" normal="1986-05-28/1986-05-29" type="inclusive">May 28-29, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref68_rb4" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_500070452dd350afd45274700df266ec" label="Container Summary">(5 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_49137d1625687c35fbfcfca3bdca0d33"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref69_c67" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_7144893d3633d71f09818a917d1bfeeb"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref96_s3o" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Clark, T. J. </emph>(Harvard University): </unittitle>
+                     <unitdate datechar="creation" normal="1986-05-19/1986-05-20" type="inclusive">May 19-20, 1986</unitdate>
+                     <physdesc id="aspace_320527423ed95e454780388b7cf60306" label="Container Summary">(4 audiocassettes)</physdesc>
+                     <container altrender="3 inch flat box (11 x 13)"
+                                id="aspace_b0f34bf5d7ab001c2c624a02c710c97e"
+                                label="Mixed Materials"
+                                type="box">1986.IA.43-02</container>
+                  </did>
+                  <c04 id="aspace_ref105_qar" level="file">
+                     <did>
+                        <unittitle>Original sound recording,</unittitle>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_2943bdd420669a260bfa9057d0b0aba4"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref106_wnb" level="file">
+                     <did>
+                        <unittitle>Transcript and mp4 on DVD</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_7b48e9d21492a797575f65d2c582ecdd"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref29_ube" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Cousins, Judith</emph> (Museum of Modern Art): Transcript,</unittitle>
+                     <unitdate datechar="creation" normal="1986-11-14/1986-11-14">November 14, 1986</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_49e0529dd5ee9759d8f0af1a28f5d833"
+                                label="Mixed Materials"
+                                type="box">1991.IA.01-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_zkf" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Fletcher, Jennifer</emph> (Courtauld Institute, London),</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-06/1986-06-06">June 6, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref70_xnv" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_ffc0a16c46894dd4982c457695b5d479" label="Container Summary">(4 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_5dfea9444777a09e9b9457b9296e9ce7"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-01</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref83_wi3" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_ade631bfaf296b8aca07a0063aa5b5db"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref33_kj2" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Forster, Kurt W.</emph> (Getty Center for the History of Art and the Humanities),</unittitle>
+                     <unitdate datechar="creation" normal="1986-04-23/1986-04-23">April 23, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref71_vpd" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_33185c2ed0a8e734608ed6a74e7c2080" label="Container Summary">(1 audiocassette)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_fdb7687c4102d0325f811f6d16bf77d5"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-01</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref84_g0f" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_650f8d3e4da11580ece1e2f516ed9a16"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref34_wok" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Gaehtgens, Thomas</emph> (Free University of Berlin),</unittitle>
+                     <unitdate datechar="creation" normal="1986-04-17/1986-04-18" type="inclusive">April 17-18, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref72_phs" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_3846242267bd0b9693b07590f4cc94cb" label="Container Summary">(5 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_fc83b0c487c04d19bad6289b9bb34e41"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref85_6b2" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_c28db7854746205be559eb857f9708f8"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref37_9lx" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Gombrich, Ernst H.</emph> (Warburg Institute, University of London),</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-03/1986-06-03">June 3, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref73_23l" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_e461ae3c95ff6b89f383768be7b72555" label="Container Summary">(2 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_8a5f744ad3ea5aea657b1bff068b27a1"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref86_s8i" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_f767b90b96a8f71ac456dafadc5d0d29"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref38_hc9" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Koreny, Fritz</emph> (Graphische Sammlung Albertina),</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-05/1986-06-06" type="inclusive">June 5-6, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref74_pj5" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_e9995498d3242603c762717b875fdea5" label="Container Summary">(4 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_4a8b4b2daff1f725796d27d33fb6079b"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref87_v19" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_ae57a0538af2f236cd232e9f432c44ab"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref97_c2r" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Krauss, Rosalind</emph>  (Hunter College and the Graduate Center, City University of New York): Original sound recording,</unittitle>
+                     <unitdate datechar="creation" normal="1986-05-30/1986-05-30">May 30, 1986</unitdate>
+                     <physdesc id="aspace_ab17b75e44885cdcbd95d73b24a21912" label="Container Summary">(3 audiocassettes)</physdesc>
+                     <container altrender="3 inch flat box (11 x 13)"
+                                id="aspace_459677e53b6a904680d6236b47989bed"
+                                label="Mixed Materials"
+                                type="box">1986.IA.43-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_g6l" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Marrow, James</emph> (University of California, Berkeley): Original sound recording,</unittitle>
+                     <unitdate datechar="creation" normal="1986-04-28/1986-04-28">April 28, 1986</unitdate>
+                     <physdesc id="aspace_814b76207f42fc2cee70446a18fff323" label="Container Summary">(4 audiocassettes)</physdesc>
+                     <container altrender="3 inch flat box (11 x 13)"
+                                id="aspace_df05d1781e39a4f78b2f41880baaf189"
+                                label="Mixed Materials"
+                                type="box">1986.IA.43-02</container>
+                  </did>
+                  <accessrestrict id="aspace_0db7180452f1019fba6eeed2c4b56b8a">
+                     <head>Access Restrictions</head>
+                     <p>
+                        <emph render="italic">RESTRICTED. The James Marrow interview is closed due to the absence of a signed agreement from the interviewee.  </emph>
+                     </p>
+                  </accessrestrict>
+               </c03>
+               <c03 id="aspace_ref41_vc7" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Murray, Stephen</emph> (Columbia University),</unittitle>
+                     <unitdate datechar="creation" normal="1986-02-12/1986-02-12">February 12, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref75_zco" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_1bb2a8d078db10d9e358612d7ebb86e0" label="Container Summary">(3 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_2f7a0def4918676b031a4b36891635d7"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref88_w05" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_a5c31140d7bae2970ce1e64ecf4cf898"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-01</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref42_wa4" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Perrot, Françoise</emph> (C.N.R.S., Paris, and Center for Study of Stained Glass, Chartres),</unittitle>
+                     <unitdate datechar="creation" normal="1986-05-28/1986-05-29" type="inclusive">May 28-29, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref76_ftn" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_1c89c4d421e44886f4193f3796249859" label="Container Summary">(5 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_8a6ece9acf67b7155597e3fcaa0452dc"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-01</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref89_eno" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_4febf13957f492baca42156f6540db21"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref43_klz" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Preziosi, Donald</emph> (State Universtiry of New York, Binghamton),</unittitle>
+                     <unitdate datechar="creation" normal="1986-02-15/1986-02-16" type="inclusive">February 15-16, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref77_nq4" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_f748798f6ec45b4384b86dc63e1a314a" label="Container Summary">(5 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_7242d937fc9248b51328c847a01e9abb"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-01</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref90_wdc" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_dd2ddd5c5320e28cca9cfe8899305987"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref44_oq1" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Rubin, William</emph> (Museum of Modern Art, New York),</unittitle>
+                     <unitdate datechar="creation" normal="1986-04-02/1986-04-02">April 2, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref78_dpj" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_f5975b0bef2d94a8f078b7db1bd3b4ee" label="Container Summary">(2 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_b0e58dd53dc07b4cbb255737586bc8ef"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref91_7te" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_4157226c7df545013b654ef6ddbd310d"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref45_zra" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Schulz, Juergen</emph> (Brown University, Providence, Rhode Island),</unittitle>
+                     <unitdate datechar="creation" normal="1986-07-02/1986-07-03" type="inclusive">July 2-3, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref79_hgz" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_1a5ba35e1937fe61a2c44043029c7720" label="Container Summary">(4 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_1501d2f303f27a796741ba83479beaa5"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref92_57n" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_b6dbd77610b908fb72e37e733ee4c69a"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref46_7og" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Schwartz, Gary</emph> (London),</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-04/1986-06-05" type="inclusive">June 4-5, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref80_r8v" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_108bbbe9a1984c80ec9fea6a599fc3d1" label="Container Summary">(5 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_aab4e92ee2975dd03ac22d595cd9b849"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-02</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref93_86a" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_72b1d627da9b7da46313da3e1bcd0474"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref49_fro" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Troy, Nancy</emph> (Northwestern University),</unittitle>
+                     <unitdate datechar="creation" normal="1986-07-02/1986-07-03" type="inclusive">July 2-3, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref81_vrr" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_267ea10875a113c264636b3ccd86b586" label="Container Summary">(4 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_638f77027286c02e80de531acaf16464"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-01</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref94_iip" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_44711f244e5ad34837d70e47db41ec6a"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="aspace_ref52_fsd" level="otherlevel" otherlevel="ia">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Walsh, John </emph>(J. Paul Getty Museum),</unittitle>
+                     <unitdate datechar="creation" normal="1986-04-21/1986-04-22" type="inclusive">April 21-22, 1986</unitdate>
+                  </did>
+                  <c04 id="aspace_ref82_luj" level="file">
+                     <did>
+                        <unittitle>Original sound recording</unittitle>
+                        <physdesc id="aspace_64e641b1dbd5dd2cde7c2537d98e8922" label="Container Summary">(4 audiocassettes)</physdesc>
+                        <container altrender="3 inch flat box (11 x 13)"
+                                   id="aspace_5d85a5b4b642eafa7ad97d3355a7e533"
+                                   label="Mixed Materials"
+                                   type="box">1986.IA.43-01</container>
+                     </did>
+                  </c04>
+                  <c04 id="aspace_ref95_zl2" level="file">
+                     <did>
+                        <unittitle>Transcript</unittitle>
+                        <container altrender="Records Storage Box (1.2 cubic ft)"
+                                   id="aspace_aad7e5cee7cb99c50acbddb6da3f9745"
+                                   label="Mixed Materials"
+                                   type="box">1991.IA.01-02</container>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref53_ix9" level="subseries">
+               <did>
+                  <unittitle>Interviews with architectural historians:</unittitle>
+                  <dao xlink:actuate="onRequest"
+                       xlink:href="http://hdl.handle.net/10020/1991ia01"
+                       xlink:role="text-ocr-unedited"
+                       xlink:show="new"
+                       xlink:title="Interviews with architectural historians:"
+                       xlink:type="simple">
+                     <daodesc>
+                        <p>Interviews with architectural historians:: 1991</p>
+                     </daodesc>
+                  </dao>
+               </did>
+               <c03 id="aspace_ref54_1lg" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Holt, Rick K.</emph> (Online Computer Systems, Inc.): Transcript,</unittitle>
+                     <unitdate datechar="creation" normal="1988/1988">1988</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_a805175392b7c2e6820bace2c89248de"
+                                label="Mixed Materials"
+                                type="box">1991.IA.01-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_kjf" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Jouffre, Valérie Noëlle</emph>: Transcript,</unittitle>
+                     <unitdate datechar="creation" normal="1988-04-12/1988-04-13" type="inclusive">April 12-13, 1988</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_5a2bb00e537058d64cbf7d4efd6a7de0"
+                                label="Mixed Materials"
+                                type="box">1991.IA.01-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_o8r" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Krautheimer, Richard</emph> (Bibliotheca Hertziana, Rome, Italy): Transcript,</unittitle>
+                     <unitdate datechar="creation" normal="1988-04-08/1988-04-08">April 8, 1988</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_5011c31b79f776a04fc7bb2f2bba72e2"
+                                label="Mixed Materials"
+                                type="box">1991.IA.01-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_91y" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Klotz, Heinrich</emph> (Deutsches Architekturmuseum): Transcript,</unittitle>
+                     <unitdate datechar="creation" normal="1988-04-11/1988-04-12" type="inclusive">April 11-12, 1988</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_37122b5da79734c403aef4e55db32b10"
+                                label="Mixed Materials"
+                                type="box">1991.IA.01-01</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_j47" level="file">
+                  <did>
+                     <unittitle>
+                        <emph render="bold">Group interview conducted at the Annual Meeting of the Society of Architectural Historians</emph> (Chicago, Illinois): Transcript,</unittitle>
+                     <unitdate datechar="creation" normal="1988-04-15/1988-04-15">April 15, 1988</unitdate>
+                     <container altrender="Records Storage Box (1.2 cubic ft)"
+                                id="aspace_c25ea324156621282632b6fd164b415c"
+                                label="Mixed Materials"
+                                type="box">1991.IA.01-02</container>
+                  </did>
+                  <odd id="aspace_249b1edabc5362beb0f274ada5199514">
+                     <head>General note</head>
+                     <p>Participants: Barry Bergdoll, Columbia University; Joseph Connors, Columbia University; Nancy Stieber, University of Massachusetts; Franklin Toker, University of Pittsburgh; Wim de Wit, Chicago Historical Society.</p>
+                  </odd>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

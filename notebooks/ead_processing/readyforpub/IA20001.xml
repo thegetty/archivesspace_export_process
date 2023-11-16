@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA20001</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">J. Paul Getty Museum, library inventory and accession records</titleproper>
+            <titleproper>Finding Aid for the J. Paul Getty Museum, Library Inventory and Accession Records, 1954-1965, 1977  <num>IA20001</num>
+            </titleproper>
+            <author>Sue Luftschein</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2009 </date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-06-21 14:57:02 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>Library inventory and accession records</unittitle>
+         <origination label="Creator">
+            <corpname authfilenumber="n79046211" role="cre" source="naf">J. Paul Getty Museum</corpname>
+         </origination>
+         <unitid>IA20001</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+            <extent altrender="carrier">(1 Box)</extent>
+         </physdesc>
+         <unitdate datechar="creation" normal="1954/1977" type="inclusive">1954-1965, 1977</unitdate>
+         <physloc id="aspace_d399c8189e5db7fd5114d8beedce5426">To access physical materials at the Getty, go to the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/cat670334"
+                    xlink:show="new">library catalog record</extref> for this collection and click "Request an Item." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, some of the records may be stored off site; advanced notice is required for access to these materials.</physloc>
+         <abstract id="aspace_ca0485618976545593ec0cb871d5e800">The records comprise inventories, lists, and accession records from the museum and library, listing J. Paul Getty's personal books and furniture in the museum, reference books in the library, and books purchased for the library of the J. Paul Getty Museum, from 1954 to 1965, and 1977.</abstract>
+         <langmaterial>
+            <language langcode="eng">English</language>
+.    </langmaterial>
+      </did>
+      <relatedmaterial id="aspace_824f285cd252f820f03803061bdd4218">
+         <head>Related Archival Materials Note</head>
+         <p>
+            <emph render="italic">The following materials are offered as possible sources of further information on the people, programs, and subjects covered by the records. The listing is not exhaustive. </emph>
+         </p>
+         <p>
+            <repository>
+               <emph render="bold">Getty Research Institute</emph> 
+            </repository>
+         </p>
+         <p>
+            <archref>[Cite the item and series (as appropriate)], Architectural records, 1980-1984, 1991 and undated, Getty Center for the History of Art and the Humanities. Institutional Archives, Research Library, Getty Research Institute, Finding aid no. IA20015.</archref>
+         </p>
+         <p>
+            <archref>[Cite the item (as appropriate)], Administration records, 1950–1983, undated, J. Paul Getty Trust. Institutional Records and Archives, Getty Research Institute, Research Library, Finding aid no. IA10003. [In process.]</archref>
+         </p>  
+      </relatedmaterial>
+      <processinfo id="aspace_3d3378efd01036f5cdfd59b0c9999afb">
+         <head>Processing History</head>
+         <p>Initial inventory created by intern post-2003; records were processed and finding aid was created by Sue Luftschein, April 14, 2005. The inventory of reference books has been xeroxed for preservation purposes due to the deterioriating condition of the originals. In 2009 Cyndi Shein processed material accessioned during the Legacy Records Appraisal Project and revised the finding aid accordingly.</p>  
+      </processinfo>
+      <acqinfo id="aspace_fec1864befdb3257f98b636fa17e0fa1">
+         <head>Acquisition Information</head>
+         <p>The material was originally part of accession no. 1986.IA.01 but was assigned no. 1986.IA.44 in January 2006 for purposes of providing better administrative control.  Accession 2009.IA.35 was accepted as part of the Legacy Records Appraisal Project in 2009.</p>  
+      </acqinfo>
+      <prefercite id="aspace_8866222efc93e789bc8615eb0cad570f">
+         <head>Preferred Citation</head>
+         <p>[Cite the item.] Library Inventories and Accession Records, 1954-1965, 1977, J. Paul Getty Museum. Institutional Archives, Getty Research Institute, Research Library, Finding aid no. IA20001.</p>
+         <p>http://hdl.handle.net/10020/cifaia20021</p>  
+      </prefercite>
+      <userestrict id="aspace_c16174fe7d97b2111f3e92e27352fdf8">
+         <head>Restrictions on Use</head>
+         <p>Contact <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/rights_repro"
+                    xlink:show="new">  Rights and Reproductions </extref> at the Getty Research Institute for copyright information and permission to publish.</p>  
+      </userestrict>
+      <accessrestrict id="aspace_1048f20385d1b42c5f4171bd1499495c">
+         <head>Restrictions on Access</head>
+         <p>The records described in accessions 1986.IA.44 and 2009.IA.35 are available for use by qualified researchers.  </p>
+         <p>The following records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_095e3108ceae5b9ddbcf7ec716f58b13">
+         <head>Scope and Content of Collection</head>
+         <p>The records consist of inventories, lists, and accession records from the museum and library of the J. Paul Getty Museum. The inventories detail J. Paul Getty's personal books housed in the museum, his books from the house, inventory of furniture from the main house (in museum offices), and reference books in the library, 1954-1964. Accession records detail books purchased for the library, and include check numbers, amount paid, publisher or vendor, title, accession number, and catalog number, and are dated 1954-1965.  The 1977 material contains an inventory of books, which were 50 years or older as of 1977, that were sent from the Getty-Union Bank Building and the Getty Ranch House to the J. Paul Getty Museum.</p>  
+      </scopecontent>
+      <arrangement id="aspace_793008366cb11d8f1439093961b97861">
+         <head>Arrangement</head>
+         <p>The papers are arranged according to type of list, inventory or accession record, and are in rough chronological order.</p>  
+      </arrangement>
+      <bioghist id="aspace_3ab68275de3626e453529ce47ac784c5">
+         <head>Administrative History</head>
+         <p>The J. Paul Getty Museum was established as a charitable trust in 1953 by oil tycoon J. Paul Getty in order to house his growing art collections. The J. Paul Getty Museum originally opened in 1954 in two rooms of Mr. Getty's Ranch House in the Pacific Palisades near Malibu, California. Each year the number of museum visitors increased, and though Mr. Getty curtailed his art acquisitions activities beginning in 1958, the museum continued to grow. The development of the library began during the mid to late 1950s primarily to meet the needs of Museum curators. In the early years the library was located in the curator's office between the Ranch House and the Conservation area. </p>
+         <p>In the fall of 1968 Mr. Getty decided to build a separate museum facility on the Ranch House property.  The new museum facility, later referred to as the Getty Villa, opened to the public on January 16, 1974.  The library moved to the basement of the Villa upon completion of the building. In 1983 the Museum received J. Paul Getty's estate funds, the trust's name was officially changed from the J. Paul Getty Museum Trust to the J. Paul Getty Trust, and the museum retained the name the J. Paul Getty Museum.  In an effort to contribute to the field of art and art history the Trust developed several programs. In 1983 the library began by the Museum in the 1950s became part of the program the Getty Center for the History of Art and the Humanities (GCHAH).  The GCHAH was later renamed the Getty Research Institute (GRI).  Today the GRI is home to one of the largest art libraries in the world.</p>  
+      </bioghist>
+      <controlaccess>
+         <genreform source="aat">Inventories</genreform>
+         <subject source="lcsh">Bibliography</subject>
+         <subject source="lcsh">Art museums -- Library resources</subject>
+         <genreform source="aat">Lists</genreform>
+         <persname authfilenumber="n50016532" source="naf">Getty, J. Paul (Jean Paul), 1892-1976</persname>
+         <corpname authfilenumber="n79046211" source="naf">J. Paul Getty Museum</corpname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref20_fll" level="series">
+            <did>
+               <unittitle>Library inventory and accession records</unittitle>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+                  <extent altrender="carrier">(1 box)</extent>
+               </physdesc>
+               <unitdate datechar="creation" normal="1954/1977" type="inclusive">1954-1965, 1977</unitdate>
+            </did>
+            <c02 id="aspace_ref15_sp3" level="file">
+               <did>
+                  <unittitle>Inventories of books and furniture,</unittitle>
+                  <unitdate datechar="creation" normal="1954/1964" type="inclusive">1954-1964</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_dd69c7f722ed08a284bbcefdbb3a9c1a"
+                             label="Mixed Materials"
+                             type="box">Shared 1986.IA.44 and 2009.IA.35</container>
+                  <container id="aspace_37100eec942f0e8e8a4fb4e513a90ae1"
+                             parent="aspace_dd69c7f722ed08a284bbcefdbb3a9c1a"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref16_hua" level="file">
+               <did>
+                  <unittitle>Library book accession records,</unittitle>
+                  <unitdate datechar="creation" normal="1954/1965" type="inclusive">1954-1965</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_ed839a8b00d5058033ae8372557857b3"
+                             label="Mixed Materials"
+                             type="box">Shared 1986.IA.44 and 2009.IA.35</container>
+                  <container id="aspace_2ed5b8649d7ed3f778faaf5b6fe05f55"
+                             parent="aspace_ed839a8b00d5058033ae8372557857b3"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref17_pp2" level="file">
+               <did>
+                  <unittitle>Inventories of reference books,</unittitle>
+                  <unitdate datechar="creation" normal="1957/1964" type="inclusive">1957-1964</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_fdd8b56c4aee41158102b5af2ef7ba2f"
+                             label="Mixed Materials"
+                             type="box">Shared 1986.IA.44 and 2009.IA.35</container>
+                  <container id="aspace_2f59344de01e280849b007f36f40d1e3"
+                             parent="aspace_fdd8b56c4aee41158102b5af2ef7ba2f"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref18_5ba" level="file">
+               <did>
+                  <unittitle>Inventory of books "50 years and older,"</unittitle>
+                  <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_b60ae927cb3385fa56b195d708ec9a8a"
+                             label="Mixed Materials"
+                             type="box">Shared 1986.IA.44 and 2009.IA.35</container>
+                  <container id="aspace_ad07de42692adacb861099a3f991aa95"
+                             parent="aspace_b60ae927cb3385fa56b195d708ec9a8a"
+                             type="folder">4</container>
+               </did>
+               <scopecontent id="aspace_ebf8d123be6e847400e4da979817ac96">
+                  <head>Scope and Contents</head>
+                  <p>This material comprises accession number 2009.IA.35 and is housed in folder no. 4 in shared box number 1986.IA.44-1.  It contains a photocopy of a hand-written inventory of books, which were 50 years or older as of 1977, that were sent from the Getty-Union Bank Building and the Getty Ranch House to the J. Paul Getty Museum. It also includes a carbon copy of a letter introducing the inventory.</p>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

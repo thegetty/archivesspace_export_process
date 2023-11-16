@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA20013</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Getty (J. Paul) and Ashby sisters papers</titleproper>
+            <titleproper>Finding Aid for the J. Paul Getty and Ashby Sisters Papers, 1926-1992, and undated <num>IA20013</num>
+            </titleproper>
+            <author>Sue Luftschein</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2005 </date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-06-21 14:57:26 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>J. Paul Getty and Ashby sisters papers</unittitle>
+         <origination label="Creator">
+            <persname role="col" rules="aacr">Banks, Christine</persname>
+         </origination>
+         <origination label="Creator">
+            <persname role="ctb" rules="aacr">Clifford, Belene Ashby</persname>
+         </origination>
+         <unitid>IA20013</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+            <extent altrender="carrier">(3 boxes)</extent>
+         </physdesc>
+         <unitdate datechar="creation" normal="1926/1992" type="inclusive">1926-1992, </unitdate>
+         <unitdate certainty="inferred"
+                   datechar="creation"
+                   normal="1926/1992"
+                   type="inclusive">undated</unitdate>
+         <physloc id="aspace_532d8ec203685afaeea69aa408d9ba17">To access physical materials at the Getty, go to the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/cat698937"
+                    xlink:show="new">library catalog record</extref> for this collection and click "Request an Item." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, some of the records may be stored off site; advanced notice is required for access to these materials.</physloc>
+         <abstract id="aspace_672d5dd66606a0caaa10e3e2fa8f1b9c">Records consist of personal correspondence and telegrams, clippings, a book, and photographs, 1926-1992 and undated, related to J. Paul Getty, Allene Ashby (Getty's second wife), and Belene Ashby. The records provide some information on the relationship between Getty and Allene, and Getty and Belene, through unpublished and published materials.</abstract>
+         <langmaterial>
+            <language langcode="eng">English</language>
+.    </langmaterial>
+      </did>
+      <relatedmaterial id="aspace_ad2e20a40207f87182f487c04cb2cbf7">
+         <head>Related Archival Materials Note</head>
+         <p>
+            <emph render="italic">The following materials are offered as possible sources of further information on the people and subjects covered by the records. The listing is not exhaustive. </emph> 
+         </p>
+         <p>
+            <repository>
+               <emph render="bold">Getty Institutional Archives</emph> 
+            </repository> 
+         </p>
+         <p>
+            <archref>Art and Real Estate Holding Companies Records, 1939-1982 and undated, J. Paul Getty. Institutional Records and Archives, Getty Research Institute, Finding aid no. IA20011.</archref>
+         </p>
+         <p>
+            <archref>Collected Papers for Biography of J. Paul Getty, 1957-1973, 1984 and undated, Ralph Hewins. Institutional Records and Archives, Getty Research Institute, Finding aid no. IA20012.</archref>
+         </p>
+         <p>
+            <archref>J. Paul Getty Family Papers, circa 1880s-1989 and undated. Institutional Records and Archives, Getty Research Institute, Finding aid no. IA20009.</archref>
+         </p>
+         <p>
+            <archref>J. Paul Getty Diaries, 1938-1946, 1948-1976. Institutional Records and Archives, Getty Research Institute, Finding aid no. IA40009.</archref>
+         </p>  
+      </relatedmaterial>
+      <processinfo id="aspace_c81b375627119e8429278c9664117258">
+         <head>Processing History</head>
+         <p>Phil Curtis created a box list in the summer of 2003 and began rehousing the collection in November 2004. Sue Luftschein placed the correspondence in chronological order, completed the rehousing, and created this finding aid in August 2005.</p>  
+      </processinfo>
+      <acqinfo id="aspace_8c662c17accc2a63b62a8d399de74965">
+         <head>Acquisition Information</head>
+         <p>The material in this finding aid originated in accession nos. 1987.IA.09, from the estate of J. Paul Getty, 1988.IA.02, donated by Christine Banks, granddaughter of Belene Ashby, and 2003.IA.14, donated to the Institutional Archives by David Farneth.</p>  
+      </acqinfo>
+      <prefercite id="aspace_223346f386158e24c7263e25b1c8644f">
+         <head>Preferred Citation</head>
+         <p>[Cite the item and series (as appropriate)], J. Paul Getty and the Ashby Sisters Papers, 1926-1992 and undated, Institutional Records and Archives, Getty Research Institute, Research Library, Finding aid no. IA20013.</p>
+         <p>http://hdl.handle.net/10020/cifaia20013</p>  
+      </prefercite>
+      <userestrict id="aspace_ed74e350b24ffca277fe01cdd8c8760b">
+         <head>Restrictions on Use</head>
+         <p>Contact <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/rights_repro"
+                    xlink:show="new">  Rights and Reproductions </extref> at the Getty Research Institute for copyright information and permission to publish.</p>  
+      </userestrict>
+      <accessrestrict id="aspace_14fcd7574fcb2837e944cb03d2a1fb84">
+         <head>Restrictions on Access</head>
+         <p>The records described in accessions 1987.IA.09, 1988.IA.02, and 2003.IA.14 are available for use by qualified researchers.  </p>
+         <p>The following types of records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_d40f3c8b9cf3b2f38b7dce59f0b39a09">
+         <head>Scope and Content of Collection</head>
+         <p>The records consist of personal correspondence and telegrams, clippings, a book, and photographs, 1926-1992 and undated, related to J. Paul Getty, Allene Ashby (Getty's second wife), and Belene Ashby. The records provide some information on the relationship between Getty and Allene, and Getty and Belene, through unpublished and published materials. The letters discuss Getty's feelings for, and relationships with, Allene and Belene, as well as some financial disbursements made to Belene. The clippings concern Belene, other members of the Ashby family, and Christine Banks (granddaughter of Belene). The photocopies of the guestbook contain greetings and comments from friends of Belene, and the address book includes J. Paul Getty's address at Sutton Place, England. The photographs included in the records depict the Ashby family at family gatherings and holidays, and feature Belene.</p>  
+      </scopecontent>
+      <arrangement id="aspace_953e856c794be727364805d235166bbe">
+         <head>Organization</head>
+         <p>These records are organized in three series: 
+Series I. Correspondence, 1926-1931, 1950-1971;
+Series II. Printed materials, 1932-1992, undated;
+Series III. Photographs, circa 1930-1979, undated.</p>  
+      </arrangement>
+      <bioghist id="aspace_4ca93ad236e0bc9579320b1c33f560e7">
+         <head>Biographical Note</head>
+         <p>American oil tycoon and art collector J. Paul Getty met the Ashby sisters, Belene and Allene, in the early 1920s. In 1926, while the three were on a trip to Cuernevaca, Mexico, Paul married 17-year-old Allene. At the time of his marriage to Allene, Paul was still married to his first wife, Jeanette Dermot, from whom he was divorced in 1927.  Paul's marriage to Allene lasted less than two years; his frequent business trips caused them to drift apart. Their marriage was kept a secret for nine years, long after it ended. While Paul eventually severed ties with Allene, he maintained a life-long friendship with Belene and remembered her in his will.</p>
+         <p>Jean Paul Getty was born in Minneapolis, Minnesota on December 15, 1892 to George Franklin Getty (1855-1930) and Sarah Catherine McPherson Risher Getty.  Around 1906 the Getty family moved to Los Angeles.  Jean Paul, called "Paul," attended a private military school before going on to the University of Southern California in Los Angeles and the University of California, Berkeley.  In 1911, Paul went to Oxford to study economics and political science, completing his diploma in 1913.   Afterwards he embarked on a year-long Grand Tour of Europe, which no doubt sparked his interest in art and antiquities. </p>
+         <p>In 1914 Paul joined the family petroleum business and spent a year in the oil fields of Oklahoma.  An astute investment in 160 acres near Stone Bluff, Oklahoma led to Paul's announcement two years later that he had earned his first million dollars.  He returned to Los Angeles and took a break of more than a year before returning to the oil business.  Paul then persuaded his father to shift the focus of the family business to the Los Angeles basin.  Paul continued to work for the family company in addition to conducting oil drilling of his own, securing the family fortune by the time the stock market crashed in 1929.  Upon his death in 1930 George left controlling interest in the company to Sarah.  In 1934 Paul forced Sarah out of control of the company and gave her an annuity.  His fortune grew as he acquired the controlling interest in several companies and became the head of a vast organization with activities in oil exploration, transportation, production and marketing, as well as minerals, manufacturing, real estate and agriculture.  In the mid-1940s Getty bought the Saudi Arabian portion of the lease on the mineral rights in the Neutral Zone between Saudi Arabia and Kuwait; his wealth dramatically increased when this site produced oil in 1953.</p>
+         <p>Beginning in the early 1930s Getty lived in a house he built next to William Randolph Hearst's on the beach in Santa Monica. During World War II he moved to Tulsa, Oklahoma for four years to supervise wartime production of parts for Allied aircraft at his Spartan Aircraft plant.   In 1946 he purchased 64 acres in Malibu, California and renovated the existing hacienda, known as the Ranch House, where he lived until 1951.  When Getty departed the United States for Europe in 1951, he kept his Malibu estate for the display of his art collection and for the possibility of his eventual return.   Getty had been collecting art since the 1930s.  In 1938 he made his first major purchases: a group of furniture; a carpet that had belonged to Louis XIV, often called "Ardabil Carpet"; and Rembrandt's <emph render="italic">Marten Looten</emph> (he donated the Ardabil Carpet and the Rembrandt to the Los Angeles County Museum of Art in 1954).  His other interest was antiquities, fueled by visits to the Vatican Museums that began in 1939. He took pride in being knowledgeable in the areas in which he was collecting and in finding bargains. Getty continued to collect art throughout his lifetime, despite occasional assertions that he was no longer in the market.  By 1968 his art collection had begun to outgrow the Ranch House and he began planning a new building on the property to properly house these works.  He chose to pattern this new museum building after a first-century Roman country house, based primarily on the plans of the ancient Villa dei Papiri near Herculaneum.  This museum, often called the Villa, opened to the public on January 16, 1974.</p>
+         <p>After leaving the United States Getty lived in hotel suites in Europe until 1960 when he moved to Sutton Place, a historic 72-room Tudor manor located 25 miles southwest of London.  In 1957 <emph render="italic">Fortune</emph> magazine designated Getty as the world's wealthiest man, and he became the object of considerable public interest.  For the rest of his life, both the respectable press and the tabloids reported on his perceived eccentricities and his private life, which included five marriages and divorces.   J. Paul Getty died in England on June 6, 1976 without ever returning to California.  Although he never saw the museum, he is buried at the Getty Villa property, on a bluff overlooking the Pacific Ocean.  Much to everyone's surprise Getty left the bulk of his fortune to the museum with a mission to promote "the diffusion of artistic and general knowledge." </p>
+         <p>
+J. Paul Getty's publications include:
+<list type="marked">
+               <item>Getty, J. Paul. <emph render="italic">The history of the oil business of George F. and J. Paul Getty from 1903 to 1939. </emph>  Los Angeles (?), 1941. </item>
+               <item>Getty, J. Paul. <emph render="italic">Europe in the eighteenth century. </emph>  [Santa Monica, Calif.]: privately printed, 1949. </item>
+               <item>Le Vane, Ethel, and J. Paul Getty. <emph render="italic">Collector's choice: the chronicle of an artistic odyssey through Europe. </emph>  London: W.H. Allen, 1955. </item>
+               <item>Getty, J. Paul. <emph render="italic">My life and fortunes. </emph>  New York: Duell, Sloan &amp; Pearce, 1963. </item>
+               <item>Getty, J. Paul. <emph render="italic">The joys of collecting. </emph>  New York: Hawthorn Books, 1965. </item>
+               <item>Getty, J. Paul. <emph render="italic">How to be rich. </emph>  Chicago: Playboy Press, 1965. </item>
+               <item>Getty, J. Paul. <emph render="italic">The golden age. </emph>  New York: Trident Press, 1968. </item>
+               <item>Getty, J. Paul. <emph render="italic">How to be a successful executive. </emph>  Chicago: Playboy Press, 1971. </item>
+               <item>Getty, J. Paul. <emph render="italic">As I see it: the autobiography of J. Paul Getty. </emph> Englewood Cliffs, N.J. : Prentice-Hall, 1976. </item>
+            </list>
+         </p>  
+      </bioghist>
+      <bibliography id="aspace_a1d2095676466b3d9c0708b3b1c1b847">
+         <head>Bibliography</head>
+         <p>Information in the biographical note on J. Paul Getty was adapted from: 
+<list type="marked">
+               <item>
+                  <bibref> Walsh, John and Deborah Gribbon.<title render="italic"> The J. Paul Getty Museum and its collections: a museum for the new century. </title> Los Angeles: J. Paul Getty Museum, 1997.</bibref>
+               </item>
+            </list>
+         </p>  
+      </bibliography>
+      <controlaccess>
+         <genreform source="aat">Clippings (information artifacts)</genreform>
+         <genreform source="aat">Telegrams</genreform>
+         <genreform source="aat">Photographs</genreform>
+         <genreform source="aat">Letters (correspondence)</genreform>
+         <genreform source="aat">Correspondence</genreform>
+         <persname authfilenumber="n50016532" source="naf">Getty, J. Paul (Jean Paul), 1892-1976</persname>
+         <persname rules="aacr" source="local">Ashby, Allene</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref23_7pv" level="series">
+            <did>
+               <unittitle>Correspondence,</unittitle>
+               <unitid>Series I.</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+                  <extent altrender="carrier">(1 box)</extent>
+               </physdesc>
+               <unitdate datechar="creation" normal="1926/1931" type="inclusive">1926-1931, </unitdate>
+               <unitdate datechar="creation" normal="1950/1971" type="inclusive">1950-1971</unitdate>
+            </did>
+            <arrangement id="aspace_ddb829c08de5b9b09ad9740154aedce4">
+               <head>Arrangement</head>
+               <p>These letters are listed individually and are arranged in chronological order.</p>
+            </arrangement>
+            <scopecontent id="aspace_05069161365e8609bb94c9c0d1a7b768">
+               <head>Scope and Contents note</head>
+               <p>The records consist of personal correspondence and telegrams, 1926-1971, between J. Paul Getty and his second wife, Allene Ashby, and her sister, Belene. Also included is one letter to their mother, Ione, two letters from Norris Bramlett (one to Getty and one to Belene), and one letter from Allene and Belene's sister, Lois Ashby Jensen, to Getty. With the exception of the postcard from Allene, the two letters from Bramlett, and the letter from Lois, all of the letters and telegrams are from Getty; the majority are to Belene. </p>
+               <p>In the letters to Allene between 1926 and 1928, Getty discusses his travels, how much he misses her, and his homesickness for Los Angeles. The letters to Belene begin in 1931; the bulk date from the 1950s, and continue thereafter on an almost-annual basis. There are no letters dated between 1931 and 1950. In his letters to Belene, Getty discusses Allene's health, monetary gifts made to Belene, passes on general greetings and advice, and acknowledges photographs sent. </p>
+               <p>All the letters sent by Getty were published in Christine Banks', <emph render="italic">The Private Life of J. Paul Getty</emph> (see Series II. Printed Matter).</p>
+            </scopecontent>
+            <c02 id="aspace_ref24_oac" level="item">
+               <did>
+                  <unittitle>Telegram to Allene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1926-10-25/1926-10-25">October 25, 1926</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_3357e55845643788ee473adbd56f06f1"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_89e736caa9fa6e9cdaf5e1332b2fa311"
+                             parent="aspace_3357e55845643788ee473adbd56f06f1"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref25_j7g" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Allene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1926-11-30/1926-11-30">November 30, 1926</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_8d4afde582b1d5b4e6fef072edbbcf84"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_08ac752271b14b5d97c752540edb674e"
+                             parent="aspace_8d4afde582b1d5b4e6fef072edbbcf84"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref26_7pp" level="item">
+               <did>
+                  <unittitle>Handwritten letter [to Allene Ashby],</unittitle>
+                  <unitdate datechar="creation" normal="1927-06-06/1927-06-06">June 6, 1927</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_9175cceb54bdd9ea5b8f0ee637c6f804"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_e2c198c898dd143d0add36f8d2a5c862"
+                             parent="aspace_9175cceb54bdd9ea5b8f0ee637c6f804"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref27_a7a" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Allene Ashby, 2 leaves, with envelope,</unittitle>
+                  <unitdate datechar="creation" normal="1927-06-26/1927-06-26">June 26, 1927</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_4279a33b966d5e44ad2591248688e653"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_c6525d33e19db4c7ee855f84affe7960"
+                             parent="aspace_4279a33b966d5e44ad2591248688e653"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref28_m3o" level="item">
+               <did>
+                  <unittitle>Telegram to Allene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1927-08-20/1927-08-20">August 20, 1927</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_70450b91056bbb27b4628a2033f7fcdc"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_0fdf31ebade39c61402ae69f2bf5125a"
+                             parent="aspace_70450b91056bbb27b4628a2033f7fcdc"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref29_4ne" level="item">
+               <did>
+                  <unittitle>Telegram to Allene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1927-09-27/1927-09-27">September 7, 1927</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_8de58963a543edfb425153dbdd1f56ea"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_eaedf4844f43cc84dda4a074c8faac20"
+                             parent="aspace_8de58963a543edfb425153dbdd1f56ea"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref30_3qw" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Allene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1928-06-24/1928-06-24">June 24, 1928</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_6fdef1395198f500223d8799a99113eb"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_6d7ea0ac17d31b5411f007e29b530376"
+                             parent="aspace_6fdef1395198f500223d8799a99113eb"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref31_uoz" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Allene Ashby, with envelope,</unittitle>
+                  <unitdate datechar="creation" normal="1928-09-28/1928-09-28">September 20, 1928</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_3d5fbe1d1c3dd6683d9f85869575f67c"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_1f56b249717a45421035253c811c0881"
+                             parent="aspace_3d5fbe1d1c3dd6683d9f85869575f67c"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref32_9t2" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Ione Ashby, with envelope,</unittitle>
+                  <unitdate datechar="creation" normal="1928-12-09/1928-12-09">December 9, 1928</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_8048ed3c582d6cb0ada1e44f773eb14f"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_00e255d7664bdd21950c99c8ac942ca9"
+                             parent="aspace_8048ed3c582d6cb0ada1e44f773eb14f"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref33_pyp" level="file">
+               <did>
+                  <unittitle>Postcard from Allene Ashby to J. Paul Getty,</unittitle>
+                  <unitdate datechar="creation" normal="1929-11-04/1929-11-04">November 4, 1929</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_1e360c4a771879a2f5641440dcdb2e30"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref34_nm4" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1931-06-30/1931-06-30">June 30, 1931</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_6d9fca405a06cef2fc11848b08251700"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_5a6047c500370e8b0ab401f90bf87f73"
+                             parent="aspace_6d9fca405a06cef2fc11848b08251700"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref35_obd" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1950-08-09/1950-08-09">August 9, 1950</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_5f93a6926fbe5a224895ab417a20f0ff"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_fb99eb5be12e49182e4faf8d23a99f18"
+                             parent="aspace_5f93a6926fbe5a224895ab417a20f0ff"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref36_6s4" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1952-12-16/1952-12-16">December 16, 1952</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_52c1bdf327868f71ed3cb9b3a6572e19"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_b0066f78ba72805d6dd3357490d28dc3"
+                             parent="aspace_52c1bdf327868f71ed3cb9b3a6572e19"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref37_7hy" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1953-12-14/1953-12-14">December 14, 1953</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_1e5046686b9ec2788a9fdae8560400ec"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_7ac42a20534dca579da75da36b52cff2"
+                             parent="aspace_1e5046686b9ec2788a9fdae8560400ec"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref38_zeo" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1954-12-27/1954-12-27">December 27, 1954</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_d04f85293a6ed394055f1b2567ba8355"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_af4185314d2ca14f9118642eda6b4dd8"
+                             parent="aspace_d04f85293a6ed394055f1b2567ba8355"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref39_b4g" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1956-12-10/1956-12-10">December 10, 1956</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_993819b3a5f0fc114840a0004610573f"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_300e11a04d25a917baaa0b812161d56d"
+                             parent="aspace_993819b3a5f0fc114840a0004610573f"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref40_js9" level="item">
+               <did>
+                  <unittitle>Typewritten letter (copy) Lois Ashby Jensen to J. Paul Getty,</unittitle>
+                  <unitdate datechar="creation" normal="1957-08-04/1957-08-04">August 4, 1957</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_549fe895c757f18203b0318b10a80bbc"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_23484363a7006019d7da9e89b0d02220"
+                             parent="aspace_549fe895c757f18203b0318b10a80bbc"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref41_tyc" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1957-09-09/1957-09-09">September 9, 1957</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_36bbf3fe86ce392cadf172d099cf9bc1"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_0f30247e5aa928cc6fe2055e40f84c0c"
+                             parent="aspace_36bbf3fe86ce392cadf172d099cf9bc1"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref42_hii" level="item">
+               <did>
+                  <unittitle>Typewritten memorandum, Norris Bramlett to J. Paul Getty,</unittitle>
+                  <unitdate datechar="creation" normal="1957-10-23/1957-10-23">October 23, 1957</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_0b5cbd9293101d445e9c77b6860151b4"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_2e3dc3ae321120254d59754f011bab83"
+                             parent="aspace_0b5cbd9293101d445e9c77b6860151b4"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref43_m3u" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1957-10-31/1957-10-31">October 31, 1957</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_1758bd2a0aa9dbc2a99522c8ba4241e7"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_6b4a8aeb26d95effba450d7c9d6986ab"
+                             parent="aspace_1758bd2a0aa9dbc2a99522c8ba4241e7"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref44_ul5" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1957-12-26/1957-12-26">December 26, 1957</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_bf26e4953bb277c0b8df092e3dbadc04"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_434a417819eb64dd16b9730a964b80b2"
+                             parent="aspace_bf26e4953bb277c0b8df092e3dbadc04"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref45_bt7" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby (excerpt),</unittitle>
+                  <unitdate datechar="creation" normal="1958-12-05/1958-12-05">December 5, 1958</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_609b8e03e82b71b2b2044b42e90244d5"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_d29cfd3083fe6e74f7ec0a3482937a11"
+                             parent="aspace_609b8e03e82b71b2b2044b42e90244d5"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref46_4q4" level="item">
+               <did>
+                  <unittitle>Handwritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1959-12-27/1959-12-27">December 27, 1959</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_908cd31f47a8740d14239eb038502ba2"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_49f6d202ae432f8fe3304101bd006a61"
+                             parent="aspace_908cd31f47a8740d14239eb038502ba2"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref48_1et" level="item">
+               <did>
+                  <unittitle>Typewritten letter, Norris Bramlett to Belene Ashby, with envelope,</unittitle>
+                  <unitdate datechar="creation" normal="1965-02-10/1965-02-10">February 10, 1965</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_3cfde4fc1bf8b8b623be859f82344e86"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_b64357cefe45b600ed8e644aaf7d9f1f"
+                             parent="aspace_3cfde4fc1bf8b8b623be859f82344e86"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref47_dt7" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1962-01-01/1962-01-01">January 1, 1962</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_c07fdf743dbc815410d21349ad38d59a"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_2be74e21915dbcea35320c5a79ea2174"
+                             parent="aspace_c07fdf743dbc815410d21349ad38d59a"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref49_ten" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1965-12-27/1965-12-27">December 27, 1965</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_9094fbbda0389021af42a075b80675c9"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_dfead3264c331357a3e20408a7dbe90f"
+                             parent="aspace_9094fbbda0389021af42a075b80675c9"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref50_0ot" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1966-04-15/1966-04-15">April 15, 1966</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_0b63d7dbc1378c2b08230c3f37f277cb"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_f49e556a51b0ad526739c295c01673d1"
+                             parent="aspace_0b63d7dbc1378c2b08230c3f37f277cb"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref51_enh" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1966-08-12/1966-08-12">August 12, 1966</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_5c699598a3d2c93616beb0800c176f1a"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_c7d45bda567b75979b88c07767225850"
+                             parent="aspace_5c699598a3d2c93616beb0800c176f1a"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref52_5b0" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1969-02-13/1969-02-13">February 13, 1969</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_a3abfb30b2d71a698893d92f1ced19b8"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_e23583e3020262c41d89043184710d53"
+                             parent="aspace_a3abfb30b2d71a698893d92f1ced19b8"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref53_7j7" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1970-10-02/1970-10-02">October 2, 1970</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_5b44d3822b39430165aed9cd4fd0fcc4"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_d83ac11b5ff35512c10e52c6550bcf47"
+                             parent="aspace_5b44d3822b39430165aed9cd4fd0fcc4"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref54_mdy" level="item">
+               <did>
+                  <unittitle>Typewritten letter to Belene Ashby,</unittitle>
+                  <unitdate datechar="creation" normal="1971-10-12/1971-10-12">October 12, 1971</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_478fbb9439be1335d8138fca07835dd3"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_c7d12d9965e3b7ec5fbba9a234e5dc8a"
+                             parent="aspace_478fbb9439be1335d8138fca07835dd3"
+                             type="folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref59_uyf" level="series">
+            <did>
+               <unittitle>Printed materials,</unittitle>
+               <unitid>Series II.</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+                  <extent altrender="carrier">(1 boxes)</extent>
+               </physdesc>
+               <unitdate datechar="creation" normal="1932/1992" type="inclusive">1932-1992, </unitdate>
+               <unitdate certainty="inferred"
+                         datechar="creation"
+                         normal="1932/1992"
+                         type="inclusive">undated</unitdate>
+            </did>
+            <arrangement id="aspace_e635b81d49c0f53ffd7bfa111fe9e4d4">
+               <head>Arrangement</head>
+               <p>These records are arranged in general order of accession.</p>
+            </arrangement>
+            <scopecontent id="aspace_e997b1515cdb94e188e430d29b251cf8">
+               <head>Scope and Contents note</head>
+               <p>Records consist of letters, clippings and ephemera related to the Ashby sisters and the extended Ashby family, 1932-1992 and undated. Subjects of the clippings include society announcements about Belene, information on George Ashby (relationship unknown) as President of the Union Pacific Railroad, a death announcement for H.S.P. (Stump) Ashby (relationship unknown), an article on Christine Banks (Belene's granddaughter) and her discovery of Getty's letters to her grandmother and great-aunt (Allene), and genealogical information on the Ashby family. The photocopies of the guestbook contain greetings and comments from friends of Belene in Los Angeles, and the address book includes J. Paul Getty's address at Sutton Place, England.</p>
+            </scopecontent>
+            <c02 id="aspace_ref60_x9n" level="file">
+               <did>
+                  <unittitle>Clippings (photocopies) re: Ashbys,</unittitle>
+                  <unitdate datechar="creation" normal="1932/1992" type="inclusive">1932-1992</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_10b61eb18e59f30bd74ad6b0f2ff0f69"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_32ff80ec8c73ab94aee63653e0ba7320"
+                             parent="aspace_10b61eb18e59f30bd74ad6b0f2ff0f69"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref61_a0d" level="file">
+               <did>
+                  <unittitle>Address book and guestbook photocopies,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1932/1992"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_57c8cdccf96ab2afcd2bcc617970374a"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+                  <container id="aspace_eef682b572a89cad2132a7b1222c5cfb"
+                             parent="aspace_57c8cdccf96ab2afcd2bcc617970374a"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref62_wqy" level="file">
+               <did>
+                  <unittitle>Christine Banks, <emph render="italic">The Private Life of J. Paul Getty</emph>, and letter re: photographs,</unittitle>
+                  <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
+                  <container altrender="3 inch flat box (11 x 13)"
+                             id="aspace_dc1e50ffeacd41d6518fa86e7822d662"
+                             label="Mixed Materials"
+                             type="box">1988.IA.02-1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref67_yih" level="series">
+            <did>
+               <unittitle>Photographs,</unittitle>
+               <unitid>Series III.</unitid>
+               <physdesc altrender="whole">
+                  <extent altrender="materialtype spaceoccupied">1.8 Linear Feet</extent>
+                  <extent altrender="carrier">(2 boxes)</extent>
+               </physdesc>
+               <unitdate certainty="approximate"
+                         datechar="creation"
+                         normal="1930/1979"
+                         type="inclusive">circa 1930-1979,</unitdate>
+               <unitdate certainty="inferred"
+                         datechar="creation"
+                         normal="1930/1979"
+                         type="inclusive">undated</unitdate>
+            </did>
+            <arrangement id="aspace_75d0b69b0d537db179c7822cd932070e">
+               <head>Arrangement</head>
+               <p>These records are arranged in order of accession.</p>
+            </arrangement>
+            <scopecontent id="aspace_4dec2624f822f05974743f6800559a2a">
+               <head>Scope and Contents note</head>
+               <p>Records consist of 82 photographs, circa 1930-1979 and undated, of the Ashby family. The majority of the photographs feature Belene Ashby, sister of Getty's second wife, Allene Ashby; also present are members of the Ashby family, including Allene and Lois (Belene and Allene's sister), and various unidentified individuals, at family gatherings and holidays.</p>
+            </scopecontent>
+            <c02 id="aspace_ref68_nuv" level="file">
+               <did>
+                  <unittitle>37 photographs of the Ashby family,</unittitle>
+                  <unitdate certainty="inferred"
+                            datechar="creation"
+                            normal="1930/1979"
+                            type="inclusive">undated</unitdate>
+                  <container altrender="3 inch flat box (11 x 13)"
+                             id="aspace_73ac23142a608fd13d71eaebcdfa209b"
+                             label="Mixed Materials"
+                             type="box">1987.IA.09-2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref69_4wk" level="file">
+               <did>
+                  <unittitle>45 photographs of the Ashby family,</unittitle>
+                  <unitdate certainty="approximate"
+                            datechar="creation"
+                            normal="1930/1979"
+                            type="inclusive">circa 1930-1979</unitdate>
+                  <container altrender="Hollinger - 2.5-inch legal "
+                             id="aspace_3e9fe5f1aab40a9c9f8fe5b7d30b3412"
+                             label="Mixed Materials"
+                             type="box">Shared 1987.IA.09-01; 1988.IA.02-02; 2003.IA.14-01</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

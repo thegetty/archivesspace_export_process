@@ -1,0 +1,2645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              findaidstatus="completed"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid>US::CMalG::IA20018</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="filing">Getty Education Institute for the Arts, event and publication images</titleproper>
+            <titleproper>Finding Aid for the Getty Education Institute for the Arts, Event and Publication Images, 1985-1997 <num>IA20018</num>
+            </titleproper>
+            <author>Sue Luftschein</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Institutional Records and Archives</publisher>
+            <p>
+               <date>2005 </date>
+            </p>
+            <address>
+               <addressline>1200 Getty Center Drive, Suite 1100</addressline>
+               <addressline>Los Angeles 90049-1688</addressline>
+               <addressline>Business Number: (310) 440-7390</addressline>
+               <addressline>reference@getty.edu</addressline>
+               <addressline>URL: <extptr xlink:href="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:show="new"
+                          xlink:title="http://www.getty.edu/research/special_collections/institutional_archives/"
+                          xlink:type="simple"/>
+               </addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using ArchivesSpace on <date>2023-06-21 14:57:40 -0700</date>.</creation>
+         <langusage>Description is in English.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <repository>
+            <corpname>Institutional Records and Archives</corpname>
+         </repository>
+         <unittitle>Event and publication images</unittitle>
+         <origination label="Creator">
+            <corpname authfilenumber="nr96031768"
+                      role="cre"
+                      rules="aacr"
+                      source="naf">Getty Education Institute for the Arts</corpname>
+         </origination>
+         <unitid>IA20018</unitid>
+         <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">7.26 Linear Feet</extent>
+            <extent altrender="carrier">(16 boxes)</extent>
+         </physdesc>
+         <unitdate datechar="creation" normal="1985/1997" type="inclusive">1985-1997</unitdate>
+         <abstract id="aspace_b35a838de9777c3f783c11587939205f">Records consist of black-and-white and color photographs, color slides, black-and-white and color negatives, forms, and letters, 1985-1997, created for and used by the Getty Education Institute (GEI), and housed in the Slide Library. The images depict conferences and seminars organized and hosted by the GEI; art appreciation instruction in elementary school classrooms; adults attending lectures and museums; and publication artwork.</abstract>
+         <physloc id="aspace_5a35cadd4100466cd2b6b5e9eeaf0b93">To access physical materials at the Getty, go to the <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/cat699600"
+                    xlink:show="new">library catalog record</extref> for this collection and click "Request an Item." Click here for <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/access"
+                    xlink:show="new">general library access policy</extref>. See the Administrative Information section of this finding aid for access restrictions specific to the records described below.  Please note, some of the records may be stored off site; advanced notice is required for access to these materials.</physloc>
+         <langmaterial>
+            <language langcode="eng">English</language>
+.    </langmaterial>
+      </did>
+      <processinfo id="aspace_8ee1fdd7125679ccd80b334244901618">
+         <head>Processing History</head>
+         <p>A preliminary inventory was created by Institutional Archives part-time staff in September 2003; in 2005 Sue Luftschein rehoused the materials and created this finding aid based, in part, on the preliminary inventory. </p>
+         <p>The majority of the records were housed in binders and arrived in no particular order; they have been rehoused into folders. The contents of each binder remain in their original order.</p>  
+      </processinfo>
+      <acqinfo id="aspace_99e9b08a54c648604b48e05353ed6a8d">
+         <head>Acquisition Information</head>
+         <p>The records described in this finding aid originated in accession no. 1999.IA.05.</p>  
+      </acqinfo>
+      <prefercite id="aspace_bfdc7035e3251a7132208cab4f19666a">
+         <head>Preferred Citation</head>
+         <p>[Cite the item and series (as appropriate)], Event and Publication Images, 1985-1997, Getty Education Institute for the Arts. Institutional Archives, Research Library, Getty Research Institute, Finding aid no. IA20018.</p>
+         <p>http://hdl.handle.net/10020/cifaia20018</p>  
+      </prefercite>
+      <phystech id="aspace_b65a22aeee14ed9b7231adac88782558">
+         <head>Technical Requirements</head>
+         <p>Slides require slide-viewing equipment; audiocassettes require audio equipment.</p>  
+      </phystech>
+      <userestrict id="aspace_7cca922ae0325b407e3fb04d2a02f337">
+         <head>Restrictions on Use</head>
+         <p>Contact <extref xlink:actuate="onRequest"
+                    xlink:href="http://hdl.handle.net/10020/rights_repro"
+                    xlink:show="new">  Rights and Reproductions </extref> at the Getty Research Institute for copyright information and permission to publish.</p>  
+      </userestrict>
+      <accessrestrict id="aspace_4e1d69faa25dc5491225845012272150">
+         <head>Restrictions on Access</head>
+         <p>The records described in accession 1999.IA.05 are available for use by qualified researchers.  </p>
+         <p>The following types of records are permanently closed: records containing personal information, records that compromise security or operations, legal communications, legal work product, and records related to donors. The J. Paul Getty Trust reserves the right to restrict access to any records held by the Institutional Archives.</p>  
+      </accessrestrict>
+      <scopecontent id="aspace_f68f1469d0ea089cc577dd59fb142710">
+         <head>Scope and Content</head>
+         <p>Records consist of black-and-white and color photographs, color slides, black-and-white and color negatives, forms, and letters, 1985-1997, created for and used by the Getty Education Institute, and originally housed in the Slide Library. The images depict conferences and seminars organized and/or hosted by the GEI, such as "Education in Art Future Building" and "Beyond the Three R's"; art appreciation instruction in elementary school classrooms; adults attending lectures and museums; and publication covers. Also included are photographs of GEI Director Lani Duke's farewell reception. The images are primarily documentary in nature, providing a photographic record of many of the GEI's activities. It is not clear whether or not the Slide Library was responsible for the creation of the images.</p>
+         <p>Some images were used in specific publications of the GEI, such as <emph render="italic">Celebrating pluralism: art, education, and cultural diversity</emph> by F. Graeme Chalmers (c.1996).</p>  
+      </scopecontent>
+      <arrangement id="aspace_0204bc0681bd9d7684452ab993ea18df">
+         <head>Arrangement</head>
+         <p>These records are first arranged by subject and then alphabetically within each subject. The subjects are: Children and art appreciation education; Conferences, congresses, seminars, meetings; Adults in lectures and museums; Publication information; and Miscellaneous. These subjects are drawn from the contents of the images themselves, and the titles of the original binders. Numbers in parentheses indicate the original binder number (not all binders were numbered).</p>  
+      </arrangement>
+      <bioghist id="aspace_bc06f9dad5e4b19dd77ad2c614817f97">
+         <head>Administrative History</head>
+         <p>The Getty Center for Education in the Arts, also known as the Getty Education Institute for the Arts (GEI), was founded in 1982 with the mission of improving the quality and status of arts education in the nation's public schools. The GEI's programs were guided by three premises: the visual arts should be an essential part of every child's education because knowledge of the arts is a principal means of understanding human experiences and transmitting cultural values; art education's content must be broadened to include instruction in art production, art history, art criticism, and aesthetics—an approach known as discipline-based art education (DBAE); and the most effective art education programs are based on partnerships among teachers, administrators, artists, museums, universities, and parents.</p>
+         <p>During its first 10 years, the GEI concentrated on the implementation and dissemination of DBAE. This was achieved by advocacy of the value of arts in education, through the dissemination of print publications and videotapes, national conferences, and collaborative projects; professional development for school and university personnel, through inservice programs such as the Los Angeles Institute; theory development to encourage evolution of DBAE, through seminars, doctoral fellowships, and the commissioning of scholarly publications; curriculum development to support creation of model instructional materials; and special initiatives to encourage others to champion DBAE.</p>
+         <p>In addition to improving the quality of arts education in primary and secondary schools, the GEI also concentrated on the education of museum visitors. Focus group research and other studies resulted in a number of publications aimed at the museum world. </p>
+         <p>The GEI was dissolved in 1999; some aspects of its activities may have been absorbed by other programs. </p>  
+      </bioghist>
+      <controlaccess>
+         <subject source="lcsh">Art -- Study and teaching</subject>
+         <genreform source="aat">Black-and-white negatives</genreform>
+         <genreform source="aat">Black-and-white prints (photographs)</genreform>
+         <genreform source="aat">Forms (documents)</genreform>
+         <subject source="lcsh">Congresses and conventions</subject>
+         <genreform source="aat">Letters (correspondence)</genreform>
+         <genreform source="aat">Color negatives</genreform>
+         <genreform source="aat">Color slides</genreform>
+         <genreform source="aat">Color photographs</genreform>
+         <genreform source="aat">Audiocassettes</genreform>
+         <subject source="lcsh">Art teachers -- Training of</subject>
+         <corpname authfilenumber="n85121478" rules="aacr" source="naf">Getty Center for Education in the Arts</corpname>
+         <corpname rules="aacr" source="local">Getty Education Institute for the Arts. Slide Library</corpname>
+         <corpname authfilenumber="n85059259" source="naf">J. Paul Getty Trust</corpname>
+         <persname rules="aacr">Duke, Lani (Leilani Lattin)</persname>
+      </controlaccess>
+      <dsc>
+         <c01 id="aspace_ref21_pyj" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Children and art appreciation education</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref22_t6f" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Adults observing in the classroom (#4):</unittitle>
+               </did>
+               <c03 id="aspace_ref23_sao" level="file">
+                  <did>
+                     <unittitle>ABC Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07/1985-07">July 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_0f9e320bdf1ae78771d2ec535e50959c"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_8fd6c64b8bf3d27f79b647b7943b006a"
+                                parent="aspace_0f9e320bdf1ae78771d2ec535e50959c"
+                                type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref24_r3d" level="file">
+                  <did>
+                     <unittitle>Bellflower Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07-17/1985-07-17">July 17, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_605c8ef88a545f06874d33b7ed6331c2"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_e076bf0b314ca2ac14c57c90c184e7ac"
+                                parent="aspace_605c8ef88a545f06874d33b7ed6331c2"
+                                type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref25_in4" level="file">
+                  <did>
+                     <unittitle>El Segundo Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06/1986-06">June 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_1b19944e9490880edc4564ff607128a4"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_0e2dbf90f71c97a614a1a9bf0af8031f"
+                                parent="aspace_1b19944e9490880edc4564ff607128a4"
+                                type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref26_iee" level="file">
+                  <did>
+                     <unittitle>Lynwood Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1983/1983">Summer 1983</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_0182e42de9fa1512ab8da61700089c86"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_15b2ff1b03795a1c32fb6fec8aadeb6e"
+                                parent="aspace_0182e42de9fa1512ab8da61700089c86"
+                                type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref27_ofr" level="file">
+                  <did>
+                     <unittitle>Montebello Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07/1985-07">July 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_416d890daf143a081b105e8aa980044d"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_47d45dd1680dad570e479d9c94d32c94"
+                                parent="aspace_416d890daf143a081b105e8aa980044d"
+                                type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref28_mqp" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06/1986-06">June 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_bb809b5f40898ee9fa6c5257b90aefe1"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_7e4009780e1b79fe069543bd84845d9b"
+                                parent="aspace_bb809b5f40898ee9fa6c5257b90aefe1"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref29_how" level="file">
+                  <did>
+                     <unittitle>Unidentified schools,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1986/1986">circa 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5095de5810e8932e9480a1c17fa51211"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_22e4c595f41874d21c9b3e014b2471e9"
+                                parent="aspace_5095de5810e8932e9480a1c17fa51211"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref30_dc4" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Artwork on display (#3):</unittitle>
+               </did>
+               <c03 id="aspace_ref31_xj1" level="file">
+                  <did>
+                     <unittitle>Bellflower Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07-17/1985-07-17">July 17, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_6d1ffa8ba49488790da9d10081180cca"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_55e118c95d7e78faa4a15bff233410ba"
+                                parent="aspace_6d1ffa8ba49488790da9d10081180cca"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref32_k9u" level="file">
+                  <did>
+                     <unittitle>Charter Oaks Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-03-08/1985-03-08">March 8, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_999d0ba8034b98c76a9990066a7ed5ee"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_08b9da90d1a2d91ef300215b393bc0d3"
+                                parent="aspace_999d0ba8034b98c76a9990066a7ed5ee"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref33_2uf" level="file">
+                  <did>
+                     <unittitle>Compton Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-06/1986-06-06">June 6, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_97de6ed40a4370af0ed6585ac0b34b3c"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_140c8f3f5a275aef085ca6402e5b6f18"
+                                parent="aspace_97de6ed40a4370af0ed6585ac0b34b3c"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref34_5hx" level="file">
+                  <did>
+                     <unittitle>Culver City Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_3ba79d4b9411522c01ec1fdb3232b697"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_802867441fc3b520c8c42c9f4278196d"
+                                parent="aspace_3ba79d4b9411522c01ec1fdb3232b697"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref35_327" level="file">
+                  <did>
+                     <unittitle>Downey Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ffe776031636671252a6ab24e1ad92cd"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_6c05346677b036e6e96fc5a2227f78fd"
+                                parent="aspace_ffe776031636671252a6ab24e1ad92cd"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref36_t80" level="file">
+                  <did>
+                     <unittitle>Eastside Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-03/1986-06-03">June 3, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_18e81756133f24f069ba27038c0f08b7"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_ed4f18d7fcc72d95b60b424e0d509c29"
+                                parent="aspace_18e81756133f24f069ba27038c0f08b7"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref37_bgp" level="file">
+                  <did>
+                     <unittitle>El Segundo Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06/1986-06">June 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_d49243e91c7c64565f872a65efab2ee0"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_bd3dbeb30dac4c99d0c164a0ea0fb5cf"
+                                parent="aspace_d49243e91c7c64565f872a65efab2ee0"
+                                type="folder">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref38_vfz" level="file">
+                  <did>
+                     <unittitle>Garvey School District,</unittitle>
+                     <unitdate datechar="creation" normal="1988-04-29/1988-04-29">April 29, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_40658f32dbb0a78bd284d27d58aedf97"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_dd3ce1cfea4e84327982d74a7a8da984"
+                                parent="aspace_40658f32dbb0a78bd284d27d58aedf97"
+                                type="folder">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref39_81c" level="file">
+                  <did>
+                     <unittitle>LA Unified School District Region A,</unittitle>
+                     <unitdate datechar="creation" normal="1987-04/1987-04">April 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c68e3034fb1c25079f21bfdae0156d54"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_c13a19b1124a92c4652e5e17dc672a3b"
+                                parent="aspace_c68e3034fb1c25079f21bfdae0156d54"
+                                type="folder">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref40_op3" level="file">
+                  <did>
+                     <unittitle>LA Unified School District Region C,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1987/1987">circa 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5355ff52ea799c6f917488a801cabc76"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_a02fd0ec5a199a93e852fc4b82158e9c"
+                                parent="aspace_5355ff52ea799c6f917488a801cabc76"
+                                type="folder">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref41_xe5" level="file">
+                  <did>
+                     <unittitle>LA Unified School District Region E (Emelita),</unittitle>
+                     <unitdate datechar="creation" normal="1988-02/1988-02">February 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_e21a9b1d1e0965343dc6ca7e1ff17a0c"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_58f5dbf3c907521556d15c283137c912"
+                                parent="aspace_e21a9b1d1e0965343dc6ca7e1ff17a0c"
+                                type="folder">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref42_upf" level="file">
+                  <did>
+                     <unittitle>LA Unified School District Region E (Sherman Oaks),</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_d544d95c2cd8e97b5462b39a81e8a99e"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_c1f87ad667ecb69d15ed67c1ab8bb76a"
+                                parent="aspace_d544d95c2cd8e97b5462b39a81e8a99e"
+                                type="folder">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref43_bxa" level="file">
+                  <did>
+                     <unittitle>Santa Monica-Malibu Unified School District,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c33efc93c858f1d4950f695c2f7abadd"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_60625e61df16eb0b3a859cd69ec2af1e"
+                                parent="aspace_c33efc93c858f1d4950f695c2f7abadd"
+                                type="folder">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref44_ii4" level="file">
+                  <did>
+                     <unittitle>Montebello Unified School District,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_99ecdf9838a701506ab72bc4f1b5c82a"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_1a27da87f8ce5bd041f0eaa16dfdb570"
+                                parent="aspace_99ecdf9838a701506ab72bc4f1b5c82a"
+                                type="folder">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref45_u55" level="file">
+                  <did>
+                     <unittitle>Newhall Unified School District,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_170abf2b6e226259eeb50831224c1924"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_60c0844d9f549d29aa280995eff0037b"
+                                parent="aspace_170abf2b6e226259eeb50831224c1924"
+                                type="folder">22</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref46_bl1" level="file">
+                  <did>
+                     <unittitle>Norwalk-LaMirada Unified School District,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_61876b20bcb6f4a2f4513f3a066f6379"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_81dbc6a5f3f29419ca96df8a0b1b2355"
+                                parent="aspace_61876b20bcb6f4a2f4513f3a066f6379"
+                                type="folder">23</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref47_hlm" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District, Art Fair,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_75fe10d13b2e3a5b0337e08d8c28a5a0"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_bc15a7f25c03b2231291e9a45b32fe7e"
+                                parent="aspace_75fe10d13b2e3a5b0337e08d8c28a5a0"
+                                type="folder">24</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref48_9dq" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_f50656a84d570d7576d5a9481fca1e4e"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_b0726f1dcfc738909759800d65104a9a"
+                                parent="aspace_f50656a84d570d7576d5a9481fca1e4e"
+                                type="folder">25</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref49_3ia" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5ca2bfd1f1a4169a16a3d7e42b432c36"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_af49c2396f9cd9092b2b40afa06caa98"
+                                parent="aspace_5ca2bfd1f1a4169a16a3d7e42b432c36"
+                                type="folder">26</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref50_09a" level="file">
+                  <did>
+                     <unittitle>Unidentified schools,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_6f1f466c96ebda858395590717a3519e"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_8dc3f7614bfff3e800af00e579a8a6c1"
+                                parent="aspace_6f1f466c96ebda858395590717a3519e"
+                                type="folder">27</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref51_lf9" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Book 33 classroom photography:</unittitle>
+               </did>
+               <c03 id="aspace_ref52_slx" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                     <physdesc id="aspace_37961c97e383f8923b5aff351d285f50" label="Container Summary">[1-2 of 4]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_8b0723a1d80552ebd27fd09f66e930c8"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-1</container>
+                     <container id="aspace_a20af6c00812f837c412de127ea2123f"
+                                parent="aspace_8b0723a1d80552ebd27fd09f66e930c8"
+                                type="folder">28-29</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref53_cjh" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                     <physdesc id="aspace_9a2a3cc07bd6fbdbdc5a5602f0e5cbb3" label="Container Summary">[3-4 of 4]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_77a02bb2808e53da281ad615a9c63542"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_a77cbfdc4befc995e9444517e81880c9"
+                                parent="aspace_77a02bb2808e53da281ad615a9c63542"
+                                type="folder">1-2</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref54_dpp" level="file">
+               <did>
+                  <unittitle>Children in museums (#5),</unittitle>
+                  <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+                  <physdesc id="aspace_c1f52db036dd4e694d034845d9a5cf55" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_2e87469dc1e692f2736a592199b8591d"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-2</container>
+                  <container id="aspace_e5239b4828f9973fc3fa34de1997dfd3"
+                             parent="aspace_2e87469dc1e692f2736a592199b8591d"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref55_nn8" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Children making, looking at and reading about art (#2):</unittitle>
+               </did>
+               <c03 id="aspace_ref56_xkq" level="file">
+                  <did>
+                     <unittitle>Bellflower Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07-17/1985-07-17">July 17, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_bb2e5c2120c13981680244ec80a219dc"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_04f37a20e62b0f1e62262c7c85fce6ee"
+                                parent="aspace_bb2e5c2120c13981680244ec80a219dc"
+                                type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref57_kis" level="file">
+                  <did>
+                     <unittitle>Charter Oaks Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-03-08/1985-03-08">March 8, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_f55145a01fbcf57dbabbe020807525ee"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_88db5ae113fb91d0f29bf17e3f1a0299"
+                                parent="aspace_f55145a01fbcf57dbabbe020807525ee"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref58_m3z" level="file">
+                  <did>
+                     <unittitle>Compton Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-06/1986-06-06">June 6, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_590bd09e93633ec3d449bd8036ca5300"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_dbfc3a1fbcbf27d91a150c0cf4f7ddf5"
+                                parent="aspace_590bd09e93633ec3d449bd8036ca5300"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref59_rhq" level="file">
+                  <did>
+                     <unittitle>Culver City Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_eaa5dfd3ba7fa351145efea7a4c49738"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_f9d77ae183ff5a48f56eba484793973d"
+                                parent="aspace_eaa5dfd3ba7fa351145efea7a4c49738"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref60_nax" level="file">
+                  <did>
+                     <unittitle>Downey Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_64ada8e2a84340e551c78d6c3c7a5d02"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_41a0b7c633b6ef4d43cd6931584a7f0d"
+                                parent="aspace_64ada8e2a84340e551c78d6c3c7a5d02"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref61_444" level="file">
+                  <did>
+                     <unittitle>Eastside Union School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-03/1986-06-03">June 3, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_51ad5904a48b2be3e5368e318f9ef881"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_105fd42b57bafacc51a0276e2571651d"
+                                parent="aspace_51ad5904a48b2be3e5368e318f9ef881"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref62_bs1" level="file">
+                  <did>
+                     <unittitle>Los Angeles Institute,</unittitle>
+                     <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ea0acae691a076fb93c249ace3643641"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_0dd719d1934cbd7dedcec1b152610297"
+                                parent="aspace_ea0acae691a076fb93c249ace3643641"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref63_h7n" level="file">
+                  <did>
+                     <unittitle>LA Unified School District, Region A,</unittitle>
+                     <unitdate datechar="creation" normal="1987-04/1987-04">April 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_00ef24fe697846318052359ad9b4a6ef"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_604240fa8821ceb57863896e3d3607ec"
+                                parent="aspace_00ef24fe697846318052359ad9b4a6ef"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref64_qks" level="file">
+                  <did>
+                     <unittitle>LA Unified School District, Region B,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-11/1986-06-11">June 11, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_bb626a785b1aa988a4bee2410a9afc1d"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_962a8ed36de01f4f2cc1d21b43131195"
+                                parent="aspace_bb626a785b1aa988a4bee2410a9afc1d"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref65_gpk" level="file">
+                  <did>
+                     <unittitle>LA Unified School District, Region E,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_cda1b3f82786010e8de4d4e1f629ff64"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_45b543db6193eac84cec3f9f2130a293"
+                                parent="aspace_cda1b3f82786010e8de4d4e1f629ff64"
+                                type="folder">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref66_v23" level="file">
+                  <did>
+                     <unittitle>Montebello Unified School District, Garfield,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1987/1987">circa 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9efab1b794a804816b34b0b4f1e14b10"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_d94c3fae66190d045f61dc1fa067d3e2"
+                                parent="aspace_9efab1b794a804816b34b0b4f1e14b10"
+                                type="folder">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref67_p04" level="file">
+                  <did>
+                     <unittitle>Montebello Unified School District, Washington,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1987/1987">circa 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_de8345e6bd2771ec58858293f1ba33c1"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_606cac4b7c140275f2003a4a48d7e0a3"
+                                parent="aspace_de8345e6bd2771ec58858293f1ba33c1"
+                                type="folder">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref68_oi9" level="file">
+                  <did>
+                     <unittitle>Sulphur Springs Union School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-10/1986-06-10">June 10, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9027e4aab882e47919214ecece509803"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_2b7a10bbe51c9f4228ac126551d5361f"
+                                parent="aspace_9027e4aab882e47919214ecece509803"
+                                type="folder">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref69_ojw" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06/1986-06">June 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_e4365e604975209b3de41a9959df2a05"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_88a70dc2a4f99a3af1ad3a20eb9872be"
+                                parent="aspace_e4365e604975209b3de41a9959df2a05"
+                                type="folder">18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref70_gbu" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-04/1987-04">April 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_505fe90e0835a0945f3c8f3a21f31fa8"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_d862cc79fd1f4d44d5314cfef7d21397"
+                                parent="aspace_505fe90e0835a0945f3c8f3a21f31fa8"
+                                type="folder">19</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref71_a4m" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_2fe8940798b95163cf149f24585488e2"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_4b608fe6884645add1a2c3082a6b92bd"
+                                parent="aspace_2fe8940798b95163cf149f24585488e2"
+                                type="folder">20</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref72_nfs" level="file">
+                  <did>
+                     <unittitle>Garfield School, Lindstrom School, Gonsalves School,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07/1985-07">July 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_a7bb369ac15f8363a6dbc96f3785da2f"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_6111f9ea84cc1128ae60285cb92e3ccc"
+                                parent="aspace_a7bb369ac15f8363a6dbc96f3785da2f"
+                                type="folder">21</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref73_ldk" level="file">
+                  <did>
+                     <unittitle>Unidentified schools,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1987/1987">circa 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_46eee44c510fdb2bd0256a004367ffa6"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-2</container>
+                     <container id="aspace_63f7412f422509e3268486eb94f80a16"
+                                parent="aspace_46eee44c510fdb2bd0256a004367ffa6"
+                                type="folder">22</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref74_84u" level="file">
+               <did>
+                  <unittitle>Children's artwork,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_f95e5ebb61cac4b0ae66a20ee6a0a1bc" label="Container Summary">[1 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_047bf37b8ab6d88ff8fb8f2d023c54c9"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-2</container>
+                  <container id="aspace_2e4eee24601430e9c58b47711d6f16d3"
+                             parent="aspace_047bf37b8ab6d88ff8fb8f2d023c54c9"
+                             type="folder">23</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref75_r9j" level="file">
+               <did>
+                  <unittitle>Children's artwork,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_1b2d31068e090a18a5a5e603ca335ee1" label="Container Summary">[2 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_31cb37a2a6338de16849dc689797e347"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-3</container>
+                  <container id="aspace_8f506438cc3aba700a7fb1f54e7f1e30"
+                             parent="aspace_31cb37a2a6338de16849dc689797e347"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref76_pzn" level="file">
+               <did>
+                  <unittitle>Classroom photography for GEI book "Creating and Beyond,"</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b7d791fff0ddab679a21933d37d4dc87"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-3</container>
+                  <container id="aspace_97b7f4a33a3fd9ea4e3f8144ba6f9857"
+                             parent="aspace_b7d791fff0ddab679a21933d37d4dc87"
+                             type="folder">2-5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref77_o3f" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Classroom scenes (#1):</unittitle>
+               </did>
+               <c03 id="aspace_ref78_9kb" level="file">
+                  <did>
+                     <unittitle>Bellflower Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07-17/1985-07-17">July 17, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_e6db76514bb20b47862320bdc35d86fd"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_71b104c541e167ef28b92c9c36ca5e92"
+                                parent="aspace_e6db76514bb20b47862320bdc35d86fd"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref79_9if" level="file">
+                  <did>
+                     <unittitle>Charter Oaks Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-03-08/1985-03-08">March 8, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_b946f5bc763a45bc577fc133ca3c2266"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_2c7935567cb25f1cc99e1d4c68de8f26"
+                                parent="aspace_b946f5bc763a45bc577fc133ca3c2266"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref80_0nf" level="file">
+                  <did>
+                     <unittitle>Compton Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-06/1986-06-06">June 6, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ee6afd0fce74b1c62ca5895ac065dd69"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_c42b7675afee18c5ef06250d7be51aa6"
+                                parent="aspace_ee6afd0fce74b1c62ca5895ac065dd69"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref81_h4s" level="file">
+                  <did>
+                     <unittitle>Culver City Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_413c1f4fb57a988af9a5d0f351fd21d4"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_0977e72d17076bb0ec28cbbc89a010a4"
+                                parent="aspace_413c1f4fb57a988af9a5d0f351fd21d4"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref82_q2e" level="file">
+                  <did>
+                     <unittitle>Downey Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1987-02/1987-02">February 1987</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_56d93c1fb1c5c8f190710c54249b0be1"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_ba4dc58f4fc502184508caf1d1bf545a"
+                                parent="aspace_56d93c1fb1c5c8f190710c54249b0be1"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref83_yu2" level="file">
+                  <did>
+                     <unittitle>Eastside Union School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-03/1986-06-03">June 3, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_818dd6b11592e108b9c8c62b8e0d6ed3"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_53f3b398d0d18ad175df1e26b330310f"
+                                parent="aspace_818dd6b11592e108b9c8c62b8e0d6ed3"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref84_c09" level="file">
+                  <did>
+                     <unittitle>El Segundo Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06/1986-06">June 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ae656c9a29abf33771385621ef12cf87"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_b7f20e54986273547e14c54ade6c9d23"
+                                parent="aspace_ae656c9a29abf33771385621ef12cf87"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref85_9zn" level="file">
+                  <did>
+                     <unittitle>Garvey School District,</unittitle>
+                     <unitdate datechar="creation" normal="1988-04-29/1988-04-29">April 29, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_7f6146317f3d6c9a8e7d97f692011ee8"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_b7e8a1f8a35e57504e8aa1d1f4aa416b"
+                                parent="aspace_7f6146317f3d6c9a8e7d97f692011ee8"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref86_bex" level="file">
+                  <did>
+                     <unittitle>LA Unified School District Region B,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-11/1986-06-11">June 11, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_676754777179d73ce18da3670d02f09d"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_be0dbb2bcddefd511b6ec4e1ff7f9889"
+                                parent="aspace_676754777179d73ce18da3670d02f09d"
+                                type="folder">14</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref87_fcz" level="file">
+                  <did>
+                     <unittitle>Lynwood Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-03-06/1985-03-06">March 6, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_52cf9a7878d92d740aa0b2f172c33719"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_a99b95289dcc4d3a62c282ad6f031210"
+                                parent="aspace_52cf9a7878d92d740aa0b2f172c33719"
+                                type="folder">15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref88_ej1" level="file">
+                  <did>
+                     <unittitle>Lynwood Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1984-03/1984-03">March 1984</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_f657e3afab4247032e3b726e991249ac"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_83ab0e67b779f9291b7e22d3bf39cadf"
+                                parent="aspace_f657e3afab4247032e3b726e991249ac"
+                                type="folder">16</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref89_m7f" level="file">
+                  <did>
+                     <unittitle>Norwalk-La Mirada Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-10/1985-10">October 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_03d17dc3e2840b43de242d1d2765ff01"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-3</container>
+                     <container id="aspace_d50da9a0871fc5f2f6aae8d004b4a0aa"
+                                parent="aspace_03d17dc3e2840b43de242d1d2765ff01"
+                                type="folder">17</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref90_f3o" level="file">
+                  <did>
+                     <unittitle>Sulphur Springs Union School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06-10/1986-06-10">June 10, 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_02414c893f73af0c27abc44502adc55c"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_827af1981f6cee4cb7c95bbe84db5174"
+                                parent="aspace_02414c893f73af0c27abc44502adc55c"
+                                type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref91_pq1" level="file">
+                  <did>
+                     <unittitle>Torrance Unified School District,</unittitle>
+                     <unitdate datechar="creation" normal="1986-06/1986-06">June 1986</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_0821a1baebebe8a379ea3336a965635d"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_c26798a9479cf0bc9384df1c384dd19f"
+                                parent="aspace_0821a1baebebe8a379ea3336a965635d"
+                                type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref92_ruq" level="file">
+                  <did>
+                     <unittitle>Garfield School, Lindstrom School, Gonsalves School,</unittitle>
+                     <unitdate datechar="creation" normal="1985-07/1985-07">July 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_2640e0d6182c3a68d87af228e9b6ea36"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_be8c15bfe9ab2ac0c711fc5bdcd760f7"
+                                parent="aspace_2640e0d6182c3a68d87af228e9b6ea36"
+                                type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref93_cy4" level="file">
+                  <did>
+                     <unittitle>Unidentified schools,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1985/1985">circa 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9085a85c453233bbaf3b9ece2d54abc4"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_51875cd4a2bef425d6460736333a0a94"
+                                parent="aspace_9085a85c453233bbaf3b9ece2d54abc4"
+                                type="folder">4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref94_956" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>DBAE (Discipline Based Art Education) Implementation (#15):</unittitle>
+               </did>
+               <c03 id="aspace_ref95_052" level="file">
+                  <did>
+                     <unittitle>Churchill High School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-09-21/1988-09-21">September 21, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_45002e6264cfb7d0f4bcde3a28239a33"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_86a784972b8f7bb1fce157e939641396"
+                                parent="aspace_45002e6264cfb7d0f4bcde3a28239a33"
+                                type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref96_f0w" level="file">
+                  <did>
+                     <unittitle>Kennedy Junior High School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-09-21/1988-09-21">September 21, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9617048b6b413d649a829643b863c7a6"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_7beaebcdbec337926e8e2bb610f1909d"
+                                parent="aspace_9617048b6b413d649a829643b863c7a6"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref97_w5z" level="file">
+                  <did>
+                     <unittitle>Coburg Elementary School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-09-22/1988-09-22">September 22, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_4e5a9c3c752ebd98cc568ce181b8501c"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_402b53fb64c2cd851b6cb3b6fdc29422"
+                                parent="aspace_4e5a9c3c752ebd98cc568ce181b8501c"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref98_p58" level="file">
+                  <did>
+                     <unittitle>Howard Elementary School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-09-30/1988-09-30">September 30, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_776aaaf26c9d7965684c15d162787c85"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_d8e1a614d18589dd461542c2b0215793"
+                                parent="aspace_776aaaf26c9d7965684c15d162787c85"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref99_k8s" level="file">
+                  <did>
+                     <unittitle>Santa Clara Elementary School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-09-30/1988-09-30">September 30, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_778f184fffb669714beab198420de201"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_c6713409046fb7de61fd96d7b9d48734"
+                                parent="aspace_778f184fffb669714beab198420de201"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref100_kib" level="file">
+                  <did>
+                     <unittitle>Sheldon High School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-10-03/1988-10-03">October 3, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9aa78dd7331cefedc5d03497eff1888f"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_ef1b18fd40aeb71663489032f94f6404"
+                                parent="aspace_9aa78dd7331cefedc5d03497eff1888f"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref101_hft" level="file">
+                  <did>
+                     <unittitle>Summer Institute, Parker Elementary School,</unittitle>
+                     <unitdate datechar="creation" normal="1988-08-22/1988-08-25" type="inclusive">August 22-25, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ef4b28c8651b46211529446fa1772bbe"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_62c54d761c07f36cd415a4178b692223"
+                                parent="aspace_ef4b28c8651b46211529446fa1772bbe"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref102_x7h" level="file">
+                  <did>
+                     <unittitle>Summer Institute, Parker Elementary School, black and white photos,</unittitle>
+                     <unitdate datechar="creation" normal="1988-08-22/1988-08-25" type="inclusive">August 22-25, 1988</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c9734f7f61b44ede886d93821fbf1268"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_c2d804e0c4d49f3c29856e7c4c07f23d"
+                                parent="aspace_c9734f7f61b44ede886d93821fbf1268"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref103_jx4" level="file">
+               <did>
+                  <unittitle>Discipline Based Art Education (DBAE) implementation, Eugene school district, participant and photograph information,</unittitle>
+                  <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+                  <physdesc id="aspace_627232a4c2b0680d20f3d3253b781e43" label="Container Summary">[3 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_864b24eb5baeb41c2fe0db48b128e829"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-4</container>
+                  <container id="aspace_48bcdb5d0a01cd126d14b7a7a9f6f4c2"
+                             parent="aspace_864b24eb5baeb41c2fe0db48b128e829"
+                             type="folder">13-15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref104_nh5" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Discipline Based Art Education, Portland public schools:</unittitle>
+               </did>
+               <c03 id="aspace_ref105_7g8" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+                     <physdesc id="aspace_4827bfa6926750253b06ef3c0ee25863" label="Container Summary">[1-3 of 4 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c86667ca58a2a87cb133e1fcfa507436"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-4</container>
+                     <container id="aspace_990cac294cdf9e8e5d66eadc0f15ad3c"
+                                parent="aspace_c86667ca58a2a87cb133e1fcfa507436"
+                                type="folder">16-18</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref106_8dk" level="file">
+                  <did>
+                     <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+                     <physdesc id="aspace_7d2454fc8a2f20b9a0b2ab7309ee6484" label="Container Summary">[4 of 4 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_8e5779351f8acc5e1f76bd8e2b703af0"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-5</container>
+                     <container id="aspace_a5fe4494d90ea3249c6192f68b355e08"
+                                parent="aspace_8e5779351f8acc5e1f76bd8e2b703af0"
+                                type="folder">1</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref107_x22" level="file">
+               <did>
+                  <unittitle>GEI classroom photos,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_5335f6d5f7473715526e06d10bcfd999"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_4fbe577c26109c9f8304e19a32388307"
+                             parent="aspace_5335f6d5f7473715526e06d10bcfd999"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref108_it6" level="file">
+               <did>
+                  <unittitle>Joseph Germain's classroom,</unittitle>
+                  <unitdate datechar="creation" normal="1997-06/1997-06">June 1997</unitdate>
+                  <physdesc id="aspace_0822caef706fc56552bd6488db88d945" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_427f4e11853e404974907f97d32a3dbe"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_92ca981bccdfcb281c4f9e192994ad2d"
+                             parent="aspace_427f4e11853e404974907f97d32a3dbe"
+                             type="folder">3-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref109_gd7" level="file">
+               <did>
+                  <unittitle>Lenox school district,</unittitle>
+                  <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e4a5a370fbada380a4f6a5131d365fa8"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_d15a0a063cfe6081dd20849b245a9d2c"
+                             parent="aspace_e4a5a370fbada380a4f6a5131d365fa8"
+                             type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref110_u6n" level="file">
+               <did>
+                  <unittitle>[Miscellaneous images, primarily children in classrooms creating artwork],</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_70e6880a083f1e9347b2c1229bb63c91"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_dafe63b707b67fa5f9ec91ce4b018d82"
+                             parent="aspace_70e6880a083f1e9347b2c1229bb63c91"
+                             type="folder">6</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref111_8fz" level="file">
+               <did>
+                  <unittitle>Release forms, Carver Elementary,</unittitle>
+                  <unitdate datechar="creation" normal="1996-11/1996-11">November 1996</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0c3b623e8a1868b491706b8d14cb41e5"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_a4b6bbf65b2f910dc04871a99cef2140"
+                             parent="aspace_0c3b623e8a1868b491706b8d14cb41e5"
+                             type="folder">7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref112_zcc" level="file">
+               <did>
+                  <unittitle>Release forms, classroom shoot,</unittitle>
+                  <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                  <physdesc id="aspace_9ff3325c8d44f56fc3457f7837f92c87" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_93eda4f8acaae7eaea588e850ecb5b4e"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_2fd442709d17bfe5973e902bca038fe9"
+                             parent="aspace_93eda4f8acaae7eaea588e850ecb5b4e"
+                             type="folder">8-9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref113_fxm" level="file">
+               <did>
+                  <unittitle>Release forms, Encino School,</unittitle>
+                  <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_d07021040269dcd269dd9ede0f4f68d0"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_3e0590aac23999a35570df6df932c685"
+                             parent="aspace_d07021040269dcd269dd9ede0f4f68d0"
+                             type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref114_ubc" level="file">
+               <did>
+                  <unittitle>Release forms, Felton Elementary School,</unittitle>
+                  <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0bb7f2b60cdb05d1aaa41fd71da7579a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_247a3f0ed371b72db3c9314bdbdb16a1"
+                             parent="aspace_0bb7f2b60cdb05d1aaa41fd71da7579a"
+                             type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref115_6e3" level="file">
+               <did>
+                  <unittitle>Slides and photos from GEI events,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e848b5e556831f263acf357e9b22d971"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-5</container>
+                  <container id="aspace_590c9328a91bd567e2075239105896e4"
+                             parent="aspace_e848b5e556831f263acf357e9b22d971"
+                             type="folder">12</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref116_4lz" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Conferences, congresses, seminars, meetings</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref117_wyn" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Austin Issues II:</unittitle>
+               </did>
+               <c03 id="aspace_ref118_is6" level="file">
+                  <did>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <physdesc id="aspace_4e5040c6627daac781308d54c19a2efb" label="Container Summary">[1 of 5 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_6a253d411653917af0a52efa88164e88"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-5</container>
+                     <container id="aspace_1e0541cd6c896d5846766c72b8e9968b"
+                                parent="aspace_6a253d411653917af0a52efa88164e88"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref119_wsz" level="file">
+                  <did>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <physdesc id="aspace_524b0e935be222d27e12c9d100442649" label="Container Summary">[2-5 of 5 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_3e4541f3155e503424ac0f83c6dc07f9"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-6</container>
+                     <container id="aspace_c6b1c544466bc5c21f91b79339e44684"
+                                parent="aspace_3e4541f3155e503424ac0f83c6dc07f9"
+                                type="folder">1-4</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref120_or3" level="file">
+               <did>
+                  <unittitle>Austin Issues III,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_ce8228801d6f772e4b63a35c0d5d4bf7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-6</container>
+                  <container id="aspace_19e477b7976aaccd216dc8ac967b922d"
+                             parent="aspace_ce8228801d6f772e4b63a35c0d5d4bf7"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref121_qbr" level="file">
+               <did>
+                  <unittitle>Beyond the Three R's, volume 1,</unittitle>
+                  <unitdate datechar="creation" normal="1995-01-12/1995-01-14" type="inclusive">January 12-14, 1995</unitdate>
+                  <physdesc id="aspace_dbaf54d1295fe489617d8ccfbc40dbd3" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0679ed088261093b84419d964a83c0bd"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-6</container>
+                  <container id="aspace_e4bf0b603f684d9a384668f6bd68c50d"
+                             parent="aspace_0679ed088261093b84419d964a83c0bd"
+                             type="folder">3-4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref122_13i" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Beyond the Three R's, volume 2,</unittitle>
+                  <unitdate datechar="creation" normal="1995-01-12/1995-01-14" type="inclusive">January 12-14, 1995</unitdate>
+                  <physdesc id="aspace_edd134f11fe4ec922f83b0322a3733b7" label="Container Summary">[4 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e32314df1ae0c772e842dcf81f884f5d"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-6</container>
+                  <container id="aspace_63951cec833ecc0a97ceaabef98572c1"
+                             parent="aspace_e32314df1ae0c772e842dcf81f884f5d"
+                             type="folder">5-8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref123_xnw" level="file">
+               <did>
+                  <unittitle>Beyond the Three R's conference negatives,</unittitle>
+                  <unitdate datechar="creation" normal="1995-01-12/1995-01-14" type="inclusive">January 12-14, 1995</unitdate>
+                  <physdesc id="aspace_add4f9462e6aa29c460e6eca74ba870d" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a748e7cd9f168781c9253bcba58aeea7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-6</container>
+                  <container id="aspace_1371df6edc86b6a652595ff6c2206d02"
+                             parent="aspace_a748e7cd9f168781c9253bcba58aeea7"
+                             type="folder">9-10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref124_nla" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Contact sheets, Beyond the Three R's national conference leadership forum:</unittitle>
+               </did>
+               <c03 id="aspace_ref125_36j" level="file">
+                  <did>
+                     <unitdate certainty="approximate" datechar="creation" normal="1995/1995">circa 1995</unitdate>
+                     <physdesc id="aspace_5341b4d21834fb7b1359dbe4de278632" label="Container Summary">[1-2 of 5 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_45a07aaa2e9ee03f9c18aecd7d462457"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-6</container>
+                     <container id="aspace_855b632eb9602e563c68f56706404820"
+                                parent="aspace_45a07aaa2e9ee03f9c18aecd7d462457"
+                                type="folder">11-15</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref126_43s" level="file">
+                  <did>
+                     <unitdate certainty="approximate" datechar="creation" normal="1995/1995">circa 1995</unitdate>
+                     <physdesc id="aspace_fe8dae7c617e2e3eaf77ec31b032e390" label="Container Summary">[3-5 of 5 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_b1dc213aba40f6ed470bdd5b90d77700"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-7</container>
+                     <container id="aspace_00b83f4ed46f6cc0bb38811f23a31adc"
+                                parent="aspace_b1dc213aba40f6ed470bdd5b90d77700"
+                                type="folder">1-3</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref127_1t6" level="file">
+               <did>
+                  <unittitle>Center-sponsored seminars and conferences: Roundtable II, Seattle,</unittitle>
+                  <unitdate datechar="creation" normal="1985-12/1985-12">December 1985</unitdate>
+                  <physdesc id="aspace_44d75bf5fdd9430dc6d6d4ed9e2579a6" label="Container Summary">[6 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_10183b8db226dc58b075032adce69331"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-7</container>
+                  <container id="aspace_b8b847e54095d33fd691a9ab220b0282"
+                             parent="aspace_10183b8db226dc58b075032adce69331"
+                             type="folder">4-8</container>
+               </did>
+               <odd id="aspace_65a63053261ca5aaa22d9b2defe25e1f">
+                  <head>General note</head>
+                  <p>[Folder 6 moved to Publication information section.]</p>
+               </odd>
+            </c02>
+            <c02 id="aspace_ref130_bl0" level="file">
+               <did>
+                  <unittitle>GEI Advisory Committee meeting,</unittitle>
+                  <unitdate datechar="creation" normal="1996-10/1996-10">October 1996</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0261e0e9f78a058e0b367126f021cbe4"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-7</container>
+                  <container id="aspace_e45b3b83532fd7b6747733f93aea2ed0"
+                             parent="aspace_0261e0e9f78a058e0b367126f021cbe4"
+                             type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref131_ajf" level="file">
+               <did>
+                  <unittitle>GEI slide presentation tapes,</unittitle>
+                  <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_cd1874d6a939df27b8b1daea9c67c137"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-7</container>
+                  <container id="aspace_f992c5e9f53e0e9befb0de48ad4a2673"
+                             parent="aspace_cd1874d6a939df27b8b1daea9c67c137"
+                             type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref132_m3u" level="file">
+               <did>
+                  <unittitle>GEI slide-tape presentation, original slides,</unittitle>
+                  <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_7bfd4c7c075c3ef78dc067b963e85444"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-8</container>
+                  <container id="aspace_ea8dabcc3dc98366fe802b298eca600f"
+                             parent="aspace_7bfd4c7c075c3ef78dc067b963e85444"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref133_9bm" level="file">
+               <did>
+                  <unittitle>GEI slide presentation, master set,</unittitle>
+                  <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_36ec2618c8eceaf297471fd48c6d38c8"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-8</container>
+                  <container id="aspace_3f2eb9c7c86bc19535e0ba05fbafd9fc"
+                             parent="aspace_36ec2618c8eceaf297471fd48c6d38c8"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref134_v5h" level="file">
+               <did>
+                  <unittitle>GEI slide presentation, duplicates,</unittitle>
+                  <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_59aceec83a44e6d047044b75221ff026"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-8</container>
+                  <container id="aspace_e9bddc5a928762375d33402de0ec3239"
+                             parent="aspace_59aceec83a44e6d047044b75221ff026"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref135_ls1" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Institute/L.A. related meetings and events (#10):</unittitle>
+               </did>
+               <c03 id="aspace_ref136_xbo" level="file">
+                  <did>
+                     <unittitle>Introduction to new school districts,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ef8b9b06faf92fbaec0a79ccf86b47d9"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_71538ef856d47eb64c5e4b3d5c23cd4f"
+                                parent="aspace_ef8b9b06faf92fbaec0a79ccf86b47d9"
+                                type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref137_7sn" level="file">
+                  <did>
+                     <unittitle>Norwalk-La Mirada school district DBAE event,</unittitle>
+                     <unitdate datechar="creation" normal="1985-02-01/1985-02-01">February 1, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_e5005c4a6ce7ec57dccaae27c3619f6f"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_dd8ccf818a07e714d2ee1e477b083798"
+                                parent="aspace_e5005c4a6ce7ec57dccaae27c3619f6f"
+                                type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref138_h7u" level="file">
+                  <did>
+                     <unittitle>Superintendents advisory panel and school board presidents,</unittitle>
+                     <unitdate datechar="creation" normal="1985-02-14/1985-02-14">February 14, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_5edd133e4ff37235cbc7942708fe2007"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_0c2a1f1a8e77addd6024b5d6c0b5b334"
+                                parent="aspace_5edd133e4ff37235cbc7942708fe2007"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref139_hr9" level="file">
+                  <did>
+                     <unittitle>Bellflower Unified School District certificate award ceremony,</unittitle>
+                     <unitdate datechar="creation" normal="1985-03-21/1985-03-21">March 21, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_b1cb7ff33f563e33c1eaf57170eb7413"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_815658c4a1e3db3dceac5048cccfc8d3"
+                                parent="aspace_b1cb7ff33f563e33c1eaf57170eb7413"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref140_77p" level="file">
+                  <did>
+                     <unittitle>Laguna retreat,</unittitle>
+                     <unitdate datechar="creation" normal="1985-04-27/1985-04-27">April 27, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_049206e67a5104eed51b35f1c7ac1507"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_8c7909553a562133b5594a639d931e8d"
+                                parent="aspace_049206e67a5104eed51b35f1c7ac1507"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref141_r0g" level="file">
+                  <did>
+                     <unittitle>New school faculty meeting,</unittitle>
+                     <unitdate datechar="creation" normal="1985-05-02/1985-05-02">May 2, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_45f46b71247c13378c13a6210b969b4a"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_51ded60bea9c8df7bae43b70d8be3997"
+                                parent="aspace_45f46b71247c13378c13a6210b969b4a"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref142_8op" level="file">
+                  <did>
+                     <unittitle>Getty Institute/LA faculty and advisory committee meeting,</unittitle>
+                     <unitdate datechar="creation" normal="1985-02-22/1985-02-22">February 22, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_b4ba2926941fae8f40fca341a8c56f90"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_5180cac24abb20212aac1bb801472e0f"
+                                parent="aspace_b4ba2926941fae8f40fca341a8c56f90"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref143_7q9" level="file">
+                  <did>
+                     <unittitle>Faculty advisors meeting,</unittitle>
+                     <unitdate datechar="creation" normal="1985-05-03/1985-05-03">May 3, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_7c3d76093707ac2c37fb19c95ac3cb13"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_d61265333c3843889b27eb493a2a700b"
+                                parent="aspace_7c3d76093707ac2c37fb19c95ac3cb13"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref144_hc5" level="file">
+                  <did>
+                     <unittitle>Faculty and area coordinators meetings,</unittitle>
+                     <unitdate datechar="creation" normal="1985-05-04/1985-05-04">May 4, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ce14a8c287a1c8cb055e21ead70c2a83"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_057523dfb1a634eef7202568b431fec7"
+                                parent="aspace_ce14a8c287a1c8cb055e21ead70c2a83"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref145_duv" level="file">
+                  <did>
+                     <unittitle>Charter participant's reunion,</unittitle>
+                     <unitdate datechar="creation" normal="1985-05-16/1985-05-16">May 16, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_d2ad89e93a776194b5a2141b7532f739"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_e2f2d9294edd4aa256765a64fad151b0"
+                                parent="aspace_d2ad89e93a776194b5a2141b7532f739"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref146_z8o" level="file">
+                  <did>
+                     <unittitle>Evaluation meeting,</unittitle>
+                     <unitdate datechar="creation" normal="1985-08-30/1985-08-30">August 30, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_3bc8dba85b026c4af41338c8cba63d50"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-8</container>
+                     <container id="aspace_94c19797d187cdf601995ca92cf7f394"
+                                parent="aspace_3bc8dba85b026c4af41338c8cba63d50"
+                                type="folder">14</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref147_wq4" level="file">
+               <did>
+                  <unittitle>Kids Congress, conference on art,</unittitle>
+                  <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+                  <physdesc id="aspace_0d543043aeb910eaeb7ed4cbf0650f72" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="3 inch flat box (13 x 17)"
+                             id="aspace_de015cd9f97c398f1e0cf04382c7a280"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-16</container>
+                  <container id="aspace_55b6717473a7f41e9bd4686d887d573e"
+                             parent="aspace_de015cd9f97c398f1e0cf04382c7a280"
+                             type="folder">4-5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_164a668f6b96435794860b81641a25dd" level="file">
+               <did>
+                  <unittitle>Leadership conference negatives,</unittitle>
+                  <unitdate certainty="approximate" datechar="creation" normal="1997/1997">circa 1997</unitdate>
+                  <physdesc id="aspace_ac1f6c5d4161cfe1550b3687b3803cf9" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_5134edd351ee42255420602270ef0fc6"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-8</container>
+                  <container id="aspace_75dc0971a22a89747e20fd01557a30d1"
+                             parent="aspace_5134edd351ee42255420602270ef0fc6"
+                             type="folder">15-16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref149_ni6" level="file">
+               <did>
+                  <unittitle>Leadership conference,</unittitle>
+                  <unitdate datechar="creation" normal="1997-01/1997-01">January 1997</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f0f690a34e5fe5bb36227cb4053cc23a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-8</container>
+                  <container id="aspace_c531d72e264e758388e580623cf9019c"
+                             parent="aspace_f0f690a34e5fe5bb36227cb4053cc23a"
+                             type="folder">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref150_5to" level="file">
+               <did>
+                  <unittitle>Miscellaneous summer institutes,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_9c378bc2412b6563dfad903813314cff" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_9e74c338e3ead188535af8234fb7bb03"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-9</container>
+                  <container id="aspace_ec540cc46fd5d72f5d6f23e41652ad8e"
+                             parent="aspace_9e74c338e3ead188535af8234fb7bb03"
+                             type="folder">1-2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref151_cw7" level="file">
+               <did>
+                  <unittitle>More Teacher Institutes (#36),</unittitle>
+                  <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4c9ddaf9b0cee3c14e165989ef8c0b1a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-9</container>
+                  <container id="aspace_83186100ac73f350947c58ab2cb9eeec"
+                             parent="aspace_4c9ddaf9b0cee3c14e165989ef8c0b1a"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref152_ad1" level="file">
+               <did>
+                  <unittitle>Nebraska Regional Institute (#12),</unittitle>
+                  <unitdate certainty="approximate" datechar="creation" normal="1988/1988">circa 1988</unitdate>
+                  <physdesc id="aspace_59a1ec355e6f7f806771a06aadeadc92" label="Container Summary">[4 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_762248574ae9d28a06a3071fafdf183e"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-9</container>
+                  <container id="aspace_adfbb76a0f229493ee7cae2f15656050"
+                             parent="aspace_762248574ae9d28a06a3071fafdf183e"
+                             type="folder">4-7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref153_2sz" level="file">
+               <did>
+                  <unittitle>Photographs, negatives, slides from multiple events,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_cb3fd7de14c4274edc90d5eb4bbf0147" label="Container Summary">[5 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_04996d5e30172acedad988505ce954eb"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-9</container>
+                  <container id="aspace_fe6fd18bf58a9e32a10387631807f542"
+                             parent="aspace_04996d5e30172acedad988505ce954eb"
+                             type="folder">8-12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref154_uqb" level="file">
+               <did>
+                  <unittitle>2nd National Conference "Education in Art Future Building" photographs,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_09699229accb38ff4c11ab58493c8c3b" label="Container Summary">[4 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a873bed095a281f0fbec52c89e399119"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-10</container>
+                  <container id="aspace_2bfdb0efc5abf62214ded65ca07dd4d7"
+                             parent="aspace_a873bed095a281f0fbec52c89e399119"
+                             type="folder">2-5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref155_mdy" level="file">
+               <did>
+                  <unittitle>2nd National Conference "Education in Art Future Building" negatives and contact sheets,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_932494d8048120683222b3ab42178fd1" label="Container Summary">[3 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_46eed895308b552bed3b27841cb7afe7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-10</container>
+                  <container id="aspace_5b2899a725a92c5306fe8b9d64d347f4"
+                             parent="aspace_46eed895308b552bed3b27841cb7afe7"
+                             type="folder">6-8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref156_8zx" level="file">
+               <did>
+                  <unittitle>Second National Conference (#18),</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_22129e3fa11a0a92d12fa93a3b95dd6a" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a6a2cdb8e9d8dc0462a7ee2823878898"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-10</container>
+                  <container id="aspace_af6dae2097e193bc6b82454f31bf4dae"
+                             parent="aspace_a6a2cdb8e9d8dc0462a7ee2823878898"
+                             type="folder">9-10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref157_9aj" level="file">
+               <did>
+                  <unittitle>Snowbird meetings,</unittitle>
+                  <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f45724e6dc002dcfd3797021b845336a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-10</container>
+                  <container id="aspace_fa214cda336eea24c48279230a428168"
+                             parent="aspace_f45724e6dc002dcfd3797021b845336a"
+                             type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref158_7g7" level="file">
+               <did>
+                  <unittitle>Unidentified conferences,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_63680967b080473eae0bde02311eec8e"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-10</container>
+                  <container id="aspace_59ab5bca9d00b806fd1e612759324678"
+                             parent="aspace_63680967b080473eae0bde02311eec8e"
+                             type="folder">12</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref159_skq" level="file">
+               <did>
+                  <unittitle>Unidentified event,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_29a7ea35fef9ff933cf57369bd8012e5"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-11</container>
+                  <container id="aspace_308698e70cf0f8d06546d5164e8c80f7"
+                             parent="aspace_29a7ea35fef9ff933cf57369bd8012e5"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref160_aqi" level="file">
+               <did>
+                  <unittitle>Unidentified event[s],</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="3 inch flat box (13 x 17)"
+                             id="aspace_968037215fbfeaeb6e348968f414cec7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-16</container>
+                  <container id="aspace_09ee4e63deb008681553f4184b6c9b9a"
+                             parent="aspace_968037215fbfeaeb6e348968f414cec7"
+                             type="folder">7</container>
+               </did>
+               <odd id="aspace_d892ca69378ff733821d34a4b87c866d">
+                  <head>General note</head>
+                  <p>[14 contact sheets possibly depicting Beyond the Three R's conference.]</p>
+               </odd>
+            </c02>
+            <c02 id="aspace_ref163_tsg" level="file">
+               <did>
+                  <unittitle>Unidentified event negatives,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4d6f36145b21207c36578475e4fce49d"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-11</container>
+                  <container id="aspace_635f0a3720c0b9b5f04d9bfa662ea140"
+                             parent="aspace_4d6f36145b21207c36578475e4fce49d"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref164_miu" level="file">
+               <did>
+                  <unittitle>Unidentified slide presentation,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a03280b3ec3da4553db1d4d476d994d7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-11</container>
+                  <container id="aspace_68f916dc010d30b03fc61f52c2561b92"
+                             parent="aspace_a03280b3ec3da4553db1d4d476d994d7"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref165_eix" level="file">
+               <did>
+                  <unittitle>Wave Your Banner Project (Kid's Congress on Art),</unittitle>
+                  <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                  <physdesc id="aspace_406f027c1b5b513df493876a2dd0d02b" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4806a0be67e145c5f7a6b5b1c4de0c11"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-11</container>
+                  <container id="aspace_e3d40e42f73df30b40fac4e73919d1ac"
+                             parent="aspace_4806a0be67e145c5f7a6b5b1c4de0c11"
+                             type="folder">4-5</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref166_7br" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Adults in lectures and museums</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref167_kvc" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Adults in Museums (#6):</unittitle>
+               </did>
+               <c03 id="aspace_ref168_h64" level="file">
+                  <did>
+                     <unittitle>Getty Museum,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_42deeb69441661493e101fe9dd971aa7"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_3e295b4b832941b19ff55d2315514e70"
+                                parent="aspace_42deeb69441661493e101fe9dd971aa7"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref169_4ug" level="file">
+                  <did>
+                     <unittitle>Getty and Los Angeles County Museum of Art, Museum of Contemporary Art,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1985/1985">circa 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_fbf73061b7e940686cefb701f2aa29cc"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_fdfa07e6243ffc9493b95d2f19449fdb"
+                                parent="aspace_fbf73061b7e940686cefb701f2aa29cc"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref170_kzt" level="file">
+                  <did>
+                     <unittitle>Getty reception and tour, Newhall School District,</unittitle>
+                     <unitdate datechar="creation" normal="1985-04-12/1985-04-12">April 12, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_0358374222654042c165e6f958906bed"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_48537deaa46cb0f54079f40d88cc5578"
+                                parent="aspace_0358374222654042c165e6f958906bed"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref171_y4m" level="file">
+                  <did>
+                     <unittitle>Huntington Museum,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <physdesc id="aspace_f7a8157dfbe81b66a70d63117d620c6b" label="Container Summary">[4 of 9]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_eb982a1c6202e872ccc3acd4c1ea18c8"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_25362ee822f3800dde1743a7d6be87e8"
+                                parent="aspace_eb982a1c6202e872ccc3acd4c1ea18c8"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref172_5pw" level="file">
+                  <did>
+                     <unittitle>Los Angeles County Museum of Art,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_84e7f105a275a1b610a021f4cc699628"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_3f8d74f6094ed8a908aa883a8bded286"
+                                parent="aspace_84e7f105a275a1b610a021f4cc699628"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref173_53d" level="file">
+                  <did>
+                     <unittitle>Museum of Contemporary Art,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_6fb66b9b71de86421229d8c38be226f6"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_3908811df258ce68832eff98b603c94f"
+                                parent="aspace_6fb66b9b71de86421229d8c38be226f6"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref174_ozl" level="file">
+                  <did>
+                     <unittitle>Norton Simon,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c82ffccc788a67791f099493439fadbb"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_36d8452c9132bedf10a5e0f43cf1cb30"
+                                parent="aspace_c82ffccc788a67791f099493439fadbb"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref175_rkz" level="file">
+                  <did>
+                     <unittitle>Pacific Asia Museum,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_4daf88a69f13e4b6e8c2cca4d9f4c472"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_282d6e28187974802f6eb40a5e6e703d"
+                                parent="aspace_4daf88a69f13e4b6e8c2cca4d9f4c472"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref176_z5b" level="file">
+                  <did>
+                     <unittitle>University of California Los Angeles,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_89565e336151b119fc6e9871e2ad945d"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-11</container>
+                     <container id="aspace_24750a3c24b8f0bffce3223478f94b5e"
+                                parent="aspace_89565e336151b119fc6e9871e2ad945d"
+                                type="folder">14</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref177_0k8" level="file">
+               <did>
+                  <unittitle>Adults in lectures (#7): Getty Institute, LA,</unittitle>
+                  <unitdate datechar="creation" normal="1983/1983">1983, </unitdate>
+                  <unitdate datechar="creation" normal="1984/1984">1984</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f507645f199b75fd58f0877844a1a19d"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-11</container>
+                  <container id="aspace_3253203af57404814bf7f3e505d55e0a"
+                             parent="aspace_f507645f199b75fd58f0877844a1a19d"
+                             type="folder">15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref178_v0e" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Adults in lectures (#8):</unittitle>
+               </did>
+               <c03 id="aspace_ref179_8lm" level="file">
+                  <did>
+                     <unittitle>Observations by Institute faculty,</unittitle>
+                     <unitdate datechar="creation" normal="1985-06-19/1985-06-19">June 19, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9efe9c3e66a0486ec1026eb1e2e10f22"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-12</container>
+                     <container id="aspace_8212cec0fc6c83b4d8efeb8cd814fe2b"
+                                parent="aspace_9efe9c3e66a0486ec1026eb1e2e10f22"
+                                type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref180_32a" level="file">
+                  <did>
+                     <unittitle>Panel discussions, Moving from Theory to Action,</unittitle>
+                     <unitdate certainty="approximate" datechar="creation" normal="1985/1985">circa 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_ee6ece9ebf44b14f38ef2d5d4b08ba81"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-12</container>
+                     <container id="aspace_c4d71a61f9be567e2f78ab7bb4f51c32"
+                                parent="aspace_ee6ece9ebf44b14f38ef2d5d4b08ba81"
+                                type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref181_2y8" level="file">
+                  <did>
+                     <unittitle>Getty Institute,</unittitle>
+                     <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+                     <physdesc id="aspace_1f072ca3e60fe7ecddc302799f4704b7" label="Container Summary">[5 files]</physdesc>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_f33b1c818bba32422b83c67759459abe"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-12</container>
+                     <container id="aspace_8664d3f595e86169d7e761f5c0427b44"
+                                parent="aspace_f33b1c818bba32422b83c67759459abe"
+                                type="folder">3-7</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref182_7e2" level="file">
+               <did>
+                  <unittitle>Adults in lectures (#9): Getty Institute, LA,</unittitle>
+                  <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+                  <physdesc id="aspace_531de38f01ce0eedaa3c374c65848bbc" label="Container Summary">[3 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_4fd59e2c626d5ad65455761a9816059f"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-12</container>
+                  <container id="aspace_45e89be09b683d48c2d69db3273bbd17"
+                             parent="aspace_4fd59e2c626d5ad65455761a9816059f"
+                             type="folder">8-10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref183_bi6" level="file">
+               <did>
+                  <unittitle>Ohio Regional Institute: Adults in lectures and workshops,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_fde4922e0a71b179bd3f15c3a0320d33" label="Container Summary">[1 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_a79a21339e3ceef4f6f80f1e66f942c3"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-12</container>
+                  <container id="aspace_802ea80a3f1d8ca0edb9225fe3177c70"
+                             parent="aspace_a79a21339e3ceef4f6f80f1e66f942c3"
+                             type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref184_em4" level="file">
+               <did>
+                  <unittitle>Ohio Regional Institute: Adults in museums,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_975ee41f73f1b8e8eb20221315f0e3ce" label="Container Summary">[2 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_02ca5dc9f30d58646d10de5288ccfe5d"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_544be9a03592d667eac5197e05d2acbe"
+                             parent="aspace_02ca5dc9f30d58646d10de5288ccfe5d"
+                             type="folder">1</container>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref185_epv" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Publication information</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref186_z0t" level="file">
+               <did>
+                  <unittitle>Art News picture of Lani Duke,</unittitle>
+                  <unitdate datechar="creation" normal="1988-08/1988-08">August 1988</unitdate>
+                  <physdesc id="aspace_517529c89a269edf124dbe4344c5e940" label="Container Summary">[6 of 6]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_0a907656fa1b60ac9f2cdcf27ab32400"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-7</container>
+                  <container id="aspace_58e24fc16a6ca4f11f83e6fa2b5c2541"
+                             parent="aspace_0a907656fa1b60ac9f2cdcf27ab32400"
+                             type="folder">9</container>
+               </did>
+               <odd id="aspace_444c2710912577a2b6eeb55351e68bfb">
+                  <head>General note</head>
+                  <p>[Originally housed in binder entitled "Center-sponsored seminars and conferences." See "Conferences, congresses, seminars, meetings" for remainder of the material in this binder.]</p>
+               </odd>
+            </c02>
+            <c02 id="aspace_ref189_6r9" level="file">
+               <did>
+                  <unittitle>F. Graeme Chalmers, "Art, Education and Cultural Diversity" images and permissions,</unittitle>
+                  <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_7951172b920ae9c73028fcb2d23e2b22"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_1ff62f30f2cadf36965ed81b23f3e446"
+                             parent="aspace_7951172b920ae9c73028fcb2d23e2b22"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref190_7il" level="file">
+               <did>
+                  <unittitle>Getty photos, publications information,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_1f7802aa2bc02f3feb83f2d1e5e66cfb"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_d514be35c9884419ae455e5216a0a367"
+                             parent="aspace_1f7802aa2bc02f3feb83f2d1e5e66cfb"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref191_wlo" level="file">
+               <did>
+                  <unittitle>Publication covers,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_ec39ca2164b162f0157d95e3805735aa" label="Container Summary">[4 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_900a9e2a59e84ab8298f79a1554c8c17"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_c4e72659ad392e4f128a34f21cf703b4"
+                             parent="aspace_900a9e2a59e84ab8298f79a1554c8c17"
+                             type="folder">4-7</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref192_7ak" level="file">
+               <did>
+                  <unittitle>Unidentified photographs and slides (for book),</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_dfdc22024c739a8364d0a28cc5fb664a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_8653de390e53cc62ee35934aa5d6c679"
+                             parent="aspace_dfdc22024c739a8364d0a28cc5fb664a"
+                             type="folder">8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref193_v0a" level="file">
+               <did>
+                  <unittitle>[Unidentified photos, possibly used for publication],</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="3 inch flat box (13 x 17)"
+                             id="aspace_b214bc69d95415b6594f5884bf2c8082"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-16</container>
+                  <container id="aspace_f1393e8ad485f65a0ce1976e7fdcaf9a"
+                             parent="aspace_b214bc69d95415b6594f5884bf2c8082"
+                             type="folder">6</container>
+               </did>
+               <odd id="aspace_9afbf20638c7939ffb07e3a29cfce934">
+                  <head>General note</head>
+                  <p>[5 photographs on backings.]</p>
+               </odd>
+            </c02>
+            <c02 id="aspace_ref196_tp9" level="file">
+               <did>
+                  <unittitle>[Unidentified photos, possibly used for publication],</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="3 inch flat box (13 x 17)"
+                             id="aspace_0e52b16ed2ef24ad24b8389913a89979"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-16</container>
+                  <container id="aspace_57b7deb2cc959e4553e8c85beac1ee19"
+                             parent="aspace_0e52b16ed2ef24ad24b8389913a89979"
+                             type="folder">8</container>
+               </did>
+               <odd id="aspace_85e19f2e740bc51c5e4403fbdf97afeb">
+                  <head>General note</head>
+                  <p>[7 large color photographs, and negatives.]</p>
+               </odd>
+            </c02>
+         </c01>
+         <c01 id="aspace_ref199_10h" level="otherlevel" otherlevel="ia">
+            <did>
+               <unittitle>
+                  <emph render="bold">Miscellaneous</emph>
+               </unittitle>
+            </did>
+            <c02 id="aspace_ref200_129" level="file">
+               <did>
+                  <unittitle>Artwork from other sources,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_5d24ae05dfd2081245193641d82fcb3a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_f8e3c0a85477ce011f49d1c9b5625120"
+                             parent="aspace_5d24ae05dfd2081245193641d82fcb3a"
+                             type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref201_6io" level="file">
+               <did>
+                  <unittitle>Assorted "best of" slides,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_126c73742009dfc0f41d9268fec38d4b" label="Container Summary">[1 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_2f1e7bed7524b94f865bffb33e4e22b4"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-13</container>
+                  <container id="aspace_a8da86b760a666c65f4bf64d1da8098c"
+                             parent="aspace_2f1e7bed7524b94f865bffb33e4e22b4"
+                             type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref202_kxh" level="file">
+               <did>
+                  <unittitle>Assorted "best of" slides,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_e197fd59e8962408e67d40ace961ad72" label="Container Summary">[2 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_f765802ebfb93967813661df3b82a55f"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-14</container>
+                  <container id="aspace_0a297bda382d9b5fc51236aa66f46f7a"
+                             parent="aspace_f765802ebfb93967813661df3b82a55f"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref203_gyv" level="file">
+               <did>
+                  <unittitle>GEI Exhibition booth,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_144d51d4b652c60a5dcb58564f3de447" label="Container Summary">[1 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_460721a7bf967bf28f80be8c3693371b"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-14</container>
+                  <container id="aspace_6c23999a308c67ecfeb5c1db0060bce0"
+                             parent="aspace_460721a7bf967bf28f80be8c3693371b"
+                             type="folder">2-3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref204_k25" level="file">
+               <did>
+                  <unittitle>GEI staff, scholars, interns,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_b31c06d110e9b24447fa303abf604d77" label="Container Summary">[5 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_52839526b77f576cdd18bc7d0cae6c27"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-14</container>
+                  <container id="aspace_4f73edb46dfdacd206cc9a46bdea97fe"
+                             parent="aspace_52839526b77f576cdd18bc7d0cae6c27"
+                             type="folder">4-8</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref205_he9" level="file">
+               <did>
+                  <unittitle>Images on loan,</unittitle>
+                  <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_e9d7be05827f20ef4bf1003ba3dc12a5"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-14</container>
+                  <container id="aspace_0d7b8f9f22d7bc1bec964ebb5553bbf0"
+                             parent="aspace_e9d7be05827f20ef4bf1003ba3dc12a5"
+                             type="folder">9</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref206_p1j" level="file">
+               <did>
+                  <unittitle>Image return forms,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_ff74a82b01adc332a206557057eb0c4b"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-14</container>
+                  <container id="aspace_77c27e00e4fa72852b750134057033ca"
+                             parent="aspace_ff74a82b01adc332a206557057eb0c4b"
+                             type="folder">10</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref207_3te" level="file">
+               <did>
+                  <unittitle>Lani Duke farewell reception,</unittitle>
+                  <unitdate datechar="creation" normal="1998-06-29/1998-06-29">June 29, 1998</unitdate>
+                  <physdesc id="aspace_629f5a0583fd852df635d4ddee05eed0" label="Container Summary">[1 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_fc2c118a8337fdfb9867238c32c2f627"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-14</container>
+                  <container id="aspace_a4fd24d2a984f0eaee839d039acd60c0"
+                             parent="aspace_fc2c118a8337fdfb9867238c32c2f627"
+                             type="folder">11</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref208_eca" level="file">
+               <did>
+                  <unittitle>Lani Duke farewell reception,</unittitle>
+                  <unitdate datechar="creation" normal="1998-06-29/1998-06-29">June 29, 1998</unitdate>
+                  <physdesc id="aspace_6dc2112af3a6fa540378bc191e55eb18" label="Container Summary">[2 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_7bc6196f1c06eb2a7b5acc9c5f3b14c4"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_cf0c9766031d03e31e0b0cdf1545eceb"
+                             parent="aspace_7bc6196f1c06eb2a7b5acc9c5f3b14c4"
+                             type="folder">1</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref209_xyy" level="file">
+               <did>
+                  <unittitle>Memo from R. Harsh re: photography,</unittitle>
+                  <unitdate datechar="creation" normal="1995-04-26/1995-04-26">April 26, 1995</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_86a6dcb320ddfbbecca2ef9e53075fcb"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_6dd83d8525da1eaf55a86251ef7a0f44"
+                             parent="aspace_86a6dcb320ddfbbecca2ef9e53075fcb"
+                             type="folder">2</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref210_7ap" level="file">
+               <did>
+                  <unittitle>Memos, forms re: policies and procedures,</unittitle>
+                  <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                  <physdesc id="aspace_accf7f54d6af11218e55fc5234814c9b" label="Container Summary">[1 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_de8961b2ece76fefd0b75745be2d6ee3"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_65fd24932cec1ac178245972085dfd95"
+                             parent="aspace_de8961b2ece76fefd0b75745be2d6ee3"
+                             type="folder">3</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref211_97q" level="file">
+               <did>
+                  <unittitle>Memos, forms re: policies and procedures,</unittitle>
+                  <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                  <physdesc id="aspace_94750e56296e445dbcd7124cbe6aa610" label="Container Summary">[2 of 2]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_980b713f8989c50e9d9589063590716b"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_798e88d2747641f6691c91a8d2c10718"
+                             parent="aspace_980b713f8989c50e9d9589063590716b"
+                             type="folder">4</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref212_4ln" level="file">
+               <did>
+                  <unittitle>Memo re: Regional Institute Grant Program photo documentation project,</unittitle>
+                  <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b260635d475ef1b738a5614b36af75e7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_aa5be2bfdf398361f6454afebfa3e413"
+                             parent="aspace_b260635d475ef1b738a5614b36af75e7"
+                             type="folder">5</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref213_b0x" level="otherlevel" otherlevel="ia">
+               <did>
+                  <unittitle>Miscellaneous (#14):</unittitle>
+               </did>
+               <c03 id="aspace_ref214_029" level="file">
+                  <did>
+                     <unittitle>Title House slides,</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_179252136cd9a4a3e5d1ffb379a7abc8"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_45d3d5c4f69ace948b0e34b410e3be41"
+                                parent="aspace_179252136cd9a4a3e5d1ffb379a7abc8"
+                                type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref215_451" level="file">
+                  <did>
+                     <unittitle>Demonstin Residence,</unittitle>
+                     <unitdate datechar="creation" normal="1985-04-15/1985-04-15">April 15, 1985</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c02b2ebcb72ba0a38a55f2a219e8903d"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_6614147b6837573b2944cd1a82a586cf"
+                                parent="aspace_c02b2ebcb72ba0a38a55f2a219e8903d"
+                                type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref216_e3i" level="file">
+                  <did>
+                     <unittitle>Works [of] art from the J. Paul Getty Museum,</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_e25f37a2307976f975f470280fdbf805"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_e7a7be903e08d7f8a762b77ee7eb917b"
+                                parent="aspace_e25f37a2307976f975f470280fdbf805"
+                                type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref217_dsl" level="file">
+                  <did>
+                     <unittitle>Individual works from Huntington Museum,</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_9b267d549f6f63e78eb4377ab188388b"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_3a2a67bb59357f3c940aab828cf875b6"
+                                parent="aspace_9b267d549f6f63e78eb4377ab188388b"
+                                type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref218_hnk" level="file">
+                  <did>
+                     <unittitle>Murals in Santa Monica and works from the Norton Simon Museum,</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_1969ed62d95a54042995656a3260fbbd"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_547dd17e586cde3e652fccd3c804dde1"
+                                parent="aspace_1969ed62d95a54042995656a3260fbbd"
+                                type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref219_beo" level="file">
+                  <did>
+                     <unittitle>Works from the Pacific Asia Museum,</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_c58d8b64c4f19b90d6cefaaad10103a7"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_ed2874906fa8c68f4da43d9e40d45136"
+                                parent="aspace_c58d8b64c4f19b90d6cefaaad10103a7"
+                                type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref220_1xe" level="file">
+                  <did>
+                     <unittitle>Works from Museum of Cultural History, UCLA,</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_a46ad1fe6a0ed845abf34bf61dbcd7a6"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_95af52d6bccc57c1d046035b00efeb2f"
+                                parent="aspace_a46ad1fe6a0ed845abf34bf61dbcd7a6"
+                                type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 id="aspace_ref221_b23" level="file">
+                  <did>
+                     <unittitle>Cartoon slides for Center "roasts",</unittitle>
+                     <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                     <container altrender="Hollinger - Standard Legal "
+                                id="aspace_a7e55beb7cfe1ddfb39d57df671ba841"
+                                label="Mixed Materials"
+                                type="box">1999.IA.05-15</container>
+                     <container id="aspace_1e5707b7c23155e384239135ed33d929"
+                                parent="aspace_a7e55beb7cfe1ddfb39d57df671ba841"
+                                type="folder">13</container>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="aspace_ref222_s7y" level="file">
+               <did>
+                  <unittitle>[Miscellaneous images],</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <physdesc id="aspace_928cbddba09384a44a652ca0ceb03fd0" label="Container Summary">[2 files]</physdesc>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_5f9f28091f008ba94700d06df3dd3c91"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_77c2ade727d4ba4e42538c6089231737"
+                             parent="aspace_5f9f28091f008ba94700d06df3dd3c91"
+                             type="folder">14-15</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref223_ph5" level="file">
+               <did>
+                  <unittitle>Release forms,</unittitle>
+                  <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_7fd15ec171c92d86e715d259c432628a"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_ae79ad5d551e9fd8f31c8df88fe9906d"
+                             parent="aspace_7fd15ec171c92d86e715d259c432628a"
+                             type="folder">16</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref224_lp2" level="file">
+               <did>
+                  <unittitle>Release forms,</unittitle>
+                  <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_b2e04f00c0f76b28b61505a5195d79ba"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_c1619ebda40e31c5ced9072a0c6443bf"
+                             parent="aspace_b2e04f00c0f76b28b61505a5195d79ba"
+                             type="folder">17</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref225_ezy" level="file">
+               <did>
+                  <unittitle>Release forms,</unittitle>
+                  <unitdate datechar="creation" normal="1996-11/1996-11">November 1996</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_00f5aaa1db9d1d109c788c61b2d9d2a7"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_a103faef353de9dcbd99b0e80c9fa109"
+                             parent="aspace_00f5aaa1db9d1d109c788c61b2d9d2a7"
+                             type="folder">18</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref226_ww5" level="file">
+               <did>
+                  <unittitle>Release forms,</unittitle>
+                  <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_27f1cf44eceb4caf261ce029bd643389"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_976cc2e5d07732ebef71779febd7dfbf"
+                             parent="aspace_27f1cf44eceb4caf261ce029bd643389"
+                             type="folder">19</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref227_ikr" level="file">
+               <did>
+                  <unittitle>Slide labels,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_61f87e70d6ac758ea8e8d2064aa53f85"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_380dd939b68d9ab675c5a017c8e9546d"
+                             parent="aspace_61f87e70d6ac758ea8e8d2064aa53f85"
+                             type="folder">20</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref228_f9x" level="file">
+               <did>
+                  <unittitle>Unidentified event,</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_28b28343403ef2ce162e9a1e7df861da"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_9b26550616cc60943991d9350d6d66cb"
+                             parent="aspace_28b28343403ef2ce162e9a1e7df861da"
+                             type="folder">21</container>
+               </did>
+            </c02>
+            <c02 id="aspace_ref229_oyp" level="file">
+               <did>
+                  <unittitle>Video stills (#28),</unittitle>
+                  <unitdate certainty="inferred" datechar="creation" normal="1985/1985">undated</unitdate>
+                  <container altrender="Hollinger - Standard Legal "
+                             id="aspace_54b674da88696bb8eae78fba8a83c7c1"
+                             label="Mixed Materials"
+                             type="box">1999.IA.05-15</container>
+                  <container id="aspace_76ab5f985bbcf955f7dfd3da2a551bc9"
+                             parent="aspace_54b674da88696bb8eae78fba8a83c7c1"
+                             type="folder">22</container>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
