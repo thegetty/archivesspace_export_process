@@ -2,6 +2,7 @@ version: "3.9"
    
 services:
   jupyter:
+    platform: linux/amd64
     build:
       context: .
       dockerfile: Dockerfile
