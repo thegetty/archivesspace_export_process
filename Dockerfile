@@ -3,7 +3,7 @@
 ARG REGISTRY=quay.io
 ARG OWNER=jupyter
 ARG BASE_CONTAINER=$REGISTRY/$OWNER/scipy-notebook
-FROM $BASE_CONTAINER
+FROM --platform=linux/amd64 $BASE_CONTAINER
 
 USER root
 ENV GRANT_SUDO yes
