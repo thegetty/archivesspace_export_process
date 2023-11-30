@@ -6,7 +6,6 @@ ARG BASE_CONTAINER=$REGISTRY/$OWNER/scipy-notebook
 FROM --platform=linux/amd64 $BASE_CONTAINER
 
 USER root
-ENV GRANT_SUDO yes
 
 RUN apt-get update && \
     apt-get install -y ca-certificates && \
@@ -18,8 +17,6 @@ RUN apt-get update && \
 
 ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64/
 RUN export JAVA_HOME
-
-USER ${NB_UID}
 
 ARG NEXUS_USER
 ARG NEXUS_PASSWORD
@@ -48,6 +45,8 @@ archesapiclient==1.1.9 && \
     fix-permissions "${CONDA_DIR}" && \
     fix-permissions "/home/${NB_USER}"
 
+USER ${NB_UID}
+
 WORKDIR /home/jovyan
 
 RUN wget https://github.com/hudmol/archivesspace_export_service/releases/download/1.5/archivesspace_export_service-v1.5.zip && \
@@ -55,6 +54,3 @@ RUN wget https://github.com/hudmol/archivesspace_export_service/releases/downloa
     
 
 COPY config/* archivesspace_export_service/exporter_app/config/
-
-#unzip exporter service (volume could be causing issue)
-#change user permissions
