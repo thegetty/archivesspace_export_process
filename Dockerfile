@@ -49,14 +49,19 @@ archesapiclient==1.1.9 && \
     fix-permissions "${CONDA_DIR}" && \
     fix-permissions "/home/${NB_USER}"
 
-#copy in ead_processing folder for upload portion of notebook 
-COPY upload_scripts upload_scripts/
+USER ${NB_UID}
+#get all updated config files for archivesspace-exporter app and scripts 
+RUN wget https://github.com/thegetty/archivesspace_export_process/archive/main.zip && \
+    unzip "main.zip" && \
+    rm "main.zip"
 
+USER root
+#copy in folder with scripts for the upload portion of notebook 
+RUN mv /home/jovyan/archivesspace_export_process-main/upload_scripts/ upload_scripts/
 #create mounted data directories
 RUN mkdir /data-staging && chown ${NB_UID} /data-staging
 
 USER ${NB_UID}
-
 WORKDIR /home/jovyan
 
 #unzip copy of exporter app for IA process, rename, and remove zip
@@ -70,17 +75,17 @@ RUN wget https://github.com/hudmol/archivesspace_export_service/releases/downloa
     unzip archivesspace_export_service-v1.5.zip  && \
     rm archivesspace_export_service-v1.5.zip
 
-#copy in necessary files/updates for SC and IA 
-COPY config/* archivesspace_export_service/exporter_app/config/
-COPY job_state_storage.rb archivesspace_export_service/exporter_app/lib/
-COPY sc_export_app_files/log_manager.rb archivesspace_export_service/exporter_app/lib/
-COPY sc_export_app_files/export_ead_task.rb archivesspace_export_service/exporter_app/tasks/
-COPY sc_export_app_files/exporter_app.rb archivesspace_export_service/exporter_app/
+#copy in necessary files/updates for SC 
+RUN mv /home/jovyan/archivesspace_export_process-main/config/* archivesspace_export_service/exporter_app/config/ && \
+mv /home/jovyan/archivesspace_export_process-main/sc_export_app_files/log_manager.rb archivesspace_export_service/exporter_app/lib/ && \
+mv /home/jovyan/archivesspace_export_process-main/sc_export_app_files/export_ead_task.rb archivesspace_export_service/exporter_app/tasks/ && \
+mv /home/jovyan/archivesspace_export_process-main/sc_export_app_files/exporter_app.rb archivesspace_export_service/exporter_app/
 
-#IA
-COPY config_ia/* archivesspace_export_service_IA/exporter_app/config/
-COPY job_state_storage.rb archivesspace_export_service_IA/exporter_app/lib/
-COPY ia_export_app_files/log_manager.rb archivesspace_export_service_IA/exporter_app/lib/
-COPY ia_export_app_files/export_ead_task.rb archivesspace_export_service_IA/exporter_app/tasks/
-COPY ia_export_app_files/exporter_app.rb archivesspace_export_service_IA/exporter_app/
+#copy in necessary files/updates for IA
+RUN mv /home/jovyan/archivesspace_export_process-main/config_ia/ archivesspace_export_service_IA/exporter_app/config/ && \
+mv /home/jovyan/archivesspace_export_process-main/ia_export_app_files/log_manager.rb archivesspace_export_service_IA/exporter_app/lib/ && \
+mv /home/jovyan/archivesspace_export_process-main/ia_export_app_files/export_ead_task.rb archivesspace_export_service_IA/exporter_app/tasks/ && \
+mv /home/jovyan/archivesspace_export_process-main/ia_export_app_files/exporter_app.rb archivesspace_export_service_IA/exporter_app/
 
+RUN cp /home/jovyan/archivesspace_export_process-main/job_state_storage.rb archivesspace_export_service/exporter_app/lib/ && \
+cp /home/jovyan/archivesspace_export_process-main/job_state_storage.rb archivesspace_export_service_IA/exporter_app/lib/ 
