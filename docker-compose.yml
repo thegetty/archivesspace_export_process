@@ -10,9 +10,10 @@ services:
         - NEXUS_USER=${NEXUS_USER}
         - NEXUS_PASSWORD=${NEXUS_PASSWORD}
     ports:
-      - "8888:8888"
+      - "80:80"
     volumes:
       - ./notebooks:/home/jovyan/notebooks
+      - /mnt/or-stg-task-management-worker-data:/data-staging
     env_file: 
       - .env.base
       - .env
